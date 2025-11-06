@@ -1,0 +1,1060 @@
+company,valuation,date_joined,city,country/region,continent,year_founded,funding,select_investors,funding_currency,industry,years_to_unicorn
+Bytedance,180,2017-04-07,Beijing,China,Asia,2012,8,"['Sequoia Capital China', ' SIG Asia Investments', ' Sina Weibo', ' Softbank Group']",B,artificial intelligence,5
+SpaceX,100,2012-12-01,Hawthorne,United States,North America,2002,7,"['Founders Fund', ' Draper Fisher Jurvetson', ' Rothenberg Ventures']",B,other,10
+SHEIN,100,2018-07-03,Shenzhen,China,Asia,2008,2,"['Tiger Global Management', ' Sequoia Capital China', ' Shunwei Capital Partners']",B,e-commerce & direct-to-consumer,10
+Stripe,95,2014-01-23,San Francisco,United States,North America,2010,2,"['Khosla Ventures', ' LowercaseCapital', ' capitalG']",B,fintech,4
+Klarna,46,2011-12-12,Stockholm,Sweden,Europe,2005,4,"['Institutional Venture Partners', ' Sequoia Capital', ' General Atlantic']",B,fintech,6
+Canva,40,2018-01-08,Surry Hills,Australia,Oceania,2012,572,"['Sequoia Capital China', ' Blackbird Ventures', ' Matrix Partners']",M,internet software & services,6
+Checkout.com,40,2019-05-02,London,United Kingdom,Europe,2012,2,"['Tiger Global Management', ' Insight Partners', ' DST Global']",B,fintech,7
+Instacart,39,2014-12-30,San Francisco,United States,North America,2012,3,"['Khosla Ventures', ' Kleiner Perkins Caufield & Byers', ' Collaborative Fund']",B,"supply chain, logistics, & delivery",2
+JUUL Labs,38,2017-12-20,San Francisco,United States,North America,2015,14,['Tiger Global Management'],B,consumer & retail,2
+Databricks,38,2019-02-05,San Francisco,United States,North America,2013,3,"['Andreessen Horowitz', ' New Enterprise Associates', ' Battery Ventures']",B,data management & analytics,6
+Revolut,33,2018-04-26,London,United Kingdom,Europe,2015,2,"['index Ventures', ' DST Global', ' Ribbit Capital']",B,fintech,3
+Epic Games,32,2018-10-26,Cary,United States,North America,1991,7,"['Tencent Holdings', ' KKR', ' Smash Ventures']",B,other,27
+FTX,32,2021-07-20,Unknown,Bahamas,North America,2018,2,"['Sequoia Capital', ' Thoma Bravo', ' Softbank']",B,fintech,3
+Fanatics,27,2012-06-06,Jacksonville,United States,North America,2002,4,"['SoftBank Group', ' Andreessen Horowitz', ' Temasek Holdings']",B,e-commerce & direct-to-consumer,10
+Chime,25,2019-03-05,San Francisco,United States,North America,2013,2,"['Forerunner Ventures', ' Crosslink Capital', ' Homebrew']",B,fintech,6
+BYJU's,22,2017-07-25,Bengaluru,India,Asia,2008,4,"['Tencent Holdings', ' Lightspeed India Partners', ' Sequoia Capital India']",B,edtech,9
+J&T Express,20,2021-04-07,Jakarta,Indonesia,Asia,2015,5,"['Hillhouse Capital Management', ' Boyu Capital', ' Sequoia Capital China']",B,"supply chain, logistics, & delivery",6
+Xiaohongshu,20,2016-03-31,Shanghai,China,Asia,2013,918,"['GGV Capital', ' ZhenFund', ' Tencent']",M,e-commerce & direct-to-consumer,3
+Miro,18,2022-01-05,San Francisco,United States,North America,2011,476,"['Accel', ' AltaIR Capital', ' Technology Crossover Ventures']",M,internet software & services,11
+Yuanfudao,17,2017-05-31,Beijing,China,Asia,2012,4,"['Tencent Holdings', ' Warbug Pincus', ' IDG Capital']",B,edtech,5
+Rapyd,15,2019-12-03,London,United Kingdom,Europe,2016,770,"['Target Global', ' General Catalyst', ' Durable Capital Partners']",M,fintech,3
+Discord,15,2018-04-20,San Francisco,United States,North America,2012,979,"['Benchmark', ' Greylock Partners', ' Tencent Holdings']",M,internet software & services,6
+Genki Forest,15,2020-03-01,Beijing,China,Asia,2016,721,"['Sequoia Capital China', ' Longfor Capitalm', ' Gaorong Capital']",M,consumer & retail,4
+goPuff,15,2020-10-08,Philadelphia,United States,North America,2013,3,"['Accel', ' Softbank Group', ' Anthos Capital']",B,e-commerce & direct-to-consumer,7
+Blockchain.com,14,2021-02-17,London,United Kingdom,Europe,2011,490,"['Lightspeed Venture Partners', ' Google Ventures', ' Lakestar']",M,fintech,10
+Plaid,13,2018-12-11,San Francisco,United States,North America,2012,734,"['New Enterprise Associates', ' Spar Capital', ' Index Ventures']",M,fintech,6
+Devoted Health,13,2018-10-16,Waltham,United States,North America,2017,2,"['Andreessen Horowitz', ' F-Prime Capital', ' Venrock']",B,health,1
+OpenSea,13,2021-07-20,New York,United States,North America,2017,427,"['Andreessen Horowitz', ' Thirty Five Ventures', ' Sound Ventures']",M,e-commerce & direct-to-consumer,4
+Grammarly,13,2019-10-10,San Francisco,United States,North America,2009,400,"['General Catalyst', ' Institutional Venture Partners', ' Breyer Capital']",M,internet software & services,10
+Argo AI,12,2019-07-12,Pittsburgh,United States,North America,2016,4,"['Volkswagen Group', ' Ford Autonomous Vehicles']",B,artificial intelligence,3
+Northvolt,12,2019-06-12,Stockholm,Sweden,Europe,2016,4,"['Vattenfall', ' Volkswagen Group', ' Goldman Sachs']",B,other,3
+Faire,12,2019-10-30,San Francisco,United States,North America,2017,1,"['Khosla Ventures', ' Forerunner Ventures', ' Sequoia Capital']",B,artificial intelligence,2
+Airtable,12,2018-11-15,San Francisco,United States,North America,2013,1,"['Caffeinated Capital', ' CRV', ' Founder Collective']",B,internet software & services,5
+Brex,12,2018-10-05,San Francisco,United States,North America,2017,1,"['DST Global', ' Ribbit Capital', ' Greenoaks Capital Management']",B,fintech,1
+Getir,12,2021-03-26,Istanbul,Turkey,Europe,2015,2,"['Tiger Global Management', ' Sequoia Capital', ' Revo Capital']",B,e-commerce & direct-to-consumer,6
+Biosplice Therapeutics,12,2018-08-06,San Diego,United States,North America,2008,799,"['Vickers Venture Partners', ' IKEA GreenTech']",M,health,10
+Bitmain,12,2018-07-06,Beijing,China,Asia,2015,765,"['Coatue Management', ' Sequoia Capital China', ' IDG Capital']",M,hardware,3
+GoodLeap,12,2021-10-13,Roseville,United States,North America,2003,800,"['New Enterprise Associates', ' BDT Capital Partners', ' Davidson Kempner Capital Management']",M,internet software & services,18
+Xingsheng Selected,12,2020-07-22,Changsha,China,Asia,2009,5,"['KKR', ' Tencent Holdings', ' Sequoia Capital China']",B,e-commerce & direct-to-consumer,11
+ZongMu Technology,11,2021-06-03,Shanghai,China,Asia,2013,376,"['LTW Capital', ' Legend Capital', ' Qualcomm Ventures']",M,auto & transportation,8
+Bolt,11,2018-05-29,Tallinn,Estonia,Europe,2013,1,"['Didi Chuxing', ' Diamler', ' TMT Investments']",B,auto & transportation,5
+Swiggy,11,2018-06-21,Bengaluru,India,Asia,2014,5,"['Accel India', ' SAIF Partners', ' Norwest Venture Partners']",B,"supply chain, logistics, & delivery",4
+Weilong Foods,11,2021-05-08,Luohe,China,Asia,1999,558,"['Tencent Holdings', ' Hillhouse Capital Management', ' Yunfeng Capital']",M,consumer & retail,22
+Global Switch,11,2016-12-22,London,United Kingdom,Europe,1998,5,"['Aviation Industry Corporation of China', ' Essence Financial', ' Jiangsu Sha Steel Group']",B,hardware,18
+Celonis,11,2018-06-26,Munich,Germany,Europe,2011,1,"['Accel', ' 83North']",B,data management & analytics,7
+Zuoyebang,10,2018-07-18,Beijing,China,Asia,2014,3,"['Sequoia Capital China', ' Xiang He Capital', ' GGV Capital']",B,edtech,4
+Ripple,10,2019-12-20,San Francisco,United States,North America,2012,294,"['IDG Capital', ' Venture51', ' Lightspeed Venture Partners']",M,fintech,7
+OYO Rooms,10,2018-09-25,Gurugram,India,Asia,2012,3,"['SoftBank Group', ' Sequoia Capital India', 'Lightspeed India Partners']",B,travel,6
+OutSystems,10,2018-06-05,Boston,United States,North America,2001,572,"['KKR', ' ES Ventures', ' North Bridge Growth Equity']",M,internet software & services,17
+ServiceTitan,10,2018-11-14,Glendale,United States,North America,2012,1,"['Bessemer Venture Partners', ' ICONIQ Capital', ' Battery Ventures']",B,internet software & services,6
+Alchemy,10,2021-10-28,San Francisco,United States,North America,2017,564,"['DFJ Growth Fund', ' Coatue Management', ' Addition']",M,fintech,4
+Chehaoduo,10,2016-03-12,Beijing,China,Asia,2015,4,"['Sequoia Capital China', ' GX Capital']",B,e-commerce & direct-to-consumer,1
+Digital Currency Group,10,2021-11-01,New York,United States,North America,2015,1,"['Ribbit Capital', ' capitalG', ' Softbank Group']",B,fintech,6
+Figma,10,2020-04-30,San Francisco,United States,North America,2012,333,"['Index Ventures', ' Greylock Partners', ' Kleiner Perkins Caufield & Byers']",M,internet software & services,8
+Gusto,10,2015-12-18,San Francisco,United States,North America,2011,691,"['General Catalyst Partners', ' Google Ventures', ' Kleiner Perkins Caufield & Byers']",M,fintech,4
+Lalamove,10,2019-02-21,Cheung Sha Wan,Hong Kong,Asia,2013,2,"['MindWorks Ventures', ' Shunwei Capital Partners', ' Xiang He Capital']",B,"supply chain, logistics, & delivery",6
+Notion Labs,10,2020-04-01,San Francisco,United States,North America,2016,343,"['Index Ventures', ' Draft Ventures', ' Felicis Ventures']",M,internet software & services,4
+reddit,10,2017-07-31,San Francisco,United States,North America,2005,1,"['Y Combinator', ' Sequoia Capital', ' Coatue Management']",B,internet software & services,12
+Talkdesk,10,2018-10-03,San Francisco,United States,North America,2011,497,"['DJF', ' Salesforce Ventures', ' Storm Ventures']",M,internet software & services,7
+Thrasio,10,2020-07-15,Walpole,United States,North America,2018,2,"['Upper90', ' RiverPark Ventures', ' Advent International']",B,other,2
+Dunamu,9,2021-07-22,Seoul,South Korea,Asia,2012,71,"['Qualcomm Ventures', ' Woori Investment', ' Hanwha Investment & Securities']",M,fintech,9
+Yanolja,9,2019-06-10,Seoul,South Korea,Asia,2005,2,"['SBI Investment Korea', ' Partners Investment', ' GIC']",B,travel,14
+Pony.ai,9,2018-07-11,Fremont,United States,North America,2016,1,"['Sequoia Capital China', ' IDG Capital', ' DCM Ventures']",B,artificial intelligence,2
+Nuro,9,2019-02-11,Mountain View,United States,North America,2016,2,"['SoftBank Group', ' Greylock Partners', ' Gaorong Capital']",B,auto & transportation,3
+Snyk,9,2020-01-21,Boston,United States,North America,2015,1,"['BOLDstart Ventures', ' Google Ventures', ' Accel']",B,cybersecurity,5
+Kavak,9,2020-10-01,Lerma de Villada,Mexico,North America,2016,2,"['DST Global', ' SoftBank Group', ' Mountain Nazca']",B,e-commerce & direct-to-consumer,4
+N26,9,2019-01-10,Berlin,Germany,Europe,2013,2,"['Redalpine Venture Partners', ' Earlybird Venture Capital', ' Valar Ventures']",B,fintech,6
+Klaviyo,9,2020-11-17,Boston,United States,North America,2012,679,"['Summit Partners', ' Accel', ' Astral Capital']",M,internet software & services,8
+Niantic,9,2017-11-24,San Francisco,United States,North America,2015,770,"['Nintendo', ' Google', ' Pokemon Company International', ' Spark Capital']",M,mobile & telecommunications,2
+Tanium,9,2015-03-31,Kirkland,United States,North America,2007,775,"['Andreessen Horowitz', ' Nor-Cal Invest', ' TPG Growth']",M,cybersecurity,8
+Dream11,8,2019-04-09,Mumbai,India,Asia,2007,2,"['Kaalari Capital', ' Tencent Holdings', ' Steadview Capital']",B,internet software & services,12
+DJI Innovations,8,2015-01-23,Shenzhen,China,Asia,2006,105,"['Accel Partners', ' Sequoia Capital']",M,hardware,9
+Netskope,8,2018-11-13,Santa Clara,United States,North America,2012,1,"['Lightspeed Venture Partners', ' Social Capital', ' Accel']",B,cybersecurity,6
+Razorpay,8,2020-10-11,Bengaluru,India,Asia,2013,742,"['Sequoia Capital India', ' Tiger Global Management', ' Matrix Partners India']",M,fintech,7
+Dapper Labs,8,2021-03-30,Vancouver,Canada,North America,2018,607,"['Union Square Ventures', ' Venrock', ' Andreessen Horowitz']",M,fintech,3
+Lacework,8,2021-01-07,San Jose,United States,North America,2015,2,"['Sutter Hill Ventures', ' Liberty Global Ventures', ' Coatue Management']",B,cybersecurity,6
+Tipalti,8,2020-10-06,San Mateo,United States,North America,2010,549,"['01 Advisors', ' Zeev Ventures', ' Group 11']",M,fintech,10
+Hopin,8,2020-11-10,London,United Kingdom,Europe,2019,1,"['Accel', ' Northzone Ventures', ' Institutional Venture Partners']",B,internet software & services,1
+Caris Life Sciences,8,2021-05-12,Irving,United States,North America,1996,1,"['Sixth Street Partners', ' OrbiMed Advisors', ' Highland Capital Management']",B,health,25
+Ramp,8,2021-03-29,New York,United States,North America,2019,660,"['D1 Capital Partners', ' Stripe', ' Coatue Management']",M,fintech,2
+Tempus,8,2018-03-21,Chicago,United States,North America,2015,820,"['New Enterprise Associates', ' T. Rowe Associates', ' Lightbank']",M,health,3
+Fireblocks,8,2021-07-27,New York,United States,North America,2018,1,"['Tenaya Capital', ' Coatue Management', ' Stripes Group']",B,fintech,3
+Flexport,8,2018-04-30,San Francisco,United States,North America,2013,2,"['Bloomberg Beta', ' Founders Fund', ' First Round Capital']",B,"supply chain, logistics, & delivery",5
+National Stock Exchange of India,7,2020-07-01,Mumbai,India,Asia,1998,297,"['TA Associates', ' SoftBank Group', ' GS Growth']",M,fintech,22
+Meicai,7,2016-06-22,Beijing,China,Asia,2014,1,"['Tiger Global Management', ' Blue Lake Capital', ' ZhenFund']",B,mobile & telecommunications,2
+Impossible Foods,7,2019-05-13,Redwood City,United States,North America,2011,2,"['Khosla Ventures', ' Horizons Ventures', ' Temasek Holdings']",B,consumer & retail,8
+CRED,7,2021-04-06,Bengaluru,India,Asia,2018,922,"['Tiger Global Management', ' DST Global', ' Sequoia Capital India']",M,fintech,3
+Attentive,7,2020-09-23,Hoboken,United States,North America,2016,863,"['NextView Ventures', ' Eniac Ventures', ' Sequoia Capital']",M,mobile & telecommunications,4
+Ola Cabs,7,2014-10-27,Bengaluru,India,Asia,2010,4,"['Accel Partners', ' SoftBank Group', ' Sequoia Capital']",B,auto & transportation,4
+Rippling,7,2020-08-04,San Francisco,United States,North America,2017,447,"['Initialized Capital', ' Y Combinator', ' Kleiner Perkins Caufield & Byers']",M,internet software & services,3
+Carta,7,2019-05-06,San Francisco,United States,North America,2012,1,"['Menlo Ventures', ' Spark Capital', ' Union Square Ventures']",B,fintech,7
+Toss,7,2018-12-09,Seoul,South Korea,Asia,2013,844,"['Bessemer Venture Partners', ' Qualcomm Ventures', ' Kleiner Perkins Caufield & Byers']",M,fintech,5
+Ziroom,7,2018-01-17,Beijing,China,Asia,2011,2,"['Sequoia Capital China', ' Warburg Pincus', ' General Catalyst']",B,e-commerce & direct-to-consumer,7
+Scale AI,7,2019-08-05,San Francisco,United States,North America,2018,603,"['Accel', ' Y Combinator', ' Index Ventures']",M,artificial intelligence,1
+Gong,7,2020-08-12,Palo Alto,United States,North America,2015,583,"['Norwest Venture Partners', ' Next World Capital', ' Wing Venture Capital']",M,artificial intelligence,5
+TripActions,7,2018-11-08,Palo Alto,United States,North America,2015,912,"['Andreessen Horowitz', ' Lightspeed Venture Partners', ' Zeev Ventures']",M,travel,3
+1Password,7,2021-07-08,Toronto,Canada,North America,2005,920,"['Slack Fund', ' Accel', ' Skip Capital']",M,cybersecurity,16
+Automation Anywhere,7,2018-07-02,San Jose,United States,North America,2003,849,"['General Atlantic', ' Goldman Sachs', ' New Enterprise Associates']",M,artificial intelligence,15
+Gemini,7,2021-11-19,New York,United States,North America,2015,424,"['Morgan Creek Digital', ' Marcy Venture Partners', ' 10T Fund']",M,fintech,6
+ConsenSys,7,2021-11-17,New York,United States,North America,2014,660,"['Third Point', ' Electric Capital', ' Coinbase Ventures']",M,fintech,7
+Ro,7,2020-07-27,New York,United States,North America,2017,1,"['Initialized Capital', ' General Catalyst', ' SignalFire']",B,health,3
+Black Unicorn Factory,6,2021-05-20,Los Angeles,United States,North America,2020,645,['Barter Ventures'],M,other,1
+Easyhome,6,2018-02-12,Beijing,China,Asia,1999,2,"['Alibaba Group', ' Boyu Capital', ' Borui Capital']",B,consumer & retail,19
+WeDoctor,6,2015-09-22,Hangzhou,China,Asia,2010,1,"['Tencent', ' Morningside Group']",B,health,5
+SVOLT,6,2020-06-08,Changzhou,China,Asia,2018,3,"['IDG Capital', ' Bank Of China Group Investment', '', ' SDIC CMC Investment Management']",B,auto & transportation,2
+Airwallex,6,2019-03-25,Melbourne,Australia,Oceania,2015,802,"['DST Global', ' Sequoia Capital China', ' Tencent Holdings']",M,fintech,4
+Deel,6,2021-04-21,San Francisco,United States,North America,2018,629,"['Andreessen Horowitz', ' Spark Capital', ' Y Combinator']",M,fintech,3
+Mambu,6,2021-01-06,Amsterdam,Netherlands,Europe,2011,448,"['Runa Capital', ' Acton Capital Partners', ' Point Nine Capital']",M,fintech,10
+Mollie,6,2020-09-08,Amsterdam,Netherlands,Europe,2004,928,['Technology Crossover Ventures'],M,fintech,16
+Doctolib,6,2019-03-19,Paris,France,Europe,2013,815,"['BPI France', ' Kerala Ventures', ' Accel']",M,health,6
+FiveTran,6,2020-06-30,Oakland,United States,North America,2012,728,"['Matrix Partners', ' Andreessen Horowitz', ' General Catalyst']",M,data management & analytics,8
+Postman,6,2020-06-11,San Francisco,United States,North America,2014,433,"['Nexus Venture Partners', ' CRV', ' Insight Partners']",M,internet software & services,6
+Back Market,6,2021-05-18,Paris,France,Europe,2014,1,"['Aglae Ventures', ' Eurazeo', ' Daphni']",B,e-commerce & direct-to-consumer,7
+Cityblock Health,6,2020-12-10,Brooklyn,United States,North America,2017,891,"['Thrive Capital', ' Maverick Ventures', ' Redpoint Ventures']",M,health,3
+DataRobot,6,2019-07-29,Boston,United States,North America,2012,1,"['New Enterprise Associates', ' Accomplice', ' IA Ventures']",B,artificial intelligence,7
+Personio,6,2021-01-19,Munich,Germany,Europe,2015,524,"['Global Founders Capital', ' Nortzone Ventures', ' Picus Capital']",M,internet software & services,6
+RELEX Solutions,6,2022-02-17,Helsinki,Finland,Europe,2005,803,"['Blackstone', ' Technology Crossover Ventures', ' Summit Partners']",M,"supply chain, logistics, & delivery",17
+Vice Media,6,2011-04-02,Brooklyn,United States,North America,1994,1,"['Technology Crossover Ventures', ' A&E Television Networks']",B,internet software & services,17
+Workato,6,2021-01-12,Mountain View,United States,North America,2013,415,"['Battery Ventures', ' Storm Ventures', ' Redpoint Ventures']",M,internet software & services,8
+Upgrade,6,2018-02-12,San Francisco,United States,North America,2016,587,"['Union Square Ventures', ' Ribbit Capital', ' VY Capital']",M,fintech,2
+Lianjia,6,2016-04-07,Beijing,China,Asia,2001,1,"['Tencent', ' Baidu', ' Huasheng Capital']",B,e-commerce & direct-to-consumer,15
+Hinge Health,6,2021-01-06,San Francisco,United States,North America,2015,826,"['Atomico', ' Insight Partners', ' Coatue Management']",M,health,6
+Lyra Health,6,2020-08-25,Burlingame,United States,North America,2015,910,"['Greylock Partners', ' Venrock', ' Providence Ventures']",M,health,5
+Benchling,6,2021-04-14,San Francisco,United States,North America,2012,412,"['Thrive Capital', ' Benchmark', ' MenloVentures']",M,internet software & services,9
+Better.com,6,2020-11-10,New York,United States,North America,2018,405,"['Pine Brook', ' American Express Ventures', ' Kleiner Perkins Caufield & Byers']",M,fintech,2
+iCapital Network,6,2021-07-27,New York,United States,North America,2013,729,"['BlackRock', ' Blackstone', ' UBS']",M,fintech,8
+Wiz,6,2021-03-17,Tel Aviv,Israel,Asia,2020,600,"['Insight Partners', ' Sequoia Capital', ' Index Ventures']",M,cybersecurity,1
+DailyHunt,5,2020-12-22,Bengaluru,India,Asia,2007,869,"['Falcon Edge Capital', ' Omidyar Network', ' Sequoia Capital India']",M,internet software & services,13
+Howden Group Holdings,5,2020-09-29,London,United Kingdom,Europe,1994,187,"['General Atlantic', ' 3i Group', ' Huagai Capital']",M,other,26
+Meesho,5,2021-04-05,Bengaluru,India,Asia,2015,1,"['Venture Highway', ' Sequoia Capital India', ' Prosus Ventures']",B,internet software & services,6
+Meizu Technology,5,2014-07-23,Zhuhai,China,Asia,2003,943,"['Telling Telecommunication Holding Co.', ' Alibaba Group']",M,hardware,11
+CloudWalk Technology,5,2018-10-08,Guangzhou,China,Asia,2015,514,"['Oriza Holdings', ' Guangdong Technology Financial Group']",M,artificial intelligence,3
+Royole Corporation,5,2015-08-18,Shenzhen,China,Asia,2012,492,"['Warmsun Holding', ' IDG Capital Partners']",M,hardware,3
+Monzo,5,2018-10-31,London,United Kingdom,Europe,2015,1,"['Passion Capital', ' Thrive Capital', ' Orange Digital Ventures']",B,fintech,3
+Socure,5,2021-03-16,New York,United States,North America,2012,644,"['Two Sigma Ventures', ' Flint Capital', ' Commerce Ventures']",M,cybersecurity,9
+VIPKid,5,2016-08-04,Beijing,China,Asia,2013,1,"['Sequoia Capital China', ' Tencent Holdings', ' Sinovation Ventures']",B,edtech,3
+Vinted,5,2019-11-27,Vilnius,Lithuania,Europe,2008,562,"['Accel', ' Insight Partners', ' Burda Principal Investments']",M,e-commerce & direct-to-consumer,11
+Lendable,5,2021-03-31,London,United Kingdom,Europe,2014,286,"[""Ontario Teachers' Pension Plan"", ' Goldman Sachs']",M,fintech,7
+UBTECH Robotics,5,2016-07-25,Shenzhen,China,Asia,2012,943,"['CDH Investments', ' Goldstone Investments', ' Qiming Venture Partners']",M,hardware,4
+Anduril,5,2019-09-11,Irvine,United States,North America,2017,691,"['Andreessen Horowitz', ' Founders Fund', ' Revolution Ventures']",M,artificial intelligence,2
+Checkr,5,2019-09-19,San Francisco,United States,North America,2014,559,"['Y Combinator', ' Accel', ' T. Rowe Price']",M,internet software & services,5
+Color,5,2021-01-04,Burlingame,United States,North America,2013,497,"['General Catalyst', ' Viking Global Investors', ' T. Rowe Price']",M,health,8
+Dataiku,5,2019-12-04,New York,United States,North America,2013,647,"['Alven Capital', ' FirstMark Capital', ' capitalG']",M,internet software & services,6
+BetterUp,5,2021-02-25,San Francisco,United States,North America,2013,567,"['Threshold Ventures', ' Lightspeed Venture Partners', ' Crosslink Capital']",M,internet software & services,8
+Pleo,5,2021-07-06,Copenhagen,Denmark,Europe,2015,428,"['Creandum', ' Founders', ' Kinnevik']",M,fintech,6
+Trade Republic,5,2021-05-20,Berlin,Germany,Europe,2015,996,"['Founders Fund', ' Accel', ' Creandum']",M,fintech,6
+Chipone,5,2021-12-16,Beijing,China,Asia,2008,1,"['China Grand Prosperity Investment', ' Silk Road Huacheng', ' Oriza Equity Investment']",B,hardware,13
+Collibra,5,2019-01-29,Brussels,Belgium,Europe,2008,596,"['Index Ventures', ' Battery Ventures', ' ICONIQ Capital']",M,data management & analytics,11
+Rappi,5,2018-08-31,Bogota,Colombia,South America,2015,2,"['DST Global', ' Andreessen Horowitz', ' Sequoia Capital', ' Redpoint e.ventures']",B,"supply chain, logistics, & delivery",3
+6Sense,5,2021-03-30,San Francisco,United States,North America,2013,426,"['Venrock', ' Battery Ventures', ' Insight Partners']",M,artificial intelligence,8
+Cerebral,5,2021-06-10,San Francisco,United States,North America,2020,462,"['Oak HC/FT Partners', ' Artis Ventures', ' WestCap Group']",M,health,1
+Creditas,5,2020-12-18,Sao Paulo,Brazil,South America,2012,824,"['Kaszek Ventures', ' Amadeus Capital Partners', ' Quona Capital']",M,fintech,8
+OneTrust,5,2019-07-11,Atlanta,United States,North America,2016,926,['Insight Partners'],M,internet software & services,3
+QuintoAndar,5,2019-09-09,Campinas,Brazil,South America,2012,755,"['Kaszek Ventures', ' General Atlantic', ' SoftBank Group']",M,e-commerce & direct-to-consumer,7
+C6 Bank,5,2020-12-02,Sao Paulo,Brazil,South America,2018,2,['Credit Suisse'],B,fintech,2
+Cockroach Labs,5,2021-01-12,New York,United States,North America,2015,633,"['Google Ventures', ' Benchmark', ' FirstMark Capital']",M,data management & analytics,6
+Hopper,5,2021-03-24,Montreal,Canada,North America,2007,599,"['Capital One Growth Ventures', ' Citi Ventures', ' OMERS Ventures']",M,travel,14
+Icertis,5,2019-07-17,Bellevue,United States,North America,2009,371,"['Eight Roads Ventures', ' Greycroft', ' Ignition Partners']",M,artificial intelligence,10
+Moon Active,5,2020-01-26,Tel Aviv,Israel,Asia,2011,425,"['Insight Partners', ' Andalusian Capital Partners']",M,mobile & telecommunications,9
+OfBusiness,5,2021-07-31,Gurgaon,India,Asia,2015,734,"['Matrix Partners India', ' Falcon Edge Capital', ' SoftBank Group']",M,e-commerce & direct-to-consumer,6
+Ola Electric Mobility,5,2019-07-02,Bengaluru,India,Asia,2019,761,"['SoftBank Group', ' Tiger Global Management', ' Matrix Partners India']",M,auto & transportation,0
+Pine Labs,5,2020-01-24,Noida,India,Asia,1998,903,"['Sequoia Capital India', ' Temasek', ' PayPal Ventures']",M,fintech,22
+Qonto,5,2022-01-11,Paris,France,Europe,2016,704,"['Alven Capital', ' Valar Ventures', ' Tencent Holdings']",M,fintech,6
+SambaNova Systems,5,2021-04-13,Palo Alto,United States,North America,2017,1,"['Walden International', ' Google Ventures', ' Intel Capital']",B,data management & analytics,4
+United Imaging Healthcare,5,2017-09-15,Shanghai,China,Asia,2011,503,"['China Life Insurance', ' China Development Bank Capital', ' CITIC Securities International']",M,health,6
+WM Motor,5,2019-03-08,Shanghai,China,Asia,2015,4,"['Baidu Capital', ' Linear Venture', ' Tencent']",B,auto & transportation,4
+ZEPZ,5,2021-08-23,London,United Kingdom,Europe,2010,655,"['Accel', ' Technology Crossover Ventures', ' LeapFrog Investments']",M,fintech,11
+Abogen,4,2021-11-29,Suzhou,China,Asia,2019,1,"['Hillhouse Capital Management', ' SoftBank Group', ' Qiming Venture Partners']",B,health,2
+Greensill,4,2018-07-16,London,United Kingdom,Europe,2011,2,"['SoftBank Group', ' General Atlantic']",B,fintech,7
+HyalRoute,4,2020-05-26,Unknown,Singapore,Asia,2015,263,['Kuang-Chi'],M,mobile & telecommunications,5
+Radiology Partners,4,2018-02-26,El Segundo,United States,North America,2012,1,"['New Enterprise Associates', ' Starr Investment Holdings']",B,health,6
+Yello Mobile,4,2014-11-11,Seoul,South Korea,Asia,2012,216,['Formation 8'],M,mobile & telecommunications,2
+Turing,4,2021-12-20,Palo Alto,United States,North America,2018,128,"['Foundation Capital', ' Frontier Ventures', ' AltaIR Capital']",M,internet software & services,3
+Lenskart,4,2019-12-20,Faridabad,India,Asia,2008,776,"['Chiratae Ventures', ' PremjiInvest', ' Softbank']",M,e-commerce & direct-to-consumer,11
+Kraken,4,2019-06-25,San Francisco,United States,North America,2011,119,"['Bnk To The Future', ' Trammell Ventures', ' SBI Investment']",M,fintech,8
+Horizon Robotics,4,2019-02-27,Beijing,China,Asia,2015,2,"['Hillhouse Capital Management', ' Linear Venture', ' Morningside Venture Capital']",B,artificial intelligence,4
+MoonPay,4,2021-11-22,Miami,United States,North America,2019,555,"['New Enterprise Associates', ' Coatue Management', ' Tiger Global Management']",M,fintech,2
+Celsius Network,4,2021-10-12,Hoboken,United States,North America,2017,864,"['WestCap Group', ' Caisse de depot et placement du Quebec']",M,fintech,4
+ChargeBee Technologies,4,2021-04-20,Walnut,United States,North America,2011,468,"['Insight Partners', ' Tiger Global Management', ' Accel']",M,fintech,10
+Coalition,4,2021-03-17,San Francisco,United States,North America,2017,505,"['Two Sigma Ventures', ' Flint Capital', ' Commerce Ventures']",M,cybersecurity,4
+Commure,4,2021-09-16,San Francisco,United States,North America,2017,542,"['General Catalyst', ' HCA Healthcare']",M,internet software & services,4
+Flock Safety,4,2021-07-13,Atlanta,United States,North America,2017,381,"['Matrix Partners', ' Initialized Capital', ' Tiger Global Management']",M,hardware,4
+Handshake,4,2021-05-12,San Francisco,United States,North America,2014,434,"['Kleiner Perkins Caufield & Byers', ' Lightspeed Venture Partners', ' True Ventures']",M,internet software & services,7
+Highspot,4,2021-02-22,Seattle,United States,North America,2013,643,"['Madrona Venture Group', ' Shasta Ventures', ' Salesforce Ventures']",M,internet software & services,8
+Indigo Ag,4,2017-09-26,Boston,United States,North America,2014,1,"['Activant Capital Group', ' Alaska Permanent Fund', ' Baillie Gifford & Co.']",B,artificial intelligence,3
+Mirakl,4,2020-09-22,Paris,France,Europe,2011,948,"['Elaia Partners', ' 83North', ' Felix Capital']",M,e-commerce & direct-to-consumer,9
+Rec Room,4,2021-03-23,Seattle,United States,North America,2016,294,"['First Round Capital', ' Sequoia Capital', ' Index Ventures']",M,internet software & services,5
+Tekion,4,2020-10-21,San Ramon,United States,North America,2016,435,"['Airbus Ventures', ' Index Ventures', ' Advent International']",M,internet software & services,4
+Otto Bock HealthCare,4,2017-06-24,Duderstadt,Germany,Europe,1919,0,['EQT Partners'],M,health,98
+Outreach,4,2019-04-16,Seattle,United States,North America,2011,489,"['Mayfield Fund', ' M12', ' Trinity Ventures']",M,internet software & services,8
+WeRide,4,2020-12-23,Guangzhou,China,Asia,2017,1,"['Atop Capital', ' IDInvest Partners', ' Qiming Venture Partners']",B,auto & transportation,3
+Applied Intuition,4,2020-10-22,Sunnyvale,United States,North America,2017,352,"['Andreessen Horowitz', ' Lux Capital', ' General Catalyst']",M,data management & analytics,3
+Course Hero,4,2020-02-12,Redwood City,United States,North America,2006,477,"['NewView Capital', ' Maveron', ' Ridge Ventures']",M,edtech,14
+Relativity,4,2021-03-18,Chicago,United States,North America,2001,125,"['Silver Lake', ' ICONIQ Capital']",M,internet software & services,20
+Whoop,4,2020-10-28,Boston,United States,North America,2012,404,"['NextView Ventures', ' Promus Ventures', ' Two Sigma Ventures']",M,e-commerce & direct-to-consumer,8
+Arctic Wolf Networks,4,2020-10-22,Eden Prairie,United States,North America,2012,498,"['Lightspeed Venture Partners', ' Redpoint Ventures', ' Viking Global Investors']",M,cybersecurity,8
+GOAT,4,2020-09-23,Culver City,United States,North America,2015,493,"['Upfront Ventures', ' Webb Investment Network', ' D1 Capital Partners']",M,e-commerce & direct-to-consumer,5
+Noom,4,2021-05-24,New York,United States,North America,2006,657,"['Qualcomm Ventures', ' Samsung Ventures', ' Silver Lake']",M,health,15
+Papaya Global,4,2021-03-04,New York,United States,North America,2016,440,"['Bessemer Venture Partners', ' Insight Partners', ' New Era Ventures']",M,internet software & services,5
+Redwood Materials,4,2021-07-28,Carson City,United States,North America,2017,792,"['Breakthrough Energy Ventures', ' Capricorn Investment Group', ' Valor Equity Partners']",M,other,4
+ShareChat,4,2021-04-08,Bengaluru,India,Asia,2015,1,"['India Quotient', ' Elevation Capital', ' Lightspeed Venture Partners']",B,internet software & services,6
+Sorare,4,2021-09-21,Paris,France,Europe,2019,739,"['Benchmark', ' Accel', ' SoftBank Group']",M,e-commerce & direct-to-consumer,2
+VAST Data,4,2020-04-16,New York,United States,North America,2016,263,"['Norwest Venture Partners', ' Goldman Sachs', ' Dell Technologies Capital']",M,data management & analytics,4
+Articulate,4,2021-07-01,New York,United States,North America,2015,2,"['Blackstone', ' ICONIQ Growth', ' General Atlantic']",B,edtech,6
+Dutchie,4,2021-03-16,Bend,United States,North America,2017,603,"['Casa Verde Capital', ' Gron Ventures', ' Thrity Five Ventures']",M,e-commerce & direct-to-consumer,4
+FalconX,4,2021-08-10,San Mateo,United States,North America,2018,324,"['Tiger Global Management', ' American Express Ventures', ' B Capital Group']",M,fintech,3
+Guild Education,4,2019-11-13,Denver,United States,North America,2015,379,"['General Atlantic', ' Blackstone', ' ICONIQ Growth']",M,internet software & services,4
+Chainalysis,4,2020-11-23,New York,United States,North America,2014,367,"['Addition', ' Benhcmark', ' Accel']",M,fintech,6
+dbt Labs,4,2021-06-30,Philadelphia,United States,North America,2016,414,"['Andreessen Horowitz', ' Amplify Partners', ' Sequoia Capital']",M,data management & analytics,5
+Globalization Partners,4,2022-01-24,Boston,United States,North America,2012,350,"['Vista Equity Partners', ' Wincove', ' TDR Capital']",M,internet software & services,10
+Intarcia Therapeutics,4,2014-04-01,Boston,United States,North America,1995,1,"['New Enterprise Associates', ' New Leaf Venture Partners', ' Charter Venture Capital']",B,health,19
+Relativity Space,4,2020-11-23,Inglewood,United States,North America,2016,1,"['Playground Global', ' Bond', ' Tribe Capital']",B,other,4
+StockX,4,2019-06-26,Detroit,United States,North America,2016,495,"['Google Ventures', ' Battery Ventures', ' DST Global']",M,e-commerce & direct-to-consumer,3
+ThoughtSpot,4,2018-05-08,Sunnyvale,United States,North America,2012,664,"['Lightspeed Venture Partners', ' Khosla Ventures', ' Geodesic Capital']",M,internet software & services,6
+BitPanda,4,2021-03-16,Vienna,Austria,Europe,2014,546,"['Speedinvest', ' Valar Ventures', ' Uniqa Ventures']",M,fintech,7
+Dataminr,4,2018-06-04,New York,United States,North America,2009,1,"['Venrock', ' Institutional Venture Partners', ' Goldman Sachs']",B,artificial intelligence,9
+Weee!,4,2021-03-16,Fremont,United States,North America,2015,864,"['Goodwater Capital', ' iFly', ' XVC Venture Capital']",M,"supply chain, logistics, & delivery",6
+Medlinker,4,2018-07-31,Chengdu,China,Asia,2014,761,"['China Health Industry Investment Fund', ' China Renaissance', ' and Sequoia Capital China']",M,health,4
+Hozon Auto,4,2022-02-22,Shanghai,China,Asia,2014,2,"['HD Capital', ' Qihoo 360 Technology', ' China Fortune Land Development']",B,auto & transportation,8
+Aurora Solar,4,2021-05-24,San Francisco,United States,North America,2013,523,"['Fifth Wall Ventures', ' Energize Ventures', ' ICONIQ Capital']",M,internet software & services,8
+Branch,4,2018-09-10,Redwood City,United States,North America,2014,667,"['New Enterprise Associates', ' Pear', ' Cowboy Ventures']",M,mobile & telecommunications,4
+BrowserStack,4,2021-06-16,Dublin,Ireland,Europe,2011,250,"['Accel', ' Insight Partners', ' Bond Capital']",M,internet software & services,10
+Cerebras Systems,4,2018-11-14,Los Altos,United States,North America,2016,720,"['Benchmark', ' Foundation Capital', ' Sequoia Capital']",M,hardware,2
+ClickUp,4,2020-12-15,San Diego,United States,North America,2017,535,"['Georgian Partners', ' Craft Ventures']",M,internet software & services,3
+Clubhouse,4,2021-01-24,San Francisco,United States,North America,2020,110,"['Andreessen Horowitz', ' TQ Ventures']",M,mobile & telecommunications,1
+Farmers Business Network,4,2020-08-03,San Carlos,United States,North America,2014,870,"['Blackrock', ' Kleiner Perkins Caulfield & Byers', ' Google Ventures']",M,other,6
+Houzz,4,2014-09-30,Palo Alto,United States,North America,2008,614,"['New Enterprise Associates', ' Sequoia Capital', ' Comcast Ventures']",M,e-commerce & direct-to-consumer,6
+MEGVII,4,2017-10-31,Beijing,China,Asia,2011,1,"['Ant Financial Services Group', ' Russia-China Investment Fund', ' Foxconn Technology Company']",B,artificial intelligence,6
+Melio,4,2021-01-25,New York,United States,North America,2018,504,"['Accel', ' Aleph', ' American Express Ventures']",M,fintech,3
+Next Insurance,4,2019-10-07,Palo Alto,United States,North America,2016,881,"['Zeev Ventures', ' Ribbit Capital', ' TLV Partners']",M,fintech,3
+Olive,4,2020-12-01,Columbus,United States,North America,2012,856,"['Drive Capital', ' General Catalyst', ' Ascension Ventures']",M,internet software & services,8
+Patreon,4,2020-09-02,San Francisco,United States,North America,2013,413,"['Index Ventures', ' Thrive Capital', ' CRV']",M,internet software & services,7
+PointClickCare,4,2021-01-07,Mississauga,Canada,North America,2000,230,"['Dragoneer Investment Group', ' Hellman & Friedman', ' JMI Equity']",M,internet software & services,21
+Rubrik,4,2017-04-28,Palo Alto,United States,North America,2014,553,"['Greylock Partners', ' Lightspeed Venture Partners', ' Khosla Ventures']",M,data management & analytics,3
+Vuori,4,2021-10-13,Carlsbad,United States,North America,2015,445,"['SoftBank Group', ' Norwest Venture Partners']",M,e-commerce & direct-to-consumer,6
+Webflow,4,2021-01-13,San Francisco,United States,North America,2012,335,"['Accel', ' Silversmith Capital Partners', ' capitalG']",M,internet software & services,9
+Yuga Labs,4,2022-03-22,Miami,United States,North America,2021,450,"['Andreessen Horowitz', ' Thrive Capital', ' Sound Ventures']",M,fintech,1
+Zapier,4,2021-01-14,Sunnyvale,United States,North America,2011,1,"['Sequoia Capital', ' Bessemer Venture Partners', ' Threshold Ventures']",M,internet software & services,10
+Dadi Cinema,3,2016-05-11,Shenzhen,China,Asia,2006,154,['Alibaba Pictures Group'],M,other,10
+Kurly,3,2021-07-09,Seoul,South Korea,Asia,2014,770,"['Sequoia Capital China', ' DST Global', ' DST Global']",M,"supply chain, logistics, & delivery",7
+Moglix,3,2021-05-17,Unknown,Singapore,Asia,2015,471,"['Jungle Ventures', ' Accel', ' Venture Highway']",M,e-commerce & direct-to-consumer,6
+OpenAI,3,2019-07-22,San Francisco,United States,North America,2015,1,['Khosla Ventures'],B,artificial intelligence,4
+Upstox,3,2021-11-29,Mumbai,India,Asia,2010,54,"['Tiger Global Management', ' Kalaari Capital']",M,fintech,11
+Vista Global,3,2017-08-23,Dubai,United Arab Emirates,Asia,2004,418,['Rhone Capital'],M,other,13
+Yixia,3,2015-11-24,Beijing,China,Asia,2011,775,"['Sequoia Capital China', ' Sina Weibo', ' Kleiner Perkins Caufield & Byers', ' Redpoint Ventures']",M,mobile & telecommunications,4
+Automattic,3,2013-05-27,San Francisco,United States,North America,2005,859,"['Insight Venture Partners', ' Lowercase Capital', ' Polaris Partners']",M,internet software & services,8
+OakNorth Bank,3,2017-10-12,London,United Kingdom,Europe,2015,1,"['Clermont Group', ' Coltrane Asset Management', ' Toscafund Asset Management']",B,fintech,2
+Worldcoin,3,2021-06-29,San Francisco,United States,North America,2019,125,"['Day One Ventures', ' Coinbase Ventures', ' Andreessen Horowitz']",M,fintech,2
+Hive Box,3,2018-01-23,Shenzhen,China,Asia,2015,1,"['Eastern Bell Capital', ' SF Holding Co', ' STO Express']",B,"supply chain, logistics, & delivery",3
+Trax,3,2019-07-22,Unknown,Singapore,Asia,2010,1,"['Hopu Investment Management', ' Boyu Capital', ' DC Thomson Ventures']",B,artificial intelligence,9
+MessageBird,3,2020-10-08,Amsterdam,Netherlands,Europe,2011,1,"['Y Combinator', ' Atomico', ' Accel']",B,mobile & telecommunications,9
+Cohesity,3,2018-06-11,San Jose,United States,North America,2013,660,"['SoftBank Group', ' Sequoia Capital', ' Wing Venture Capital']",M,data management & analytics,5
+Cybereason,3,2019-08-06,Boston,United States,North America,2012,714,"['SoftBank Group', ' CRV', ' Spark Capital']",M,cybersecurity,7
+A24 Films,3,2022-03-09,New York,United States,North America,2012,225,"['Stripes Group', ' Neuberger Berman']",M,other,10
+Acronis,3,2019-09-18,Schaffhausen,Switzerland,Europe,2003,408,"['Goldman Sachs', ' VebVentures', ' Insight Partners']",M,cybersecurity,16
+Aura,3,2021-06-09,Burlington,United States,North America,2019,500,"['Warburg Pincus', ' General Catalyst']",M,cybersecurity,2
+BYTON,3,2018-04-20,Nanjing,China,Asia,2016,1,"['FAW Group', ' Tencent Holdings', ' Tus Holdings']",B,auto & transportation,2
+Cato Networks,3,2020-11-17,Tel Aviv,Israel,Asia,2015,532,"['Aspect Ventures', ' SingTel Innov8', ' Greylock Partners']",M,cybersecurity,5
+Digit Insurance,3,2021-01-15,Bengaluru,India,Asia,2016,531,"['Fairfax Financial Holdings', ' A91 Partners', ' TVS Capital']",M,fintech,5
+Fetch Rewards,3,2021-03-31,Madison,United States,North America,2014,582,"['Greycroft', ' Loeb.NYC', ' DST Global']",M,e-commerce & direct-to-consumer,7
+Games24x7,3,2022-03-30,Mumbai,India,Asia,2006,75,"['Tiger Global Management', ' The Raine Group', ' Malabar Investments']",M,internet software & services,16
+GoStudent,3,2021-06-22,Vienna,Austria,Europe,2017,685,"['DN Capital', ' Left Lane Capital', ' Coatue Management']",M,edtech,4
+Immutable,3,2022-03-07,Sydney,Australia,Oceania,2018,280,"['Fabric Ventures', ' AirTree Ventures', ' Temasek']",M,fintech,4
+Infra.Market,3,2021-02-25,Thane,India,Asia,2016,274,"['Accel', ' Tiger Global Management', ' Nexus Venture Partners']",M,e-commerce & direct-to-consumer,5
+Side,3,2021-03-22,San Francisco,United States,North America,2017,314,"['Coatue Managemeny', ' Trinity Ventures', ' Matrix Partners']",M,internet software & services,4
+SiFive,3,2022-03-16,San Mateo,United States,North America,2015,366,"['Sutter Hill Ventures', ' Osage University Partners', ' Spark Capital']",M,hardware,7
+Somatus,3,2022-02-23,McLean,United States,North America,2016,465,"['The Blue Venture Fund', ' Flare Capital Partners', ' Longitude Capital']",M,health,6
+Sysdig,3,2021-04-28,San Francisco,United States,North America,2013,730,"['Accel', ' Bain Capital Ventures', ' Insight Partners']",M,cybersecurity,8
+Uniphore,3,2022-02-16,Palo Alto,United States,North America,2008,607,"['Chiratae Ventures', ' March Capital Partners', ' National Grid Partners']",M,artificial intelligence,14
+Varo Bank,3,2021-09-09,San Francisco,United States,North America,2015,987,"['Warburg Pincus', ' The Rise Fund', ' HarbourVest Partners']",M,fintech,6
+Vercel,3,2021-06-23,San Francisco,United States,North America,2015,313,"['CRV', ' Accel', ' Google Ventures']",M,internet software & services,6
+Oura,3,2022-04-05,Oulu,Finland,Europe,2013,148,"['Forerunner Ventures', ' Lifeline Ventures', ' MSD Capital']",M,health,9
+Unacademy,3,2020-09-02,Bengaluru,India,Asia,2015,789,"['Blume Ventures', ' Nexus Venture Partners', ' Sequoia Capital India']",M,edtech,5
+Axonius,3,2021-03-01,New York,United States,North America,2017,395,"['Vertex Ventures Israel', ' Bessemer Venture Partners', ' Emerge']",M,cybersecurity,4
+Clari,3,2021-03-03,Sunnyvale,United States,North America,2012,496,"['Sequoia Capital', ' Bain Capital Ventures', ' enaya Capital']",M,internet software & services,9
+ManoMano,3,2021-07-05,Paris,France,Europe,2013,706,"['General Atlantic', ' Piton Capital', ' Partech Partners']",M,e-commerce & direct-to-consumer,8
+Pendo,3,2019-10-17,Raleigh,United States,North America,2013,357,"['Contour Venture Partners', ' Battery Ventures', ' Core Capital Partners']",M,internet software & services,6
+Plume,3,2021-02-23,Palo Alto,United States,North America,2015,722,"['Insight Partners', ' Jackson Square Ventures', ' Liberty Gloval Ventures']",M,internet software & services,6
+JumpCloud,3,2021-09-13,Louisville,United States,North America,2012,407,"['Foundry Group', ' General Atlantic', ' BlackRock']",M,data management & analytics,9
+Project44,3,2021-06-01,Chicago,United States,North America,2014,818,"['Emergence Capital Partners', ' 8VC', ' Chicago Ventures']",M,"supply chain, logistics, & delivery",7
+Sourcegraph,3,2021-07-13,San Francisco,United States,North America,2013,248,"['Redpoint Ventures', ' Goldcrest Capital', ' Insight Partners']",M,internet software & services,8
+OwnBackup,3,2021-01-28,Englewood Cliffs,United States,North America,2015,507,"['Insight Partners', ' Salesforce Ventures', ' Vertex Ventures']",M,data management & analytics,6
+Starburst,3,2021-01-06,Boston,United States,North America,1999,414,"['Index Ventures', ' Coatue Management', ' Andreessen Horowitz']",M,data management & analytics,22
+Youxia Motors,3,2018-04-02,Shanghai,China,Asia,2014,1,"['China Environmental Protection Industry', ' China Fortune Ocean']",B,auto & transportation,4
+Zetwerk,3,2021-08-20,Bengaluru,India,Asia,2018,543,"['Sequoia Capital India', ' Kae Capital', ' Accel']",M,internet software & services,3
+Cars24,3,2020-11-24,Gurgaon,India,Asia,2015,1,"['Moore Strategic Ventures', ' DST Global', ' Sequoia Capital India']",B,e-commerce & direct-to-consumer,5
+Ethos,3,2021-05-11,San Francisco,United States,North America,2016,407,"['Sequoia Capital', ' Google Ventures', ' Accel']",M,fintech,5
+Komodo Health,3,2020-05-22,San Francisco,United States,North America,2014,314,"['Andreessen Horowitz', ' IA Ventures', ' Felicis Ventures']",M,health,6
+Nextiva,3,2021-09-14,Scottsdale,United States,North America,2008,200,['Goldman Sachs Asset Management'],M,internet software & services,13
+o9 Solutions,3,2020-04-28,Dallas,United States,North America,2009,417,['KKR'],M,artificial intelligence,11
+Scopely,3,2019-10-29,Culver City,United States,North America,2011,999,"['Greycroft', ' Sands Capital', ' Revolution Growth']",M,mobile & telecommunications,8
+Sila Nanotechnologies,3,2019-04-16,Alameda,United States,North America,2011,880,"['Bessemer Venture Partners', ' Sutter Hill Ventures', ' Matrix Partners']",M,other,8
+Via,3,2020-03-30,New York,United States,North America,2012,777,"['83North', ' RiverPark Ventures', ' Pitango Venture Capital']",M,auto & transportation,8
+Transmit Security,3,2021-06-22,Tel Aviv,Israel,Asia,2014,583,"['General Atlantic', ' Insight Partners', ' Vintage Investment Partners']",M,cybersecurity,7
+BlockDaemon,3,2021-09-21,Los Angeles,United States,North America,2016,398,"['BOLDstart Ventures', ' Lerer Hippeau', ' Kenetic Capital']",M,fintech,5
+Convoy,3,2018-09-21,Seattle,United States,North America,2015,666,"['Greylock Partners', ' capitalG', ' Y Combinator']",M,"supply chain, logistics, & delivery",3
+Dream Games,3,2021-06-30,Istanbul,Turkey,Europe,2019,468,"['Makers Fund', ' Index Ventures', ' Inova Ventures Participacees']",M,mobile & telecommunications,2
+Illumio,3,2015-04-14,Sunnyvale,United States,North America,2013,558,"['Data Collective', ' Formation 8', ' General Catalyst Partners']",M,cybersecurity,2
+MasterClass,3,2021-05-13,San Francisco,United States,North America,2015,461,"['Institutional Venture Partners', ' New Enterprise Associates', ' Javelin Venture Partners']",M,edtech,6
+Graphcore,3,2018-12-18,Bristol,United Kingdom,Europe,2016,682,"['Dell Technologies Capital', ' Pitango Venture Capital', ' Amadeus Capital Partners']",M,artificial intelligence,2
+ApplyBoard,3,2020-05-05,Kitchener,Canada,North America,2015,483,"['Artiman Ventures', ' Plug and Play Ventures', ' Anthos Capital']",M,edtech,5
+Blockstream,3,2021-08-24,Vancouver,Canada,North America,2014,299,"['AME Cloud Ventures', ' Future Perfect Ventures', ' Blockchain Capital']",M,fintech,7
+Cedar,3,2021-03-09,New York,United States,North America,2016,326,"['Thrive Capital', ' Founders Fund', ' Cocnord Health Partners']",M,fintech,5
+ContentSquare,3,2021-05-25,Paris,France,Europe,2012,812,"['Highland Europe', ' Eurazeo', ' Canaan Partners']",M,internet software & services,9
+Eruditus Executive Education,3,2021-08-12,Mumbai,India,Asia,2010,591,"['Sequoia Capital India', ' Softbank', ' Bertelsmann India Investments']",M,edtech,11
+Innovaccer,3,2021-02-19,San Francisco,United States,North America,2014,379,"['M12', ' WestBridge Capital', ' Lightspeed Venture Partners']",M,health,7
+Ironclad,3,2022-01-18,Sacramento,United States,North America,2014,334,"['Accel', ' Sequoia Capital', ' Y Combinator']",M,internet software & services,8
+Skims,3,2021-04-09,Los Angeles,United States,North America,2019,399,"['Thrive Capital', ' Alliance Consumer Growth', ' Imaginary Ventures']",M,e-commerce & direct-to-consumer,2
+Thumbtack,3,2015-09-29,San Francisco,United States,North America,2008,698,"['Tiger Global', ' Sequoia Capital', ' Google Capital']",M,e-commerce & direct-to-consumer,7
+Zipline,3,2019-05-20,South San Francisco,United States,North America,2014,483,"['Sequoia Capital', ' Baillie Gifford & Co.', ' Google Ventures']",M,"supply chain, logistics, & delivery",5
+BharatPe,3,2021-07-30,New Delhi,India,Asia,2018,600,"['Insight Partners', ' Sequoia Capital India', ' BEENEXT']",M,fintech,3
+DriveWealth,3,2021-08-20,Chatham,United States,North America,2012,551,"['Point72 Ventures', ' Route 66 Ventures', ' Accel']",M,fintech,9
+Flink Food,3,2021-12-01,Berlin,Germany,Europe,2021,1,"['Mubadala Capital', ' Bond', ' Prosus Ventures']",B,e-commerce & direct-to-consumer,0
+PsiQuantum,3,2021-07-27,Palo Alto,United States,North America,2016,665,"['Playground Global', ' M12', ' BlackRock']",M,hardware,5
+SpotOn,3,2021-05-26,San Francisco,United States,North America,2017,628,"['Dragoneer Investment Group', ' DST Global', ' Franklin Templeton']",M,fintech,4
+Gorillas,3,2021-03-25,Berlin,Germany,Europe,2020,1,"['Coatue Management', ' Atlantic Food Labs', ' DST Global']",B,e-commerce & direct-to-consumer,1
+HighRadius,3,2020-01-07,Houston,United States,North America,2006,475,"['Susquehanna Growth Equity', ' Citi Ventures', ' ICONIQ Capital']",M,fintech,14
+Loft,3,2020-01-03,Sao Paulo,Brazil,South America,2018,788,"['Monashees+', ' Andreessen Horowitz', ' QED Investors']",M,e-commerce & direct-to-consumer,2
+Nuvemshop,3,2021-08-17,Sao Paulo,Brazil,South America,2011,628,"['Kaszek Ventures', ' Qualcomm Ventures', ' Accel']",M,e-commerce & direct-to-consumer,10
+Udaan,3,2018-09-04,Bengaluru,India,Asia,2016,1,"['DST Global', ' Lightspeed Venture Partners', ' Microsoft ScaleUp']",B,"supply chain, logistics, & delivery",2
+Workrise,3,2019-09-30,Austin,United States,North America,2014,722,"['Founders Fund', ' Quantum Energy Partners', ' Bedrock Capital']",M,internet software & services,5
+ActiveCampaign,3,2021-04-21,Chicago,United States,North America,2003,360,"['Silversmith Capital Partners', ' Susquehanna Growth Equity', ' Tiger Global Management']",M,internet software & services,18
+Age of Learning,3,2016-05-03,Glendale,United States,North America,2007,500,['Iconiq Capital'],M,edtech,9
+Amber Group,3,2021-06-21,Unknown,Hong Kong,Asia,2015,328,"['Tiger Global Management', ' Tiger Brokers', ' DCM Ventures']",M,fintech,6
+Anchorage Digital,3,2021-12-15,San Francisco,United States,North America,2017,487,"['Andreessen Horowitz', ' Blockchain Capital', ' Lux Capital']",M,fintech,4
+BlockFi,3,2021-03-11,Jersey City,United States,North America,2017,1,"['ConsenSys Ventures', ' Valar Ventures', ' PUC']",B,fintech,4
+Calendly,3,2021-01-26,Atlanta,United States,North America,2013,351,"['ICONIQ Capital', ' OpenView Venture Partners']",M,internet software & services,8
+Carbon Health,3,2021-07-21,San Francisco,United States,North America,2015,523,"['Brookfield Asset Management', ' Blackstone', ' Data Collective']",M,health,6
+Circle,3,2018-05-15,Boston,United States,North America,2013,711,"['General Catalyst', ' Digital Currency Group', ' Accel']",M,fintech,5
+CMR Surgical,3,2019-09-17,Cambridge,United Kingdom,Europe,2014,975,"['Cambridge Innovation Capital', ' LGT Capital Partners', ' Escala Capital']",M,health,5
+Contentful,3,2021-07-28,Berlin,Germany,Europe,2013,333,"['Balderton Capital', ' General Catalyst', ' Tiger Global Management']",M,internet software & services,8
+Cross River Bank,3,2022-02-11,Fort Lee,United States,North America,2008,775,"['Battery Ventures', ' Andreessen Horowitz', ' Ribbit Capital']",M,fintech,14
+Delhivery,3,2019-02-27,Gurgaon,India,Asia,2011,1,"['Times Internet', ' Nexus Venture Partners', ' SoftBank Group']",B,"supply chain, logistics, & delivery",8
+FlixBus,3,2019-07-18,Munich,Germany,Europe,2013,1,"['Holtzbrinck Ventures', ' Unternehmertum Venture Capital', ' General Atlantic']",B,auto & transportation,6
+Flutterwave,3,2021-03-09,San Francisco,United States,North America,2016,474,"['Green Visor Capital', ' CRE Venture Capital', ' Greycroft']",M,fintech,5
+Forter,3,2020-11-19,New York,United States,North America,2013,525,"['Sequoia Capital Israel', ' Scale Venture Partners', ' Commerce Ventures']",M,cybersecurity,7
+Grafana Labs,3,2021-03-25,New York,United States,North America,2014,535,"['Lightspeed Venture Partners', ' Lead Edge Capital', ' Coatue Management']",M,internet software & services,7
+Groww,3,2021-04-07,Bengaluru,India,Asia,2017,393,"['Tiger Global Management', ' Sequoia Capital India', ' Ribbit Capital']",M,fintech,4
+Inxeption,3,2022-01-13,San Francisco,United States,North America,2017,187,"['Coatue Management', ' BMO Capital', ' Schonfeld Strategic Advisors']",M,fintech,5
+KK Group,3,2019-10-23,Dongguan,China,Asia,2014,612,"['Matrix Partners China', ' Bright Venture Capita', ' Shenzhen Capital Group']",M,e-commerce & direct-to-consumer,5
+Lattice,3,2021-03-23,San Francisco,United States,North America,2015,329,"['Khosla Ventures', ' Thrive Capital', ' Y Combinator']",M,internet software & services,6
+LaunchDarkly,3,2021-08-10,Oakland,United States,North America,2014,330,"['Uncork Capital', ' Threshold Ventures', ' Bloomberg Beta']",M,internet software & services,7
+Lucid,3,2021-06-29,South Jordan,United States,North America,2010,170,"['Spectrum Equity', ' ICONIQ Capital', ' Grayhawk Capital']",M,internet software & services,11
+Outschool,3,2021-04-14,San Francisco,United States,North America,2015,240,"['Uniion Square Ventures', ' Tiger Global Management', ' Lightspeed Venture Capital']",M,edtech,6
+Podium,3,2020-04-07,Lehi,United States,North America,2014,419,"['Accel', ' Summit Partners', ' Google Ventures']",M,internet software & services,6
+Remote,3,2021-07-13,San Francisco,United States,North America,2016,496,"['Index Ventures', ' Sequoia Capital', ' General Catalyst']",M,fintech,5
+Seismic,3,2018-12-18,San Diego,United States,North America,2010,427,"['Jackson Square Ventures', ' General Atlantic', ' Lightspeed Venture Partners']",M,internet software & services,8
+Sky Mavis,3,2021-10-04,Ho Chi Minh City,Vietnam,Asia,2019,311,"['Fabric Ventures', ' 500 Global', ' Standard Crypto']",M,internet software & services,2
+SouChe Holdings,3,2017-11-01,Hangzhou,China,Asia,2012,1,"['Morningside Ventures', ' Warburg Pincus', ' CreditEase Fintech Investment Fund']",B,e-commerce & direct-to-consumer,5
+TradingView,3,2021-10-14,Westerville,United States,North America,2011,339,"['Tiger Global Management', ' Insight Partners', ' Jump Capital']",M,fintech,10
+Traveloka,3,2017-01-01,Jakarta,Indonesia,Asia,2012,1,"['Global Founders Capital', ' East Ventures', ' Expedia Inc.']",B,travel,5
+wefox,3,2019-03-05,Berlin,Germany,Europe,2014,919,"['Salesforce Ventures', ' Seedcamp', ' OMERS Ventures']",M,fintech,5
+Wildlife Studios,3,2019-12-05,Sao Paulo,Brazil,South America,2011,180,"['Benchmark', ' Bessemer Venture Partners']",M,other,8
+1047 Games,2,2021-09-14,Zephyr Cove,United States,North America,2017,127,"['VGames', ' Lakestar', ' Galaxy Interactive']",M,internet software & services,4
+Baiwang,2,2019-03-25,Beijing,China,Asia,2015,224,"['Guozhong Venture Capital Management', ' Shenzhen Capital Group', ' Oriental Fortune Capital']",M,fintech,4
+Boba,2,2022-04-05,San Francisco,United States,North America,2018,45,"['DeFi Technologies', ' Hypersphere Ventures', ' M13']",M,fintech,4
+Bought By Many,2,2021-06-01,London,United Kingdom,Europe,2012,477,"['Octopus Ventures', ' Munich Re Ventures', ' CommerzVentures']",M,fintech,9
+Cambridge Mobile Telematics,2,2018-12-19,Cambridge,United States,North America,2010,503,['SoftBank Group'],M,mobile & telecommunications,8
+Carzone,2,2019-03-01,Jiangsu,China,Asia,1995,946,"['Alibaba Group', 'Co-Stone Venture Capital', ' Buhuo Venture Capital']",M,e-commerce & direct-to-consumer,24
+CFGI,2,2021-09-15,Boston,United States,North America,2000,19,"['The Carlyle Group', ' CVC Capital Partners']",M,fintech,21
+Cgtz,2,2017-02-21,Hangzhou,China,Asia,2014,536,"['Shunwei Capital Partners', ' China Media Group', ' Guangzhou Huiyin Aofeng Equity Investment Fund']",M,fintech,3
+Changingedu,2,2017-10-30,Shanghai,China,Asia,2014,188,"['Trustbridge Partners', ' IDG Capital', ' Sequoia Capital China']",M,edtech,3
+eDaili,2,2019-02-01,Shanghai,China,Asia,2015,101,"['K2VC', ' Lightspeed China Partners', ' Sky9 Capital']",M,e-commerce & direct-to-consumer,4
+ENOVATE,2,2019-04-15,Shanghai,China,Asia,2015,1,['Automobile Industry Guidance Fund'],B,auto & transportation,4
+Fenbi Education,2,2021-02-07,Beijing,China,Asia,2015,390,"['Trustbridge Partners', ' Hony Capital', ' IDG Capital']",M,edtech,6
+Hesai Tech,2,2020-08-01,Shanghai,China,Asia,2013,717,"['Lightspeed China Partners', ' Baidu Ventures', ' Qiming Venture Partners']",M,artificial intelligence,7
+Il Makiage,2,2022-01-10,New York,United States,North America,2018,29,"['L Catterton', ' Franklin Templeton', ' First Light Capital Group']",M,e-commerce & direct-to-consumer,4
+Iluvatar CoreX,2,2021-03-01,Shanghai,China,Asia,2015,186,"['Centurium Capital', ' Cedarlake Capital', ' Unicom Innovation Venture Capital']",M,hardware,6
+Jusfoun Big Data,2,2018-07-09,Beijing,China,Asia,2010,137,"['Boxin Capital', ' DT Capital Partners', ' IDG Capital']",M,data management & analytics,8
+Pagaya,2,2020-06-17,Tel Aviv,Israel,Asia,2015,417,"['Oak HC/FT Partners', ' GF Investments', ' Harvey Golub Family Office']",M,fintech,5
+PolicyBazaar,2,2019-05-06,Gurgaon,India,Asia,2008,634,"['Info Edge', ' Softbank Capital']",M,fintech,11
+Promasidor Holdings,2,2016-11-08,Bryanston,South Africa,Asia,1979,556,"['IFC', ' Ajinomoto']",M,consumer & retail,37
+Tubatu.com,2,2015-03-09,Shenzhen,China,Asia,2008,216,"['Sequoia Capital China', ' Matrix Partners China', ' 58.com']",M,e-commerce & direct-to-consumer,7
+Ximalaya FM,2,2017-09-22,Shanghai,China,Asia,2012,71,"['China Creation Ventures', ' Sierra Ventures', ' Xingwang Investment Management']",M,mobile & telecommunications,5
+HEYTEA,2,2019-07-01,Shenzhen,China,Asia,2012,594,"['Sequoia Capital China', ' Tencent Investment', ' BA Capital']",M,other,7
+BGL Group,2,2017-11-24,Peterborough,United Kingdom,Europe,1992,696,['CPP Investment Board'],M,fintech,25
+Claroty,2,2021-06-17,New York,United States,North America,2015,640,"['Bessemer Venture Partners', ' MoreVC', ' Team8']",M,cybersecurity,6
+Improbable,2,2017-05-11,London,United Kingdom,Europe,2012,754,"['Andreessen Horowitz', ' SoftBank Group', ' Temasek Holdings']",M,other,5
+InMobi,2,2014-12-02,Bengaluru,India,Asia,2007,221,"['Kleiner Perkins Caufield & Byers', ' Softbank Corp.', ' Sherpalo Ventures']",M,mobile & telecommunications,7
+MindMaze,2,2016-01-28,Lausanne,Switzerland,Europe,2012,340,['Hinduja Group'],M,health,4
+Ninja Van,2,2021-09-27,Unknown,Singapore,Asia,2014,975,"['B Capital Group', "" Monk's Hill Ventures"", ' Dynamic Parcel Distribution']",M,"supply chain, logistics, & delivery",7
+Pantheon Systems,2,2021-07-13,San Francisco,United States,North America,2010,200,"['Foundry Group', ' Scale Venture Partners', ' SoftBank Group']",M,internet software & services,11
+SellerX,2,2021-12-09,Berlin,Germany,Europe,2020,766,"['Cherry Ventures', ' Felix Capital', ' 83North']",M,e-commerce & direct-to-consumer,1
+AppDirect,2,2015-10-07,San Francisco,United States,North America,2009,431,"['Mithril', ' iNovia Capital', ' Foundry Group']",M,e-commerce & direct-to-consumer,6
+BrewDog,2,2017-04-10,Aberdeen,United Kingdom,Europe,2007,233,"['TSG Consumer Partners', ' Crowdcube']",M,consumer & retail,10
+Enflame,2,2021-01-05,Shanghai,China,Asia,2018,472,"['Tencent Holdings', ' Delta Capital', ' Redpoint Ventures China']",M,hardware,3
+Tradeshift,2,2018-05-30,San Francisco,United States,North America,2009,861,"['Notion Capital', ' Scentan Ventures', ' Kite Ventures']",M,fintech,9
+HeartFlow,2,2017-12-04,Redwood City,United States,North America,2007,568,"['BlueCross BlueShield Venture Partners', ' US Venture Partners']",M,health,10
+Extend,2,2021-05-18,San Francisco,United States,North America,2004,320,"['GreatPoint Ventures', ' Meritech Capital Partners', ' PayPal Ventures']",M,fintech,17
+Airbyte,2,2021-12-17,San Francisco,United States,North America,2020,181,"['Accel', ' Benchmark', ' SV Angel']",M,internet software & services,1
+Andela,2,2021-09-29,New York,United States,North America,2014,381,"['Spark Capital', ' Google Ventures', ' CRE Venture Capital']",M,internet software & services,7
+Ascend Money,2,2021-09-27,Bangkok,Thailand,Asia,2013,150,"['Ant Group', ' Charoen Pokphand Group', ' Bow Wave Capital']",M,fintech,8
+Athelas,2,2022-01-31,Mountain View,United States,North America,2016,150,"['Sequoia Capital', ' General Catalyst', ' Human Capital']",M,health,6
+Built,2,2021-09-30,Nashville,United States,North America,2015,289,"['Nyca Partners', ' Index Ventures', ' Technology Crossover Ventures']",M,internet software & services,6
+candy.com,2,2021-10-21,New York,United States,North America,2021,100,"['Insight Partners', ' Softbank Group', ' Connect Ventures']",M,fintech,0
+Cognite,2,2021-05-19,Lysaker,Norway,Europe,2016,225,"['Technology Crossover Ventures', ' Accel', ' Aker']",M,data management & analytics,5
+CoinList,2,2021-10-15,San Francisco,United States,North America,2017,119,"['Accomplice', ' Polychain Capital', ' GoldenTree Asset Management']",M,fintech,4
+Collective Health,2,2019-06-17,San Francisco,United States,North America,2013,719,"['New Enterprise Associates', ' Founders Fund', ' Google Ventures']",M,fintech,6
+Culture Amp,2,2021-07-29,Richmond,Australia,Oceania,2011,257,"['Felicis Ventures', ' Index Ventures', ' Blackbird Ventures']",M,internet software & services,10
+Devo,2,2021-10-26,Cambridge,United States,North America,2011,381,"['Insight Partners', ' Kibo Ventures', ' Bessemer Venture Partners']",M,data management & analytics,10
+ElasticRun,2,2022-02-07,Pune,India,Asia,2016,435,"['Kalaari Capital', ' Norwest Venture Partners', ' Prosus Ventures']",M,"supply chain, logistics, & delivery",6
+Gett,2,2016-05-24,London,United Kingdom,Europe,2010,828,"['Volkswagen', ' Access Industries', ' Vostok New Ventures']",M,auto & transportation,6
+ID.me,2,2021-03-19,McLean,United States,North America,2010,142,"['Moonshots Capital', ' BoxGroup', ' Blu Venture Investors']",M,cybersecurity,11
+impact.com,2,2021-07-13,Santa Barbara,United States,North America,2008,261,"['Redpoint Ventures', ' Providence Equity Partners', ' Silversmith Capital Partners']",M,internet software & services,13
+Ledger,2,2021-06-10,Paris,France,Europe,2014,466,"['Digital Currency Group', ' Draper Esprit', ' Korelya Capital']",M,hardware,7
+Lusha,2,2021-11-10,New York,United States,North America,2016,245,"['PSG', ' ION Crossover Partners']",M,internet software & services,5
+Matillion,2,2021-09-15,Altrincham,United Kingdom,Europe,2011,310,"['Scale Venture Partners', ' Sapphire Ventures', ' Battery Ventures']",M,data management & analytics,10
+MOLOCO,2,2021-04-29,Redwood City,United States,North America,2013,192,"['Smilegate Investment', ' DSC Investments', ' KTB Ventures']",M,artificial intelligence,8
+Mu Sigma,2,2013-02-07,Northbrook,United States,North America,2004,211,"['Sequoia Capital', ' General Atlantic']",M,data management & analytics,9
+Next Silicon,2,2021-06-14,Tel Aviv,Israel,Asia,2018,203,"['Amiti Ventures', ' Playground Global', ' Aleph']",M,hardware,3
+NotCo,2,2021-07-26,Santiago,Chile,South America,2015,370,"['Kaszek Ventures', ' SOSV', ' Tiger Global Management']",M,artificial intelligence,6
+Olist,2,2021-12-15,Curitiba,Brazil,South America,2015,320,"['Redpoint e.ventures', ' Valor Capital Group', ' SoftBank Latin America Fund']",M,e-commerce & direct-to-consumer,6
+Pacaso,2,2021-03-24,Cincinnati,United States,North America,2020,217,"['Global Founders Capital', ' Shea Ventures', ' Greycroft']",M,fintech,1
+Paradox,2,2021-12-27,Scottsdale,United States,North America,2016,253,"['Brighton Park Capital', ' Blue Cloud Ventures', ' Workday Ventures']",M,internet software & services,5
+Persona,2,2021-09-15,San Francisco,United States,North America,2018,218,"['Coatue Management', ' Index Ventures', ' Founders Fund']",M,cybersecurity,3
+SmartRecruiters,2,2021-07-20,San Francisco,United States,North America,2010,225,"['Mayfield Fund', ' Insight Partners', ' Rembrandt Venture Partners']",M,internet software & services,11
+Snapdocs,2,2021-05-25,San Francisco,United States,North America,2012,253,"['Sequoia Capital', ' Y Combinator', ' F-Prime Capital']",M,fintech,9
+Solugen,2,2021-09-10,Houston,United States,North America,2016,435,"['Fifty Years Fund', ' Refactor Capital', ' Temasek']",M,other,5
+StoreDot,2,2022-01-04,Herzliya,Israel,Asia,2012,190,"['Samsung Ventures', ' SingulariTeam', ' BP Ventures']",M,other,10
+Strava,2,2020-11-16,San Francisco,United States,North America,2009,152,"['Jackson Square Ventures', ' Madrone Capital Partners', ' Sequoia Capital']",M,internet software & services,11
+Temporal,2,2022-02-16,Bellevue,United States,North America,2019,129,"['Amplify Partners', ' Addition', ' Madrona Venture Group']",M,internet software & services,3
+TuJia,2,2015-06-17,Beijing,China,Asia,2011,755,"['GGV Capital', ' QiMing Venture Partnersl']",M,travel,4
+Veho,2,2021-12-21,Boulder,United States,North America,2016,299,"['General Catalyst', ' Origin Ventures', ' Fontinalis Partners']",M,"supply chain, logistics, & delivery",5
+Veriff,2,2022-01-26,Tallinn,Estonia,Europe,2015,177,"['Accel', ' Institutional Venture Partners', ' Tiger Global Management']",M,artificial intelligence,7
+Whatnot,2,2021-09-16,Marina del Rey,United States,North America,2019,225,"['Y Combinator', ' Andreessen Horowitz', ' Wonder Ventures']",M,e-commerce & direct-to-consumer,2
+Zenoti,2,2020-12-15,Bellevue,United States,North America,2010,331,"['Norwest Venture Partners', ' Accel', ' Tiger Global Management']",M,internet software & services,10
+Zeta,2,2021-05-24,San Francisco,United States,North America,2015,340,"['Sodexo Ventures', ' SoftBank Group']",M,fintech,6
+Mobile Premier League,2,2021-09-15,Bengaluru,India,Asia,2018,376,"['Sequoia Capital India', ' RTP Global', ' Go-Ventures']",M,internet software & services,3
+Uala,2,2021-08-13,Buenos Aires,Argentina,South America,2017,544,"['Soros Fund Management', ' Ribbit Capital', ' Monashees+']",M,fintech,4
+Wenheyou,2,2021-04-17,Hunan,China,Asia,2013,90,"['Sequoia Capital China', ' Warburg Pincus', ' IDG Capital']",M,other,8
+Star Charge,2,2021-05-19,Changzhou,China,Asia,2014,125,"['Shunwei Capital Partners', ' China Media Group', ' Guangzhou Huiyin Aofeng Equity Investment Fund']",M,auto & transportation,7
+ABL Space Systems,2,2021-03-25,El Segundo,United States,North America,2017,419,"['T. Rowe Price', ' Lockheed Martin Ventures', ' Fidelity Investment']",M,other,4
+Afiniti,2,2017-04-14,Hamilton,Bermuda,North America,2006,120,['GAM Holding'],M,artificial intelligence,11
+ASAPP,2,2021-05-19,New York,United States,North America,2014,380,"['March Capital Partners', ' HOF Capital', ' Emergence Capital Partners']",M,artificial intelligence,7
+BitSight Technologies,2,2021-09-13,Boston,United States,North America,2013,401,"['Menlo Ventures', ' GGV Capital', ' Flybridge Capital Partners']",M,cybersecurity,8
+Cao Cao Mobility,2,2018-01-17,Hangzhou,China,Asia,2015,744,"['People Electrical Appliance Group China', ' Zhongrong International Trust']",M,auto & transportation,3
+Capitolis,2,2022-03-22,New York,United States,North America,2017,282,"['Sequoia Capital', ' Index Ventures', ' S Capital']",M,fintech,5
+Carbon,2,2015-08-20,Redwood City,United States,North America,2013,682,"['Google Ventures', ' Sequoia Capital', ' Wakefield Group']",M,hardware,2
+Clio,2,2021-04-27,Burnaby,Canada,North America,2008,386,"['OMERS Private Equity', ' T. Rowe Price', ' Technology Crossover Ventures']",M,internet software & services,13
+Exabeam,2,2021-06-01,Foster City,United States,North America,2013,390,"['Norwest Venture Partners', ' Aspect Ventures', ' Lightspeed Venture Partners']",M,cybersecurity,8
+ezCater,2,2019-04-02,Boston,United States,North America,2007,421,"['Insight Venture Partners', ' ICONIQ Capital', ' Launchpad Venture Group']",M,"supply chain, logistics, & delivery",12
+HomeLight,2,2021-09-02,San Francisco,United States,North America,2012,219,"['Zeev Ventures', ' Menlo Ventures', 'Crosslink Capital']",M,fintech,9
+HoneyBook,2,2021-05-04,San Francisco,United States,North America,2013,498,"['Norwest Venture Partners', ' Hillsven Capital', ' Aleph']",M,internet software & services,8
+Infinidat,2,2015-04-29,Waltham,United States,North America,2011,325,"['TPG Growth', ' Goldman Sachs']",M,hardware,4
+Mercury,2,2021-07-03,San Francisco,United States,North America,2019,152,"['Andreessen Horowitz', ' Coatue Management', ' Clocktower Technology Ventures']",M,fintech,2
+Paxos,2,2021-04-29,New York,United States,North America,2012,538,"['Liberty City Ventures', ' RRE Ventures', ' Mithril Capital Management']",M,fintech,9
+SafetyCulture,2,2021-05-03,Sydney,Australia,Oceania,2004,222,"['Blackbird Ventures', ' IndexVentures', ' Tiger Global Management']",M,internet software & services,17
+SmartHR,2,2021-06-08,Tokyo,Japan,Asia,2013,190,"['BEENEXT', ' World Innovation Lab', ' Light Street Capital']",M,fintech,8
+Tonal,2,2021-03-31,San Francisco,United States,North America,2015,450,"['Mayfield Fund', ' Shasta Ventures', ' L Catterton']",M,e-commerce & direct-to-consumer,6
+Truepill,2,2021-10-27,Hayward,United States,North America,2016,255,"['Initialized Capital', ' Sound Ventures', ' TI Platform Management']",M,health,5
+Unite Us,2,2021-03-16,New York,United States,North America,2014,195,"['Insight Partners', ' Sequoia Capital', ' Index Ventures']",M,health,7
+Verkada,2,2020-01-29,San Mateo,United States,North America,2016,139,"['next47', ' First Round Capital', ' Sequoia Capital']",M,cybersecurity,4
+Wayflyer,2,2022-02-01,Dublin,Ireland,Europe,2019,236,"['QED Investors', ' DST Global', ' Left Lane Capital']",M,fintech,3
+Zhubajie,2,2015-06-16,Chongqing,China,Asia,2006,445,"['Cybernaut Growth Fund', ' IDG Capital']",M,internet software & services,9
+Transcarent,2,2022-01-11,San Francisco,United States,North America,2020,298,"['Alta Partners', ' General Catalyst', ' Jove Equity Partners']",M,health,2
+Trader Interactive,2,2021-05-12,Norfolk,United States,North America,2017,624,['Carsales'],M,other,4
+Glossier,2,2019-03-19,New York,United States,North America,2014,266,"['Forerunner Ventures', ' Institutional Venture Partners', ' Thrive Capital']",M,consumer & retail,5
+Hibob,2,2021-10-12,Tel Aviv,Israel,Asia,2015,274,"['Bessemer Venture Partners', ' Eight Roads Ventures', ' Battery Ventures']",M,internet software & services,6
+Jobandtalent,2,2021-12-01,Madrid,Spain,Europe,2009,902,"['Kibo Ventures', ' SoftBank Group', ' Atomico']",M,internet software & services,12
+Optimism,2,2022-03-17,San Francisco,United States,North America,2019,179,"['Paradigm', ' Huobi Ventures', ' Andreessen Horowitz']",M,internet software & services,3
+solarisBank,2,2021-07-13,Berlin,Germany,Europe,2016,403,"['Yabeo Capital', ' SBI Investment', ' Vulcan Capital']",M,fintech,5
+WEMAKEPRICE,2,2015-09-09,Seoul,South Korea,Asia,2009,397,"['IMM Investment', ' NXC']",M,e-commerce & direct-to-consumer,6
+Alan,2,2021-04-19,Paris,France,Europe,2016,364,"['Index Ventures', ' Temasek', ' Portag3 Ventures']",M,fintech,5
+Biren Technology,2,2020-08-18,Shanghai,China,Asia,2019,285,"['V FUND', ' IDG Capital', ' Green Pine Capital Partners']",M,hardware,1
+Voodoo,2,2020-08-17,Paris,France,Europe,2013,517,"['Tencent Holdings', ' Goldman Sachs']",M,other,7
+Carsome,2,2021-07-12,Selangor,Malaysia,Asia,2015,577,"['Gobi Partners', ' 500 Startups', ' Ondine Capital']",M,e-commerce & direct-to-consumer,6
+CircleCI,2,2021-05-11,San Francisco,United States,North America,2011,315,"['Threshold Ventures', ' Baseline Ventures', ' Harrison Metal']",M,internet software & services,10
+DealShare,2,2022-01-27,Bengaluru,India,Asia,2018,612,"['Alpha Wave Global', ' Matrix Partners India', ' Tiger Global Management']",M,e-commerce & direct-to-consumer,4
+DispatchHealth,2,2021-03-03,Denver,United States,North America,2013,403,"['Alta Partners', ' Questa Capital', ' Echo Health Venturesl']",M,health,8
+Dragos,2,2021-10-28,Hanover,United States,North America,2016,358,"['DataTribe', ' Energy Impact Partners', ' AllegisCyber Capital']",M,cybersecurity,5
+Gousto,2,2020-11-03,London,United Kingdom,Europe,2012,311,"['MMC Ventures', ' BGF Ventures', ' Unilever Ventures']",M,"supply chain, logistics, & delivery",8
+H2O.ai,2,2021-11-07,Mountain View,United States,North America,2011,251,"['Nexus Venture Partners', ' Transamerica Ventures', ' Crane Venture Partners']",M,artificial intelligence,10
+Harness,2,2021-01-14,San Francisco,United States,North America,2016,195,"['Menlo Ventures', ' Alkeon Capital Management', ' Citi Ventures']",M,artificial intelligence,5
+Harry's,2,2018-02-16,New York,United States,North America,2013,792,"['Thrive Capital', ' Tiger Global Management', ' Temasek']",M,consumer & retail,5
+PAX,2,2018-10-22,San Francisco,United States,North America,2007,542,"['Tao Capital Partners', ' Global Asset Capital', ' Tiger Global Management']",M,consumer & retail,11
+Productboard,2,2022-02-02,San Francisco,United States,North America,2014,261,"['Index Ventures', ' Kleiner Perkins Caufield & Byers', ' Bessemer Venture Partners']",M,internet software & services,8
+Reltio,2,2021-11-04,Redwood City,United States,North America,2011,237,"['Crosslink Capital', ' .406 Ventures', ' Sapphire Ventures']",M,data management & analytics,10
+Spotter,2,2022-02-16,Los Angeles,United States,North America,2019,231,"['SoftBank Group', ' Access Industries', ' Crossbeam Venture Partners']",M,fintech,3
+Vestiaire Collective,2,2021-03-01,Paris,France,Europe,2009,663,"['Eurazeo', ' IDInvest Partners', ' Balderton Capital']",M,e-commerce & direct-to-consumer,12
+Wave,2,2021-09-07,Dakar,Senegal,Africa,2018,200,"['Stripe', ' Founders Fund', ' Partech Partners']",M,fintech,3
+ZenBusiness,2,2021-11-09,Austin,United States,North America,2015,275,"['Greycroft', ' Lerer Hippeau', ' Geekdom Fund']",M,fintech,6
+Bowery Farming,2,2021-05-25,New York,United States,North America,2015,497,"['Temasek', ' Google Ventures', ' General Catalyst']",M,other,6
+Greenlight,2,2020-09-24,Atlanta,United States,North America,2014,557,"['Relay Ventures', ' TTV Capital', ' Canapi Ventures']",M,fintech,6
+KeepTruckin,2,2019-04-23,San Francisco,United States,North America,2013,417,"['Google Ventures', ' Index Ventures', ' Scale Venture Partners']",M,"supply chain, logistics, & delivery",6
+Odoo,2,2021-07-29,Louvain-la-Neuve,Belgium,Europe,2005,229,"['Summit Partners', ' Noshaq', ' Sofinnova Partners']",M,internet software & services,16
+Skydance Media,2,2020-02-11,Santa Monica,United States,North America,2010,275,"['RedBird Capital Partners', ' CJ ENM', ' Tencent Holdings']",M,other,10
+Uptake,2,2015-10-27,Chicago,United States,North America,2014,218,"['Revolution', ' New Enterprise Associates', ' Caterpillar']",M,artificial intelligence,1
+MoMo,2,2021-12-10,Ho Chi Minh City,Vietnam,Asia,2013,434,"['Goodwater Capital', ' Warburg Pincus', ' GS Growth']",M,fintech,8
+Algolia,2,2021-07-28,San Francisco,United States,North America,2012,334,"['Accel', ' Alven Capital', ' Storm Ventures']",M,internet software & services,9
+Pattern,2,2021-10-06,Lehi,United States,North America,2013,277,"['Knox Lane', ' Ainge Advisory', ' Carlson Private Capital Partners']",M,internet software & services,8
+Spinny,2,2021-11-24,Gurugram,India,Asia,2015,509,"['General Catalyst', ' Eleation Capital', ' Avenir Growth Capital']",M,e-commerce & direct-to-consumer,6
+Trulioo,2,2021-06-07,Vancouver,Canada,North America,2011,474,"['Blumberg Capital', ' American Express Ventures', ' BDC Venture Capital']",M,cybersecurity,10
+Zume,2,2018-11-01,Mountain View,United States,North America,2015,423,"['Softbank Group', ' AME Cloud Ventures', ' SignalFire']",M,consumer & retail,3
+AIWAYS,2,2018-04-16,Shanghai,China,Asia,2017,792,"['Jiangsu Sha Steel Group', ' Shanghai Puyin Industry', ' Funa Yuanchuang Technology']",M,auto & transportation,1
+Bitso,2,2021-05-05,Mexico City,Mexico,North America,2014,378,"['Pantera Capital', ' QED Investors', ' Coinbase Ventures']",M,fintech,7
+BloomReach,2,2022-02-23,Mountain View,United States,North America,2009,422,"['Bain Capital Ventures', ' Sixth Street Growth', ' Lightspeed Venture Partners']",M,artificial intelligence,13
+Current,2,2021-04-27,New York,United States,North America,2015,402,"['Expa', ' QED Investors', ' Foundation Capital']",M,fintech,6
+Dialpad,2,2020-10-06,San Francisco,United States,North America,2011,400,"['Andreessen Horowitz', ' Google Ventures', ' Section 32']",M,internet software & services,9
+G7 Networks,2,2022-02-15,Beijing,China,Asia,2006,710,"['Eastern Bell Capital 32', ' SDIC CMC Investment Management', ' Trustbridge Partners']",M,"supply chain, logistics, & delivery",16
+Gympass,2,2019-06-12,New York,United States,North America,2012,525,"['General Atlantic', ' SoftBank Group', ' Atomico']",M,internet software & services,7
+MUSINSA,2,2019-11-11,Seoul,South Korea,Asia,2001,287,['Sequoia Capital'],M,e-commerce & direct-to-consumer,18
+NuCom Group,2,2018-02-22,Unterfoehring,Germany,Europe,2016,550,['General Atlantic'],M,other,2
+Reify Health,2,2021-08-10,Boston,United States,North America,2012,259,"['Sierra Ventures', ' Battery Ventures', ' Asset Management Ventures']",M,health,9
+Diamond Foundry,2,2021-03-29,San Francisco,United States,North America,2012,351,"['Fashion Tech Lab', ' Fidelity Investments', ' Vast Ventures']",M,other,9
+FullStory,2,2021-08-04,Atlanta,United States,North America,2014,172,"['Google Ventures', ' Kleiner Perkins Caufield & Byers', ' Stripes Group']",M,internet software & services,7
+Lightricks,2,2019-07-31,Jerusalem,Israel,Asia,2013,305,"['Viola Ventures', ' Insight Partners', ' ClalTech', ' Goldman Sachs']",M,artificial intelligence,6
+Opentrons,2,2021-09-23,New York,United States,North America,2016,240,"['SOSV', ' Khosla Ventures', ' Lerer Hippeau']",M,hardware,5
+ZocDoc,2,2015-08-20,New York,United States,North America,2007,374,"['Founders Fund', ' Khosla Ventures', ' Goldman Sachs']",M,health,8
+Accelerant,2,2022-01-12,Colchester,United Kingdom,Europe,2018,193,"['Deer Park Road', ' Altamont Capital Partners', ' Eldridge']",M,other,4
+Huaqin Telecom Technology,2,2019-10-08,Shanghai,China,Asia,2005,298,"['Zhangjiang Haocheng Venture Capital', ' Walden International', ' Intel Capital']",M,mobile & telecommunications,14
+Addepar,2,2021-06-15,Mountain View,United States,North America,2009,676,"['8VC', ' D1 Capital Partners', ' Sway Ventures']",M,fintech,12
+YITU Technology,2,2018-03-08,Shanghai,China,Asia,2012,401,"['Sequoia Capital China', ' Banyan Capital']",M,artificial intelligence,6
+CloudWalk,2,2021-09-08,Sao Paulo,Brazil,South America,2015,345,"['Plug and Play Ventures', ' Valor Capital Group', ' DST Global']",M,fintech,6
+Retool,2,2021-12-22,San Francisco,United States,North America,2000,96,['Sequoia Capital'],M,internet software & services,21
+Volocopter,2,2022-03-04,Bruchsal,Germany,Europe,2011,599,"['btov Partners', ' Geely', ' Intel Capital']",M,auto & transportation,11
+Acorns,2,2022-03-09,Irvine,United States,North America,2012,507,"['e.ventures', ' Bain Capital Ventures', ' Greycroft']",M,fintech,10
+Aledade,2,2021-01-19,Bethesda,United States,North America,2014,295,"['Venrock', ' CVF Capital Partners', ' ARCH Venture Partners']",M,health,7
+CoinSwitch Kuber,2,2021-10-06,Bangalore,India,Asia,2017,301,"['Tiger Global Management', ' Sequoia Capital India', ' Ribbit Capital']",M,fintech,4
+ConcertAI,2,2022-03-29,Boston,United States,North America,2018,300,"['Sixth Street Partners', ' Declaration Partners', ' Maverick Ventures Israel']",M,artificial intelligence,4
+Eightfold.ai,2,2020-10-27,Santa Clara,United States,North America,2016,397,"['Foundation Capital', ' Institutional Venture Partners', ' General Catalyst']",M,internet software & services,4
+FirstCry,2,2020-02-07,Pune,India,Asia,2010,441,"['SoftBank Group', ' SAIF Partners India', ' Valiant Capital Partners']",M,e-commerce & direct-to-consumer,10
+Forto,2,2021-06-21,Berlin,Germany,Europe,2016,593,"['Cherry Ventures', ' Northzone Ventures', ' Global Founders Capital']",M,"supply chain, logistics, & delivery",5
+GoCardless,2,2022-02-08,London,United Kingdom,Europe,2011,529,"['Accel', ' Passion Capital', ' Balderton Capital']",M,fintech,11
+InVision,2,2017-11-01,New York,United States,North America,2020,349,"['FirstMark Capital', ' Tiger Global Management', ' ICONIQ Capital']",M,internet software & services,-3
+Jeeves,2,2022-03-14,Orlando,United States,North America,2019,268,"['Tencent Holdings', ' CRV', ' Clocktower Technology Ventures']",M,fintech,3
+Medable,2,2021-10-26,Palo Alto,United States,North America,2013,507,"['GSR Ventures', ' Sapphire Ventures', ' Streamlined Ventures']",M,internet software & services,8
+Moveworks,2,2021-06-30,Mountain View,United States,North America,2016,305,"['Lightspeed Venture Partners', ' Sapphire Ventures', ' Kleiner Perkins Caufield & Byers']",M,artificial intelligence,5
+MX Technologies,2,2021-01-13,Lehi,United States,North America,2010,450,"['Point72 Ventures', ' Pelion Venture Partners', ' Commerce Ventures']",M,fintech,11
+PayFit,2,2022-01-06,London,United Kingdom,Europe,2016,496,"['Accel', ' frst', ' Kima Ventures']",M,fintech,6
+ReCharge,2,2021-05-06,Los Angeles,United States,North America,2017,277,"['ICONIQ Growth', ' Bain Capital Ventures', ' Summit Partners']",M,fintech,4
+Roofstock,2,2022-03-10,Oakland,United States,North America,2015,365,"['Khosla Ventures', ' Bain Capital Ventures', ' Lightspeed Venture Partners']",M,fintech,7
+Urban Company,2,2021-04-27,Gurgaon,India,Asia,2014,371,"['VY Capital', ' Accel', ' Elevation Capital']",M,e-commerce & direct-to-consumer,7
+Rokt,2,2021-12-16,New York,United States,North America,2012,487,"['Square Peg Capital', ' TDM Growth Partners', ' Tiger Global Management']",M,internet software & services,9
+Starling Bank,2,2021-03-08,London,United Kingdom,Europe,2014,791,"['JTC Group', ' Qatar Investment Authority', ' Fidelity Investment']",M,fintech,7
+Ankorstore,2,2022-01-10,Paris,France,Europe,2019,422,"['Global Founders Capital', ' Aglae Ventures', ' Alven Capital']",M,e-commerce & direct-to-consumer,3
+4Paradigm,2,2018-12-19,Beijing,China,Asia,2015,1,"['Sequoia Capital China', ' China Construction Bank', ' Bank of China']",B,artificial intelligence,3
+Advance Intelligence Group,2,2021-09-23,Unknown,Singapore,Asia,2016,536,"['Vision Plus Capital', ' GSR Ventures', ' ZhenFund']",M,artificial intelligence,5
+Aiven,2,2021-10-18,Helsinki,Finland,Europe,2016,210,"['Institutional Venture Partners', ' Atomico', ' Earlybird Venture Capital']",M,internet software & services,5
+Akulaku,2,2022-02-15,Jakarta,Indonesia,Asia,2014,438,"['DCM Ventures', ' IDG Capital', ' Siam Commercial Bank']",M,e-commerce & direct-to-consumer,8
+Apeel Sciences,2,2020-05-26,Goleta,United States,North America,2012,640,"['Upfront Ventures', ' Tao Capital Partners', ' Andreessen Horowitz']",M,other,8
+AppsFlyer,2,2020-01-21,San Francisco,United States,North America,2011,293,"['Magma Venture Partners', ' Pitango Venture Capital', ' Qumra Capital']",M,mobile & telecommunications,9
+Avant,2,2012-12-17,Chicago,United States,North America,2012,658,"['RRE Ventures', ' Tiger Global', ' August Capital']",M,artificial intelligence,0
+Aviatrix,2,2021-09-08,Santa Clara,United States,North America,2014,341,"['Ignition Partners', ' Formation 8', ' CRV']",M,internet software & services,7
+BlaBlaCar,2,2015-09-16,Paris,France,Europe,2006,449,"['Accel Partners', ' Index Ventures', ' Insight Venture Partners']",M,auto & transportation,9
+Black Sesame Technologies,2,2021-09-22,Shanghai,China,Asia,2016,115,"['Northern Light Venture Capital', ' Xiaomi', ' FutureX Capital']",M,artificial intelligence,5
+Bunq,2,2021-06-18,Amsterdam,Netherlands,Europe,2013,281,['Undisclosed'],M,fintech,8
+Calm,2,2019-02-06,San Francisco,United States,North America,2012,218,"['Insight Venture Partners', ' TPG Growth', ' Sound Ventures']",M,consumer & retail,7
+Chipper Cash,2,2021-05-31,San Francisco,United States,North America,2017,302,"['Deciens Capital', ' Bezos Expeditions', ' 500 Startups']",M,fintech,4
+Clearco,2,2021-04-20,Toronto,Canada,North America,2015,433,"['Highland Capital Partners', ' Oak HC/FT Partners', ' Emergence Capital Partners']",M,fintech,6
+ClickHouse,2,2021-10-28,Portola Valley,United States,North America,2021,300,"['Lightspeed Venture Partners', ' Almaz Capital Partners', ' Altimeter Capital']",M,data management & analytics,0
+Clip,2,2021-06-10,Mexico City,Mexico,North America,2012,381,"['Alta Ventures Mexico', ' General Atlantic', ' SoftBank Group']",M,fintech,9
+Cloudinary,2,2022-02-15,Santa Clara,United States,North America,2011,100,"['Blackstone', ' Bessemer Venture Partners']",M,internet software & services,11
+Deliverr,2,2021-11-22,San Francisco,United States,North America,2017,456,"['8VC', ' Activant Capital', ' GLP Capital Partners']",M,"supply chain, logistics, & delivery",4
+Divvy Homes,2,2021-08-13,San Francisco,United States,North America,2017,370,"['Andreessen Horowitz', ' Caffeinated Capital', ' SciFi VC']",M,fintech,4
+Dremio,2,2021-01-06,Santa Clara,United States,North America,2015,410,"['Lightspeed Venture Partners', ' Redpoint Ventures', ' Norwest Venture Partners']",M,data management & analytics,6
+Druva,2,2019-06-20,Sunnyvale,United States,North America,2007,475,"['Nexus Venture Partners', ' Tenaya Capital', ' Sequoia Capital']",M,data management & analytics,12
+Everlaw,2,2020-03-10,Oakland,United States,North America,2010,299,"['K9 Ventures', ' Menlo Ventures', ' Andreessen Horowitz']",M,internet software & services,10
+Exotec,2,2022-01-17,Croix,France,Europe,2015,450,"['Breega Capital', ' Iris Capital', ' 360 Capital Partners']",M,hardware,7
+Formlabs,2,2018-08-01,Somerville,United States,North America,2011,251,"['Pitango Venture Capital', ' DFJ Growth Fund', ' Foundry Group']",M,hardware,7
+Guoquan Shihui,2,2021-03-17,Shanghai,China,Asia,2017,523,"['Tiantu Capital', ' CMB International Capital', ' Vision Knight Capital']",M,consumer & retail,4
+Hive,2,2021-04-21,San Francisco,United States,North America,2013,121,"['Tomales Bay Capital', ' Bain & Company', ' General Catalyst']",M,artificial intelligence,8
+HuiMin,2,2016-09-05,Beijing,China,Asia,2013,517,"['Zheshang Venture Capital', ' GP Capital', ' Western Capital Management']",M,e-commerce & direct-to-consumer,3
+Iterable,2,2021-06-15,San Francisco,United States,North America,2013,342,"['CRV', ' Blue Cloud Ventures', ' Index Ventures']",M,internet software & services,8
+Kajabi,2,2021-05-04,Irvine,United States,North America,2010,550,"['Meritech Capital Partners', ' Tiger Global Management', ' Spectrum Equity']",M,internet software & services,11
+Kaseya,2,2019-03-27,Miami,United States,North America,2000,545,"['Insight Partners', ' TPG Alternative & Renewable Technologies', ' Ireland Strategic Investment Fund']",M,cybersecurity,19
+Keep,2,2020-05-19,Beijing,China,Asia,2014,614,"['Bertelsmann Asia Investments', ' GGV Capital', ' Morningside Venture Capital']",M,mobile & telecommunications,6
+KRY,2,2021-04-27,Stockholm,Sweden,Europe,2014,569,"['Index Ventures', ' Creandum', ' Accel']",M,health,7
+Loggi,2,2019-06-05,Sao Paulo,Brazil,South America,2013,507,"['Qualcomm Ventures', ' SoftBank Group', ' Monashees+']",M,"supply chain, logistics, & delivery",6
+LTK,2,2021-11-22,Dallas,United States,North America,2011,315,"['SoftBank Group', ' Maverick Capital']",M,internet software & services,10
+Lunar,2,2021-07-12,Aarhus,Denmark,Europe,2015,448,"['SEED Capital', ' Greyhound Capital', ' Socii Capital']",M,fintech,6
+Mafengwo,2,2019-05-23,Beijing,China,Asia,2010,503,"['Qiming Venture Partners', ' Capital Today', ' General Atlantic']",M,travel,9
+Magic Leap,2,2014-10-21,Plantation,United States,North America,2010,3,"['Obvious Ventures', ' Qualcomm Ventures', ' Andreessen Horowitz']",B,hardware,4
+Misfits Market,2,2021-04-21,Pennsauken,United States,North America,2018,527,"['Accel', ' D1 Capita Partners', ' Greenoaks Capital Management']",M,e-commerce & direct-to-consumer,3
+Modern Treasury,2,2021-10-06,San Francisco,United States,North America,2018,183,"['Benchmark', ' Altimeter Capital', ' Quiet Capital']",M,fintech,3
+MURAL,2,2021-07-20,San Francisco,United States,North America,2011,192,"['Insight Partners', ' Tiger Global Management', ' Gradient Ventures']",M,internet software & services,10
+Mynt,2,2021-11-01,Taguig City,Philippines,Asia,2015,475,"['Insight Partners', ' Warburg Pincus', ' Ayala Corporation']",M,fintech,6
+Neo4j,2,2021-06-17,San Mateo,United States,North America,2007,408,"['Eight Roads Ventures', ' One Peak Partners', ' Creandum']",M,data management & analytics,14
+Netlify,2,2021-11-17,San Francisco,United States,North America,2014,202,"['Andreessen Horowitz', ' Kleiner Perkins Caufield & Byers', ' EQT Ventures']",M,internet software & services,7
+OCSiAl,2,2019-03-04,Leudelange,Luxembourg,Europe,2012,285,"['A&NN', ' Rusnano']",M,other,7
+Opay,2,2021-08-23,Lagos,Nigeria,Africa,2018,570,"['Sequoia Capital China', ' Source Code Capital', ' Redpoint Ventures China']",M,fintech,3
+Pipe,2,2021-05-19,Miami,United States,North America,2019,566,"['next47', ' MaC Venture Capital', ' FinVC']",M,fintech,2
+Preferred Networks,2,2018-05-17,Tokyo,Japan,Asia,2014,147,"['Toyota Motor Corporation', ' Mizuho Financial Group', ' FANUC']",M,artificial intelligence,4
+Quora,2,2017-04-21,Mountain View,United States,North America,2009,226,"['Y Combinator', ' Matrix Partners', ' Benchmark']",M,internet software & services,8
+Redis Labs,2,2020-08-25,Mountain View,United States,North America,2011,356,"['Viola Ventures', ' Dell Technologies Capital', ' Bain Capital Ventures']",M,data management & analytics,9
+SmartNews,2,2019-08-05,Tokyo,Japan,Asia,2012,410,"['Japan Post Capital', ' Globis Capital Partners', ' Atomico']",M,mobile & telecommunications,7
+Spring Health,2,2021-09-16,New York,United States,North America,2016,296,"['Rethink Impact', ' Work-Bench', ' RRE Ventures']",M,health,5
+StarkWare,2,2021-11-17,Netanya,Israel,Asia,2018,161,"['Sequoia Capital', ' Paradigm', ' Pantera Capital']",M,cybersecurity,3
+SWORD Health,2,2021-11-22,New York,United States,North America,2015,296,"['Khosla Ventures', ' Green Innovations', ' Founders Fund']",M,health,6
+Tier,2,2021-10-25,Berlin,Germany,Europe,2018,587,"['Northzone Ventures', ' White Star Capital', ' Novator Partners']",M,travel,3
+Trendy Group International,2,2012-02-13,Kowloon,Hong Kong,Asia,1999,200,['L Capital Partners'],M,consumer & retail,13
+Unqork,2,2020-10-06,New York,United States,North America,2017,365,"['Blackrock', ' capitalG', ' World Lab Innovation']",M,fintech,3
+VerbIT,2,2021-06-08,New York,United States,North America,2016,432,"['ClalTech', ' Vertex Ventures', ' Oryzn Capital']",M,artificial intelligence,5
+Virta Health,2,2020-12-02,San Francisco,United States,North America,2015,373,"['Caffeinated Capital', ' Obvious Ventures', ' Venrock']",M,health,5
+Xinchao Media,2,2018-04-09,Chengdu,China,Asia,2007,768,"['JD.com', ' Baidu', ' Vision Plus Capital']",M,internet software & services,11
+Xingyun Group,2,2020-09-24,Shenzhen,China,Asia,2015,950,"['Matrix Partners China', ' Eastern Bell Capital', ' Hongtai Capital Holdings']",M,e-commerce & direct-to-consumer,5
+XtalPi,2,2021-08-11,Shenzhen,China,Asia,2014,786,"['Tencent Holdings', ' 5Y Capital', ' Sequoia Capital China']",M,artificial intelligence,7
+Zilch,2,2021-11-10,London,United Kingdom,Europe,2018,339,"['Gauss Ventures', ' Ventura Capital', ' dmg ventures']",M,fintech,3
+56PINGTAI,1,2021-01-25,Shanghai,China,Asia,2013,188,"['QF Capital', ' QC Capital', ' Unicom Innovation Venture Capital']",M,"supply chain, logistics, & delivery",8
+Alzheon,1,2020-09-30,Framingham,United States,North America,2013,94,"['ARCH Venture Partners', ' Ally Bridge Group']",M,health,7
+Aprogen,1,2019-05-31,Seongnam-Si,South Korea,Asia,2000,62,"['Lindeman Asia Investment', ' Nichi-Iko Pharmaceutical']",M,health,19
+Axtria,1,2021-05-13,Berkeley Heights,United States,North America,2009,206,"['Helion Venture Partners', ' Bain Capital Tech Opportunities', ' Sequoia Capital India']",M,data management & analytics,12
+Cell C,1,2017-08-07,Midrand,South Africa,Africa,2000,547,"['Blue Label Telecoms', ' Net1 UEPS Technologies']",M,mobile & telecommunications,17
+China Cloud,1,2018-06-11,Wuxi,China,Asia,2010,523,"['V Star Capital', ' GF Xinde Investment Management Co.', ' Haitong Leading Capital Management']",M,hardware,8
+CredAvenue,1,2022-03-07,Chennai,India,Asia,2017,227,"['Insight Partners', ' B Capital Group', ' Lightspeed Venture Partners']",M,fintech,5
+DeepBlue Technology,1,2018-04-16,Shanghai,China,Asia,2014,79,"['DESUN Capital', ' Yunfeng Capital', ' Meridian Capital']",M,artificial intelligence,4
+dMed Biopharmaceutical,1,2021-07-12,Shanghai,China,Asia,2016,214,"['Qiming Venture Partners', ' Vivo Capital', ' Sequoia Capital China']",M,health,5
+Einride,1,2021-12-31,Stockholm,Sweden,Europe,2016,151,"['Temasek', ' BUILD Capital Partners', ' Northzone Ventures']",M,auto & transportation,5
+EQRx,1,2021-01-11,Cambridge,United States,North America,2020,700,"['Nextech Invest', ' Casdin Capital', ' Google Ventures']",M,health,1
+Everly Health,1,2020-12-03,Austin,United States,North America,2015,231,"['Highland Capital Partners', ' Next Coast Ventures', ' SoGal Ventures']",M,e-commerce & direct-to-consumer,5
+Fair,1,2018-12-20,Santa Monica,United States,North America,2016,2,"['CreditEase Fintech Investment Fund', ' BMW i Ventures', ' SoftBank Group']",B,auto & transportation,2
+Flipboard,1,2015-07-22,Palo Alto,United States,North America,2010,211,"['Kleiner Perkins Caufield & Byers', ' Comcast Ventures', ' Insight Partners']",M,internet software & services,5
+Globality,1,2019-01-22,Menlo Park,United States,North America,2015,310,['SoftBank Group'],M,artificial intelligence,4
+Hosjoy,1,2018-10-18,Nanjing,China,Asia,2009,139,"['U.S.-China Green Fund', ' Founder H Fund', ' Richland Equities']",M,e-commerce & direct-to-consumer,9
+Huisuanzhang,1,2021-05-24,Beijing,China,Asia,2015,227,"['IDG Capital', ' Gaocheng Capital', ' Chuanrong Capital']",M,fintech,6
+HuJiang,1,2015-10-29,Shanghai,China,Asia,2001,223,"['China Minsheng Investment', ' Baidu', ' Wanxin Media']",M,edtech,14
+Hyperchain,1,2021-04-11,Hangzhou,China,Asia,2016,249,"['Yinhong Equity Investment Fund', ' E Fund', ' Ideal International']",M,fintech,5
+iTutorGroup,1,2015-11-18,Shanghai,China,Asia,1998,315,"['QiMing Venture Partners', ' Temasek Holdings', ' Silverlink Capital']",M,edtech,17
+JimuBox,1,2015-04-21,Beijing,China,Asia,2013,131,"['Matrix Partners China', ' Ventech China', ' Shunwei Capital Partners']",M,fintech,2
+Juma Peisong,1,2018-11-26,Chengdu,China,Asia,2011,281,"['Ding Xiang Capital', ' New Hope Fund', ' Sino-Ocean Capital']",M,"supply chain, logistics, & delivery",7
+Justworks,1,2020-01-28,New York,United States,North America,2012,143,"['Index Ventures', ' Thrive Capital', ' Bain Capital Ventures']",M,internet software & services,8
+Keenon Robotics,1,2021-09-15,Shanghai,China,Asia,2010,229,"['Yunqi Partners', ' SoftBank Group', ' iVision Ventures']",M,"supply chain, logistics, & delivery",11
+Kuaigou Dache,1,2018-07-13,Tianjin,China,Asia,2014,650,"['Sequoia Capital China', ' InnoVision Capital', ' Qianhai Fund of Funds']",M,"supply chain, logistics, & delivery",4
+LifeMiles,1,2015-07-13,Bogota,Colombia,South America,2011,344,['Advent International'],M,other,4
+LinkSure Network,1,2015-01-01,Shanghai,China,Asia,2013,52,['Haitong Kaiyuan Investment'],M,mobile & telecommunications,2
+MobiKwik,1,2021-10-13,Gurugram,India,Asia,2009,249,"['Sequoia Capital India', ' The Times Group', ' GMO VenturePartners']",M,fintech,12
+Modernizing Medicine,1,2017-05-10,Boca Raton,United States,North America,2010,394,"['Warburg Pincus', ' Summit Partners', ' Sands Capital']",M,health,7
+OVH,1,2016-08-15,Roubaix,France,Europe,1999,1,"['KKR', ' TowerBrook Capital Partners']",B,other,17
+Phenom People,1,2021-04-07,Ambler,United States,North America,2011,163,"['Sierra Ventures', ' AXA Venture Partners', ' Sigma Prime Ventures']",M,internet software & services,10
+Pipa Coding,1,2021-03-25,Beijing,China,Asia,2017,268,"['Source Code Capital', ' XVC Venture Capital', ' Hillhouse Capital Management']",M,edtech,4
+Qingting FM,1,2021-06-02,Shanghai,China,Asia,2011,164,"['China Culture Industrial Investment Fund', ' We Capital', ' China Minsheng Investment Group']",M,internet software & services,10
+Rad Power Bikes,1,2021-10-28,Seattle,United States,North America,2007,329,"['Durable Capital Partners', ' Cercano Management', ' T. Rowe Price']",M,auto & transportation,14
+Shukun Technology,1,2021-08-16,Beijing,China,Asia,2017,211,"['Marathon Venture Partners', ' Huagai Capital', ' China Creation Ventures']",M,artificial intelligence,4
+Shulan Health,1,2021-03-01,Hangzhou,China,Asia,2015,43,['Qiming Venture Partners'],M,health,6
+Snapdeal,1,2014-05-21,New Delhi,India,Asia,2008,2,"['SoftBankGroup', ' Blackrock', ' Alibaba Group']",B,e-commerce & direct-to-consumer,6
+SumUp,1,2019-07-16,London,United Kingdom,Europe,2011,1,"['American Express Ventures', ' Goldman Sachs', ' Bain Capital Credit']",B,fintech,8
+TalkingData,1,2021-01-06,Beijing,China,Asia,2013,310,"['N5 Capital', ' CR Capital Mgmt', ' JD Digits']",M,mobile & telecommunications,8
+TUNGEE,1,2021-12-15,Guangzhou,China,Asia,2016,171,"['UNITY VENTURES', ' Qiming Venture Partners', ' GGV Capital']",M,artificial intelligence,5
+UISEE Technology,1,2021-01-25,Beijing,China,Asia,2016,154,"['Shenzhen Capital Group', ' Robert Bosch Venture Capital', ' SeptWolves Ventures']",M,"supply chain, logistics, & delivery",5
+Valgen Medtech,1,2021-05-06,Hangzhou,China,Asia,2015,188,"['Sequoia Capital China', ' China Life Investment Holding Company', ' Qiming Venture Partners']",M,health,6
+Vectra Networks,1,2021-04-29,San Jose,United States,North America,2011,352,"['IA Ventures', ' Khosla Ventures', ' AME Cloud Ventures']",M,artificial intelligence,10
+Venafi,1,2020-12-10,Salt Lake City,United States,North America,2000,174,"['Pelion Venture Partners', ' Foundation Capital', ' Thoma Bravo']",M,cybersecurity,20
+Wacai,1,2018-07-18,Hangzhou,China,Asia,2009,369,"['Qiming Venture Partners', ' China Broadband Capital', ' CDH Investments']",M,mobile & telecommunications,9
+WeBull,1,2021-02-18,Changsha,China,Asia,2016,230,"['Bojiang Capital', ' Hongdao Capital', ' Mobai Capital']",M,fintech,5
+WTOIP,1,2018-04-08,Guangzhou,China,Asia,2013,307,"['Dark Horse Technology Group', ' Hopu Investment Management', ' Kefa Capital']",M,internet software & services,5
+Xiaoe Tech,1,2021-06-15,Shenzhen,China,Asia,2015,149,"['GGV Capital', ' Hillhouse Capital Management', ' IDG Capital']",M,internet software & services,6
+Yiguo,1,2016-11-09,Shanghai,China,Asia,2005,800,"['Alibaba Group', ' KKR', ' Goldman Sachs']",M,"supply chain, logistics, & delivery",11
+Yimidida,1,2019-01-14,Shanghai,China,Asia,2015,554,"['Source Code Capital', ' Global Logistic Properties', ' K2VC']",M,"supply chain, logistics, & delivery",4
+Yipin Shengxian,1,2019-03-11,Hefei,China,Asia,2017,658,"['Eastern Bell Capital', ' Capital Today', ' Longzhu Capital']",M,e-commerce & direct-to-consumer,2
+Ynsect,1,2019-02-21,Evry,France,Europe,2011,393,"['Astanor Ventures', ' Upfront Ventures', ' IDInvest Partners']",M,other,8
+Hello TransTech,1,2018-06-01,Shanghai,China,Asia,2016,2,"['Ant Financial Services Group', ' GGV Capital']",B,auto & transportation,2
+Miaoshou Doctor,1,2019-06-27,Beijing,China,Asia,2015,947,"['Sequoia Capital China', ' Qiming Venture Partners', ' Tencent Holdings']",M,e-commerce & direct-to-consumer,4
+ECARX,1,2020-10-26,Wuhan,China,Asia,2016,394,"['Geely', ' SIG Asia Investments', ' China State Capital Venture Capital Fund']",M,auto & transportation,4
+Eat Just,1,2017-11-30,San Francisco,United States,North America,2011,440,"['Khosla Ventures', ' Horizons Ventures', ' Founders Fund']",M,consumer & retail,6
+Trumid,1,2020-07-15,New York,United States,North America,2014,660,"['T. Rowe Price', ' Dragoneer Investment Group', ' BlackRock']",M,fintech,6
+Qualia,1,2020-12-21,San Francisco,United States,North America,2015,160,"['8VC', ' Menlo Ventures', ' Tiger Global Management']",M,fintech,5
+Beisen,1,2021-05-11,Beijing,China,Asia,2002,388,"['Matrix Partners China', ' Sequoia Capital China', ' Genesis Capital']",M,internet software & services,19
+Earnix,1,2021-02-21,Giv'atayim,Israel,Asia,2001,98,"['Jerusalem Venture Partners', ' Israel Growth Partners', ' Insight Partners']",M,fintech,20
+Kujiale,1,2019-10-25,Hangzhou,China,Asia,2011,235,"['GGV Capital', ' IDG Capital', ' Linear Venture']",M,internet software & services,8
+Orca Security,1,2021-03-23,Portland,United States,North America,2019,632,"['YL Ventures', ' Redpoint Ventures', ' GGV Capital']",M,cybersecurity,2
+Apus Group,1,2015-01-16,Beijing,China,Asia,2014,116,"['Redpoint Ventures', ' QiMing Venture Partners', ' Chengwei Capital']",M,mobile & telecommunications,1
+Forte Labs,1,2021-05-12,San Francisco,United States,North America,2018,910,"['Iris Capital', ' Accel', ' Elaia Partners']",M,fintech,3
+CureFit,1,2021-11-10,Bengaluru,India,Asia,2016,665,"['Chiratae Ventures', ' Accel', ' Kalaari Capital']",M,health,5
+DT Dream,1,2017-06-08,Hangzhou,China,Asia,2015,267,"['Alibaba Group', ' China Everbright Investment Management', ' Yinxinggu Capital']",M,data management & analytics,2
+fabric,1,2022-02-24,Bellevue,United States,North America,2017,294,"['Redpoint Ventures', ' Norwest Venture Partners', ' Sierra Ventures']",M,e-commerce & direct-to-consumer,5
+JOLLY Information Technology,1,2018-05-29,Hangzhou,China,Asia,2008,96,"['Legend Capital', ' CDH Investments', ' Sequoia Capital China']",M,e-commerce & direct-to-consumer,10
+K Health,1,2021-01-19,New York,United States,North America,2016,271,"['Max Ventures', ' Mangrove Capital Partners', ' 14W']",M,health,5
+Mofang Living,1,2016-04-13,Shanghai,China,Asia,2009,650,"['Warburg Pincus', ' Aviation Industry Corporation of China']",M,e-commerce & direct-to-consumer,7
+Spendesk,1,2022-01-18,Paris,France,Europe,2015,314,"['Index Ventures', ' Eight Roads Ventures', ' General Atlantic']",M,fintech,7
+TaxBit,1,2021-08-04,Draper,United States,North America,2018,236,"['Insight Partners', ' Coinbase Ventures', ' PayPal Ventures']",M,fintech,3
+XiaoZhu,1,2017-11-01,Beijing,China,Asia,2012,572,"['Morningside Ventures', ' Capital Today', ' JOY Capital']",M,travel,5
+Yijiupi,1,2018-09-20,Beijing,China,Asia,2014,511,"['Source Code Capital', ' Meituan Dianping', ' Tencent Holdings']",M,consumer & retail,4
+YunQuNa,1,2021-06-29,Shanghai,China,Asia,2015,207,"['Source Code Capital', ' Coatue Management', ' DCM Ventures']",M,"supply chain, logistics, & delivery",6
+Bordrin Motors,1,2019-06-03,Shanghai,China,Asia,2016,362,"['China Grand Prosperity Investment', ' CSC Group']",M,auto & transportation,3
+Aleo,1,2022-02-07,San Francisco,United States,North America,2019,228,"['Slow Ventures', ' Andreessen Horowitz', ' SoftBank Group']",M,cybersecurity,3
+Coocaa,1,2018-03-16,Shenzhen,China,Asia,2006,218,"['Baidu', ' Tencent Holdings']",M,hardware,12
+Gymshark,1,2020-08-14,Solihull,United Kingdom,Europe,2012,262,['General Atlantic'],M,e-commerce & direct-to-consumer,8
+M1 Finance,1,2021-07-14,Chicago,United States,North America,2015,323,"['Left Lane Capital', ' Clocktower Technology Ventures', ' Jump Capital']",M,fintech,6
+Ouyeel,1,2019-06-27,Shanghai,China,Asia,2015,432,['Taigang Venture Capital'],M,internet software & services,4
+SonderMind,1,2021-07-28,Denver,United States,North America,2014,183,"['Kickstart Fund', ' General Catalyst', ' Drive Capital']",M,health,7
+Astranis Space Technologies,1,2021-04-14,San Francisco,United States,North America,2015,303,"['Refactor Capital', ' Andreessen Horowitz', ' Fifty Years Fund']",M,mobile & telecommunications,6
+Away,1,2019-05-15,New York,United States,North America,2015,181,"['Global Founders Capital', ' Comcast Ventures', ' Forerunner Ventures']",M,e-commerce & direct-to-consumer,4
+Cabify,1,2018-01-22,Madrid,Spain,Europe,2011,407,"['Seaya Ventures', ' Otter Rock Capital', ' Rakuten']",M,auto & transportation,7
+Clarify Health,1,2022-04-05,San Francisco,United States,North America,2015,328,"['KKR', ' Aspenwood Ventures', ' Spark Capital']",M,health,7
+Coda,1,2021-07-08,Mountain View,United States,North America,2014,240,"['Greylock Partners', ' General Catalyst', ' Khosla Ventures']",M,internet software & services,7
+Deezer,1,2018-08-02,Paris,France,Europe,2007,532,"['Orange Digital Ventures', ' Access Industries']",M,internet software & services,11
+Degreed,1,2021-04-13,Pleasanton,United States,North America,2012,318,"['Signal Peak Ventures', ' Owl Ventures', ' Jump Capital']",M,edtech,9
+Deliverect,1,2022-01-24,Ghent,Belgium,Europe,2018,237,"['Newion Partners', ' SmartFin Capital', ' OMERS Ventures']",M,fintech,4
+Envoy,1,2022-01-11,San Francisco,United States,North America,2013,170,"['Andreessen Horowitz', ' Initialized Capital', ' TriplePoint Capital']",M,internet software & services,9
+Epidemic Sound,1,2021-03-11,Stockholm,Sweden,Europe,2009,509,"['EQT Partners', ' Blackstone']",M,internet software & services,12
+Figment,1,2021-12-20,Toronto,Canada,North America,2018,165,"['Bonfire Ventures', ' Two Sigma Ventures', ' FJ Labs']",M,internet software & services,3
+Firebolt,1,2022-01-26,Tel Aviv,Israel,Asia,2019,264,"['TLV Partners', ' Zeev Ventures', ' Bessemer Venture Partners']",M,data management & analytics,3
+Five Star Business Finance,1,2021-03-26,Chennai,India,Asia,1984,456,"['Sequoia Capital India', ' Tiger Global Management', ' Tencent']",M,other,37
+GupShup,1,2021-04-08,San Francisco,United States,North America,2011,384,"['Helion Venture Partners', ' Tiger Global management', ' CRV']",M,internet software & services,10
+Kong,1,2020-12-31,San Francisco,United States,North America,2007,169,"['New Enterprise Associates', ' CRV', ' Index Ventures']",M,internet software & services,13
+Koudai,1,2014-10-23,Beijing,China,Asia,2010,368,"['New Enterprise Associates', ' Tiger Global management', ' Tencent']",M,e-commerce & direct-to-consumer,4
+Panther Labs,1,2021-12-02,San Francisco,United States,North America,2018,141,"['Innovation Endeavors', ' s28 Capital', ' Lightspeed Venture Partners']",M,cybersecurity,3
+Papa,1,2021-11-04,Miami,United States,North America,2016,241,"['Initialized Capital', ' Canaan Partners', ' Sound Ventures']",M,health,5
+Pristyn Care,1,2021-12-07,Gurugram,India,Asia,2018,177,"['Sequoia Capital India', ' Hummingbird Ventures', ' Epiq Capital']",M,health,3
+Rebel Foods,1,2021-10-07,Pune,India,Asia,2011,521,"['Sequoia Capital India', ' Lightbox Ventures', ' Coatue Management']",M,e-commerce & direct-to-consumer,10
+Salt Security,1,2022-02-10,Palo Alto,United States,North America,2016,271,"['Y Combinator', ' S Capital', ' Tenaya Capital']",M,cybersecurity,6
+Scalable Capital,1,2021-06-08,Munich,Germany,Europe,2014,314,"['BlackRock', ' Tengelmann Ventures', ' Holtzbrinck Ventures']",M,fintech,7
+SparkCognition,1,2022-01-25,Austin,United States,North America,2013,286,"['March Capital Partners', ' Temasek', ' Doha Venture Capital']",M,artificial intelligence,9
+Stash,1,2021-02-03,New York,United States,North America,2015,426,"['Goodwater Capital', ' Entree Capital', ' Valar Ventures']",M,fintech,6
+Symphony,1,2017-05-16,New York,United States,North America,2014,511,"['BNP Paribas', ' Goldman Sachs', ' Google']",M,fintech,3
+Tripledot,1,2022-02-14,London,United Kingdom,Europe,2017,202,"['Lightspeed Venture Partners', ' Access Industries', ' Eldridge']",M,mobile & telecommunications,5
+VideoAmp,1,2021-10-21,Los Angeles,United States,North America,2014,382,"['Simon Equity Partners', ' Wavemaker Partners', ' Anthem Venture Partners']",M,internet software & services,7
+Yidian Zixun,1,2017-10-17,Beijing,China,Asia,2013,151,"['Phoenix New Media', ' Tianjin Haihe Industry Fund']",M,mobile & telecommunications,4
+Yotpo,1,2021-03-18,New York,United States,North America,2011,436,"['Bessemer Venture Partners', ' Vintage Investment Partners', ' Blumberg Capital']",M,internet software & services,10
+Neon,1,2022-02-14,Sao Paulo,Brazil,South America,2016,720,"['Propel Venture Partners', ' Monashees+', ' BBVA']",M,fintech,6
+Alloy,1,2021-09-30,New York,United States,North America,2015,156,"['Bessemer Venture Partners', ' Eniac Ventures', ' Canapi Ventures']",M,fintech,6
+Epirus,1,2022-02-14,Hawthorne,United States,North America,2018,287,"['8VC', ' Bedrock Capital', ' Broom Ventures']",M,other,4
+Klook,1,2018-08-07,Central,Hong Kong,Asia,2014,722,"['Sequoia Capital China', ' Goldman Sachs', ' Matrix Partners China']",M,travel,4
+Yaoshibang,1,2021-06-15,Guangzhou,China,Asia,2015,496,"['Green Pine Capital Partners', ' Ivy Capital', ' DCM Ventures']",M,health,6
+Signifyd,1,2021-04-15,San Jose,United States,North America,2011,390,"['Menlo Ventures', ' Resolute Ventures', ' IA Ventures']",M,fintech,10
+Motorway,1,2021-11-29,London,United Kingdom,Europe,2017,276,"['Marchmont Ventures', ' BMW i Ventures', ' Index Ventures']",M,e-commerce & direct-to-consumer,4
+RIDI,1,2022-01-24,Seoul,South Korea,Asia,2008,178,"['Atinum Investment', ' Company K Partners', ' GIC']",M,e-commerce & direct-to-consumer,14
+Athletic Greens,1,2022-01-25,New York,United States,North America,2010,115,"['SC.Holdings', ' Not Boring Capital', ' Bolt Ventures']",M,health,12
+GPclub,1,2018-10-22,Seoul,South Korea,Asia,2003,67,['Goldman Sachs'],M,other,15
+Grove Collaborative,1,2019-09-06,San Francisco,United States,North America,2016,475,"['MHS Capital', ' NextView Ventures', ' Mayfield Fund']",M,e-commerce & direct-to-consumer,3
+Tongdun Technology,1,2019-04-25,Hangzhou,China,Asia,2013,252,"['Advantech Capital', ' Temasek Holdings Ltd.', ' Tiantu Capital Co.']",M,cybersecurity,6
+Unisound,1,2018-07-19,Beijing,China,Asia,2012,361,"['Qiming Venture Partners', ' China Internet Investment Fund', ' Qualcomm Ventures']",M,artificial intelligence,6
+Betterment,1,2021-09-29,New York,United States,North America,2010,335,"['Bessemer Venture Partners', ' Menlo Ventures', ' Anthermis']",M,fintech,11
+Cava Group,1,2021-04-27,Washington,United States,North America,2010,738,"['SWaN & Legend Ventures', ' Revolution Growth', ' Invus Group']",M,other,11
+CoinTracker,1,2022-01-27,San Francisco,United States,North America,2017,102,"['Initialized Capital', ' General Catalyst', ' Kraken Ventures']",M,fintech,5
+Domestika,1,2022-01-27,Berkeley,United States,North America,2012,130,"['Zeev Ventures', ' GSV Ventures']",M,internet software & services,10
+Flock Freight,1,2021-10-20,Encinitas,United States,North America,2015,399,"['SignalFire', ' GLP Capital Partners', ' Google Ventures']",M,"supply chain, logistics, & delivery",6
+InSightec,1,2020-03-06,Tirat Carmel,Israel,Asia,1999,633,"['York Capital Management', ' GE Healthcare', ' Koch Disruptive Technologies']",M,health,21
+Island,1,2022-03-23,Dallas,United States,North America,2020,215,"['Insight Partners', ' Sequoia Capital', ' Stripes Group']",M,internet software & services,2
+iTrustCapital,1,2022-01-11,Long Beach,United States,North America,2018,128,"['Left Lane Capital', ' Walden Venture Capital']",M,fintech,4
+Konfio,1,2021-09-29,Mexico City,Mexico,North America,2013,378,"['Kaszek Ventures', ' QED Investors', ' International Finance Corporation']",M,fintech,8
+LinkTree,1,2022-03-16,Melbourne,Australia,Oceania,2016,166,"['AirTree Ventures', ' Insight Partners', ' Index Ventures']",M,internet software & services,6
+Loadsmart,1,2022-02-01,New York,United States,North America,2014,336,"['Chromo Invest', ' Maersk Growth', ' BlackRock']",M,"supply chain, logistics, & delivery",8
+Lukka,1,2022-01-14,New York,United States,North America,2014,201,"['Liberty City Ventures', ' Soros Fund Management', ' Summer Capital']",M,fintech,8
+Manner,1,2020-12-24,Shanghai,China,Asia,2015,10,"['Coatue Management', ' H Capital', ' Capital Today']",M,other,5
+The Brandtech Group,1,2019-11-19,New York,United States,North America,2015,610,['Undisclosed'],M,other,4
+TravelPerk,1,2022-01-12,Barcelona,Spain,Europe,2015,408,"['LocalGlobe', ' Kinnevik', ' Felix Capital']",M,travel,7
+YugaByte,1,2021-10-28,Sunnyvale,United States,North America,2016,291,"['Lightspeed Venture Partners', ' Dell Technologies Capital', ' Wipro Ventures']",M,data management & analytics,5
+Intercom,1,2018-03-27,San Francisco,United States,North America,2011,241,"['FirstMark Capital', ' Tiger Global Management']",M,internet software & services,7
+OVO Energy,1,2019-02-14,Bristol,United Kingdom,Europe,2009,324,"['Mitsubishi Corporation', ' Mayfair Equity Partners']",M,other,10
+BigID,1,2020-12-16,New York,United States,North America,2015,246,"['BOLDstart Ventures', ' SAP.iO Fund', ' Scale Venture Partners']",M,cybersecurity,5
+CaptivateIQ,1,2022-01-26,San Francisco,United States,North America,2014,165,"['Sequoia Capital', ' Y Combinator', ' Accel']",M,fintech,8
+Flipdish,1,2022-01-13,Dublin,Ireland,Europe,2015,157,"['Tencent Holdings', ' Tiger Global Management', ' Global Founders Capital']",M,internet software & services,7
+Honor Technology,1,2021-10-05,San Francisco,United States,North America,2014,325,"['Andreessen Horowitz', ' Prosus Ventures', ' Thrive Capital']",M,internet software & services,7
+Incode Technologies,1,2021-12-07,San Francisco,United States,North America,2015,257,"['Dila Capital', ' Framework Ventures', ' 3L']",M,cybersecurity,6
+Kuaikan Manhua,1,2017-12-01,Beijing,China,Asia,2014,594,"['Sequoia Capital China', ' CMC Capital Partners', ' Tencent Holdings']",M,internet software & services,3
+Marshmallow,1,2021-09-08,London,United Kingdom,Europe,2017,116,"['Passion Capital', ' Hedosophia', ' Outrun Ventures']",M,fintech,4
+Mythical Games,1,2021-11-04,Sherman Oaks,United States,North America,2018,260,"['Javelin Venture Partners', ' Struck Capital', ' Alumni Ventures Group']",M,internet software & services,3
+Route,1,2022-01-21,Lehi,United States,North America,2018,482,"['Madrona Venture Group', ' Banner Ventures', ' FJ Labs']",M,"supply chain, logistics, & delivery",4
+Tackle.io,1,2021-12-21,Boise,United States,North America,2016,148,"['Andreessen Horowitz', ' Bessemer Venture Partners', ' Coatue Management']",M,internet software & services,5
+Nexii,1,2021-09-08,Vancouver,Canada,North America,2020,45,"['Trane Technologies', ' Honeywell']",M,other,1
+GalaxySpace,1,2020-11-17,Beijing,China,Asia,2016,14,"['Shunwei Capital Partners', ' 5Y Capital', ' Legend Capital']",M,mobile & telecommunications,4
+Insider,1,2022-02-28,Istanbul,Turkey,Europe,2012,167,"['Wamda Capital', ' Endeavor', ' Riverwood Capital']",M,internet software & services,10
+Spiber,1,2021-09-08,Tsuruoka,Japan,Asia,2007,520,"['Cool Japan Fund', ' JAFCO', ' The Carlyle Group']",M,other,14
+Ada Support,1,2021-05-07,Toronto,Canada,North America,2016,191,"['Version One Ventures', ' Bessemer Venture Partners', ' FirstMark Capital']",M,artificial intelligence,5
+AgentSync,1,2021-12-07,Denver,United States,North America,2018,111,"['Craft Ventures', ' Caffeinated Capital', ' Operator Collective']",M,fintech,3
+Alation,1,2021-06-03,Redwood City,United States,North America,2012,192,"['Costanoa Ventures', ' Data Collective', ' Salesforce Ventures']",M,internet software & services,9
+BigPanda,1,2022-01-12,Mountain View,United States,North America,2012,317,"['Advent International', ' Battery Ventures', ' Sequoia Capital Israel']",M,artificial intelligence,10
+CarDekho,1,2021-10-13,Jaipur,India,Asia,2008,448,"['Sequoia Capital India', ' Hillhouse Capital Management', ' Sunley House Capital Management']",M,e-commerce & direct-to-consumer,13
+Copado,1,2021-09-13,Chicago,United States,North America,2013,271,"['Insight Partners', ' Salesforce Ventures', ' Perpetual Investors']",M,data management & analytics,8
+DailyPay,1,2021-05-18,New York,United States,North America,2016,189,"['RPM Ventures', ' Inspiration Ventures', ' Carrick Capital Partners']",M,fintech,5
+FloQast,1,2021-07-21,Los Angeles,United States,North America,2013,230,"['Polaris Partners', ' Insight Partners', ' Norwest Venture Partners']",M,fintech,8
+Gem,1,2021-09-28,San Francisco,United States,North America,2017,148,"['Accel', ' Greylock Partners', ' Meritech Capital Partners']",M,internet software & services,4
+GrubMarket,1,2021-09-14,San Francisco,United States,North America,2013,382,"['GGV Capital', ' BlackRock', ' ACE & Company']",M,e-commerce & direct-to-consumer,8
+Helium Systems,1,2022-02-22,San Francisco,United States,North America,2013,365,"['FirstMark Capital', ' Tiger Global Management', ' FTX Venture']",M,internet software & services,9
+Inari,1,2021-05-12,Cambridge,United States,North America,2016,337,"['Flagship Pioneering', ' Alexandria Venture Investments', ' Investment Corporation of Dubai']",M,other,5
+Jokr,1,2021-12-02,New York,United States,North America,2021,430,"['GGV Capital', ' Tiger Global Management', ' Greycroft']",M,e-commerce & direct-to-consumer,0
+LivSpace,1,2022-02-08,Bengaluru,India,Asia,2015,427,"['Jungle Ventures', ' Helion Venture Partners', ' INGKA Investments']",M,e-commerce & direct-to-consumer,7
+Merama,1,2021-12-09,Mexico City,Mexico,North America,2020,345,"['SoftBank Latin America Fund', ' Advent International', ' Balderton Capital']",M,e-commerce & direct-to-consumer,1
+MindTickle,1,2021-08-03,San Francisco,United States,North America,2012,281,"['Qualcomm Ventures', ' Accel', ' Canaan Partners']",M,internet software & services,9
+MyGlamm,1,2021-11-10,Mumbai,India,Asia,2015,310,"[""L'Occitane"", ' Trifecta Capital', ' Bessemer Venture Partners']",M,e-commerce & direct-to-consumer,6
+Oda,1,2021-06-02,Oslo,Norway,Europe,2013,337,"['Kinnevik', ' Softbank Group', ' Prosus Ventures']",M,e-commerce & direct-to-consumer,8
+Offchain Labs,1,2021-08-31,Princeton,United States,North America,2018,124,"['Pantera Capital', ' Polychain Capital', ' Lightspeed Venture Partners']",M,internet software & services,3
+Phantom,1,2022-01-31,San Francisco,United States,North America,2021,118,"['Paradigm', ' Andreessen Horowitz', ' Jump Capital']",M,fintech,1
+Pilot.com,1,2021-03-26,San Francisco,United States,North America,2016,161,"['Index Ventures', ' Sequoia Capital', ' Bezos Expeditions']",M,fintech,5
+Prime Medicine,1,2021-07-13,Cambridge,United States,North America,2019,315,"['Newpath Partners', ' Google Ventures', ' F-Prime Capital']",M,health,2
+Public,1,2021-02-17,New York,United States,North America,2008,309,"['Accel', ' Greycroft', ' Advancit Capital']",M,fintech,13
+Qumulo,1,2020-07-16,Seattle,United States,North America,2012,347,"['Madrona Venture Group', ' Kleiner Perkins Caufield & Byers', ' Highland Capital Partners']",M,data management & analytics,8
+Rohlik,1,2021-07-01,Prague,Czech Republic,Europe,2019,380,"['Partech Partners', ' Index Ventures', ' Quadrille Capital']",M,"supply chain, logistics, & delivery",2
+SeekOut,1,2022-01-12,Bellevue,United States,North America,2017,189,"['Mayfield', ' Madrona Venture Group', ' Tiger Global Management']",M,internet software & services,5
+SmartMore,1,2021-06-24,Shenzhen,China,Asia,2019,300,"['IDG Capital', ' ZhenFund', ' Sequoia Capital China']",M,artificial intelligence,2
+Tealium,1,2021-02-03,San Diego,United States,North America,2008,264,"['Georgian Partners', ' Silver Lake', ' Presidio Ventures']",M,internet software & services,13
+UpGrad,1,2021-08-09,Mumbai,India,Asia,2015,194,"['Qualcomm Ventures', ' Accel', ' Canaan Partners']",M,edtech,6
+Workhuman,1,2020-06-23,Dublin,Ireland,Europe,1999,9,['ICG'],M,internet software & services,21
+Xpressbees,1,2022-02-09,Pune,India,Asia,2012,573,"['Norwest Venture Partners', ' Investcorp', ' Blackstone']",M,"supply chain, logistics, & delivery",10
+L&P Cosmetic,1,2016-01-01,Seoul,South Korea,Asia,2009,33,['CDIB Capital'],M,consumer & retail,7
+Mininglamp Technology,1,2019-03-27,Beijing,China,Asia,2014,787,"['Russia-China Investment Fund', ' Tencent Holdings', ' Sequoia Capital China']",M,artificial intelligence,5
+Luoji Siwei,1,2017-07-20,Beijing,China,Asia,2012,144,"['Sequoia Capital China', ' Qiming Venture Partners', ' Tencent Holdings']",M,edtech,5
+IRL,1,2021-06-15,San Francisco,United States,North America,2017,197,"['Goodwater Capital', ' Floodgate', ' Founders Fund']",M,internet software & services,4
+Modern Health,1,2021-02-11,San Francisco,United States,North America,2017,167,"['Kleiner Perkins Caufield & Byers', ' Afore Capital', ' Founders Fund']",M,health,4
+Tuhu,1,2018-09-15,Shanghai,China,Asia,2011,875,"['Qiming Venture Partners', ' Yaxia Automobile', ' Far East Horizon']",M,auto & transportation,7
+CloudBees,1,2021-12-09,San Jose,United States,North America,2010,236,"['Matrix Partners', ' Lightspeed Venture Partners', ' Verizon Ventures']",M,data management & analytics,11
+Elemy,1,2021-10-06,San Francisco,United States,North America,2019,323,"['General Catalyst', ' Bling Capital', ' Felicis Ventures']",M,health,2
+Guideline,1,2021-06-16,San Mateo,United States,North America,2015,339,"['Pelion Venture Partners', ' Foundation Capital', ' Thoma Bravo']",M,fintech,6
+Happy Money,1,2022-02-08,Tustin,United States,North America,2009,192,"['FirstMark Capital', ' Anthemis', ' CMFG Ventures']",M,fintech,13
+Rebellion Defense,1,2021-09-16,Washington DC,United States,North America,2019,150,"['Venrock', ' Innovation Endeavors', ' Insights Partners']",M,artificial intelligence,2
+STORD,1,2021-09-13,Atlanta,United States,North America,2015,205,"['Dynamo VC', ' Susa Ventures', ' Founders Fund']",M,"supply chain, logistics, & delivery",6
+At-Bay,1,2021-07-27,Mountain View,United States,North America,2016,292,"['Lightspeed Venture Partners', ' Khosla Ventures', ' Munich Re Ventures']",M,fintech,5
+TELD,1,2019-12-16,Qingdao,China,Asia,2014,396,"['China Reform Fund', ' Gaopeng Capital', ' Jinhui Xingye']",M,fintech,5
+Acko General Insurance,1,2021-10-28,Bengaluru,India,Asia,2016,458,"['Intact Ventures', ' Munich Re Ventures', ' General Atlantic']",M,fintech,5
+apna,1,2021-09-15,Bengaluru,India,Asia,2019,193,"['Sequoia Capital India', ' Rocketship.vc', ' Lightspeed India Partners']",M,internet software & services,2
+Beyond Identity,1,2022-02-22,New York,United States,North America,2019,205,"['New Enterprise Associates', ' Koch Disruptive Technologies', ' Evolution Equity Partners']",M,cybersecurity,3
+Carousell,1,2021-09-15,Unknown,Singapore,Asia,2012,288,"['500 Global', ' Rakuten Ventures', ' Golden Gate Ventures']",M,e-commerce & direct-to-consumer,9
+Chief,1,2022-03-31,New York,United States,North America,2019,140,"['General Catalyst', ' Inspired Capital', ' Flybridge Capital Partners']",M,other,3
+CoinDCX,1,2021-08-10,Maharashtra,India,Asia,2017,109,"['Polychain Capital', ' Coinbase Ventures', ' Jump Capital']",M,fintech,4
+Daily Harvest,1,2021-11-16,New York,United States,North America,2014,120,"['M13', ' Lightspeed Venture Partners', ' Lone Pine Capital']",M,e-commerce & direct-to-consumer,7
+Enpal,1,2021-10-18,Berlin,Germany,Europe,2017,304,"['HV Capital', ' Softbank Group', ' BlackRock']",M,internet software & services,4
+eSentire,1,2022-02-22,Waterloo,Canada,North America,2001,186,"['Edison Partners', ' Georgian Partners', ' VentureLink']",M,cybersecurity,21
+Firefly Aerospace,1,2021-05-04,Cedar Park,United States,North America,2014,172,"['XBTO Ventures', ' Raven One Ventures', ' SK Ventures']",M,other,7
+Fundbox,1,2021-11-30,San Francisco,United States,North America,2013,404,"['Khosla Ventures', ' General Catalyst', ' Blumberg Capital']",M,fintech,8
+G2,1,2021-06-22,Chicago,United States,North America,2012,258,"['Pritzker Group Venture Capital', ' Accel', ' Hyde Park Venture Partners']",M,internet software & services,9
+Gaussian Robotics,1,2021-11-10,Shanghai,China,Asia,2013,325,"['BlueRun Ventures', ' Grand Flight Investment', ' Meituan Dianping']",M,hardware,8
+GetYourGuide,1,2019-05-16,Berlin,Germany,Europe,2009,656,"['Spark Capital', ' Highland Europe', ' Sunstone Capital']",M,travel,10
+GlobalBees,1,2021-12-28,New Delhi,India,Asia,2021,185,"['Chiratae Ventures', ' SoftBank Group', ' Trifecta Capital']",M,e-commerce & direct-to-consumer,0
+Ivalua,1,2019-05-21,Redwood City,United States,North America,2000,134,"['Ardian', ' Tiger Global Management', ' KKR']",M,fintech,19
+Juanpi,1,2016-04-14,Wuhan,China,Asia,2012,136,"['Tiantu Capital', ' SAIF Partners China', ' Newsion Venture Capital']",M,e-commerce & direct-to-consumer,4
+Karat,1,2021-10-13,Seattle,United States,North America,2014,169,"['8VC', ' Norwest Venture Partners', ' Tiger Global Management']",M,internet software & services,7
+LEAD School,1,2022-01-13,Andheri,India,Asia,2012,166,"['WestBridge Capital', ' GSV Ventures', ' Elevar Equity']",M,edtech,10
+Nexthink,1,2021-02-08,Prilly,Switzerland,Europe,2004,346,"['Auriga', ' Galeo Ventures', ' Highland Europe']",M,data management & analytics,17
+People.ai,1,2021-08-11,San Francisco,United States,North America,2017,200,"['GGV Capital', ' Lightspeed Venture Partners', ' ICONIQ Capital']",M,internet software & services,4
+Pharmapacks,1,2020-11-12,Islandia,United States,North America,2010,433,['The Carlyle Group'],M,e-commerce & direct-to-consumer,10
+Rightway,1,2021-03-30,New York,United States,North America,2017,130,"['Thrive Capital', ' Khosla Ventures', ' Tiger Global Management']",M,health,4
+Sennder,1,2021-01-14,Berlin,Germany,Europe,2015,340,"['Accelm Scania Growth Capital', ' Lakestar']",M,"supply chain, logistics, & delivery",6
+Sisense,1,2020-01-09,New York,United States,North America,2004,274,"['Opus Capital', ' Genesis Partners', ' Battery Ventures']",M,data management & analytics,16
+Staffbase,1,2022-03-15,Chemnitz,Germany,Europe,2014,307,"['Insight Partners', ' e.ventures', ' General Atlantic']",M,internet software & services,8
+Sunbit,1,2021-05-20,Los Angeles,United States,North America,2016,210,"['Zeev Ventures', ' Group11', ' Chicago Ventures']",M,fintech,5
+TangoMe,1,2014-03-20,Mountain View,United States,North America,2009,361,"['Draper Fisher Jurtson', ' Qualcomm Ventures', ' Alibaba Group']",M,mobile & telecommunications,5
+The Bank of London,1,2021-11-30,London,United Kingdom,Europe,2018,90,"['Mangrove Capital Partners', '14W', ' ForgeLight']",M,fintech,3
+Zego,1,2021-03-09,London,United Kingdom,Europe,2016,202,"['LocalGlobe', ' Balderton Capital', ' Target Global']",M,fintech,5
+Nxin,1,2018-09-18,Beijing,China,Asia,2015,53,"['Beijing Juneng Hesheng Industry Investment Fund', ' Beijing Shuju Xinrong Fund']",M,internet software & services,3
+Mamaearth,1,2021-12-28,Gurgaon,India,Asia,2016,111,"['Fireside Ventures', ' Sequoia Capital India', ' Stellaris Venture Partners']",M,e-commerce & direct-to-consumer,5
+Radius Payment Solutions,1,2017-11-27,Crewe,United Kingdom,Europe,1990,200,['Inflexion Private Equity'],M,fintech,27
+Rivigo,1,2019-07-11,Gurgaon,India,Asia,2014,247,"['SAIF Partners India', ' Warburg Pincus', ' Trifecta Capital Advisors']",M,"supply chain, logistics, & delivery",5
+Rubicon,1,2017-08-25,Atlanta,United States,North America,2008,223,"['Goldman Sachs', ' Leonardo DiCaprio', ' Promecap']",M,other,9
+Socar,1,2020-10-16,Jeju-do,South Korea,Asia,2012,408,"['Bain Capital', ' Altos Ventures', ' Songhyun Investment']",M,auto & transportation,8
+MobileCoin,1,2021-07-07,San Francisco,United States,North America,2018,107,"['General Catalyst', ' Future Ventures', ' AU21']",M,fintech,3
+Density,1,2021-11-10,San Francisco,United States,North America,2014,217,"['Founders Fund', ' Upfront Ventures', ' 01 Advisors']",M,hardware,7
+Instabase,1,2019-10-21,San Francisco,United States,North America,2015,132,"['New Enterprise Associates', ' Greylock Partners', ' Andreessen Horowitz']",M,data management & analytics,4
+Jiuxian,1,2015-07-30,Beijing,China,Asia,2009,250,"['Sequoia Capital China', ' Rich Land Capital', ' Merrysunny Wealth']",M,e-commerce & direct-to-consumer,6
+Matrixport,1,2021-06-01,Unknown,Singapore,Asia,2019,100,"['Dragonfly Captial', ' Qiming Venture Partners', ' DST Global']",M,fintech,2
+Mixpanel,1,2021-11-15,San Francisco,United States,North America,2009,277,"['Bain Capital Tech Opportunities', ' Andreessen Horowitz', ' Sequoia Capital']",M,internet software & services,12
+Sendbird,1,2021-04-06,San Mateo,United States,North America,2013,221,"['FundersClub', ' Y Combinator', ' Tiger Global Management']",M,mobile & telecommunications,8
+OrCam Technologies,1,2018-02-20,Jerusalem,Israel,Asia,2010,86,"['Intel Capital', ' Aviv Venture Capital']",M,artificial intelligence,8
+Leap Motor,1,2018-11-20,Hangzhou,China,Asia,2015,1,"['Sequoia Capital China', ' Gopher Asset Management', ' Shanghai Electric Group']",B,auto & transportation,3
+1KMXC,1,2021-08-30,Hangzhou,China,Asia,2014,86,"['Goldman Sachs Asset Management', ' SDP Investment', ' Alibaba Group']",M,hardware,7
+58 Daojia,1,2015-10-12,Beijing,China,Asia,2014,300,"['KKR', ' Alibaba Group', ' Ping An Insurance']",M,internet software & services,1
+Agile Robots,1,2021-09-09,Munich,Germany,Europe,2018,240,"['Hillhouse Capital Management', ' Sequoia Capital China', ' Linear Venture']",M,hardware,3
+Aibee,1,2021-04-13,Beijing,China,Asia,2017,273,"['Sequoia Capital China', ' Lenovo Capital and Incubator', ' Group GSR Ventures']",M,artificial intelligence,4
+Aircall,1,2021-06-23,New York,United States,North America,2014,226,"['Balderton Capital', ' Next World Capital', ' Draper Esprit']",M,internet software & services,7
+Ajaib,1,2021-10-04,Jakarta,Indonesia,Asia,2018,245,"['Softbank Ventures Asia', ' Alpha JWC Ventures', ' Insignia Ventures Partners']",M,fintech,3
+Alto Pharmacy,1,2020-01-30,San Francisco,United States,North America,2015,524,"['Jackson Square Ventures', ' Greenoaks Capital Management', ' Softbank Group']",M,health,5
+Amagi,1,2022-03-16,Bengaluru,India,Asia,2008,240,"['Mayfield', ' Accel', ' Norwest Venture Partners']",M,internet software & services,14
+Amount,1,2021-05-17,Chicago,United States,North America,2019,243,"['Invus Group', ' Hanaco Venture Capital', ' WestCap Group']",M,fintech,2
+Amperity,1,2021-07-13,Seattle,United States,North America,2016,187,"['Madrona Venture Group', ' Tiger Global Management', ' Madera Technology Partners']",M,artificial intelligence,5
+Anyscale,1,2021-12-07,Berkeley,United States,North America,2019,160,"['Andreessen Horowitz', ' Intel Capital', ' Foundation Capital']",M,artificial intelligence,2
+Aptos,1,2022-03-15,Palo Alto,United States,North America,2021,200,"['Andreessen Horowitz', ' Coinbase Ventures', ' Tiger Global Management']",M,internet software & services,1
+Aqua Security,1,2021-03-10,Ramat Gan,Israel,Asia,2015,265,"['TLV Partners', ' Lightspeed Venture Partners', ' M12']",M,cybersecurity,6
+Assent,1,2022-01-06,Ottawa,Canada,North America,2010,534,"['Vista Equity Partners', ' Warburg Pincus', ' First Ascent Ventures']",M,"supply chain, logistics, & delivery",12
+Augury,1,2021-10-26,New York,United States,North America,2011,294,"['Lerer Hippeau', ' Munich Re Ventures', ' Eclipse Ventures']",M,artificial intelligence,10
+Axelar,1,2022-02-15,Waterloo,Canada,North America,2020,64,"['Lemniscap VC', ' North Island Ventures', ' Polychain Capital']",M,internet software & services,2
+Axiom Space,1,2021-02-16,Houston,United States,North America,2016,150,"['C5 Capital', ' Hemisphere Ventures', ' The Venture Collective']",M,other,5
+Banma Network Technologies,1,2018-09-13,Shanghai,China,Asia,2015,697,"['Yunfeng Capital', ' SDIC Innovation Investment Management', ' Shang Qi Capital']",M,auto & transportation,3
+BeiBei,1,2015-01-22,Hangzhou,China,Asia,2011,224,"['Banyan Capital', ' New Horizon Capital', ' IDG Capital Partners']",M,e-commerce & direct-to-consumer,4
+BenevolentAI,1,2015-06-02,London,United Kingdom,Europe,2013,292,['Woodford Investment Management'],M,artificial intelligence,2
+Berlin Brands Group,1,2021-09-01,Berlin,Germany,Europe,2005,800,"['Ardian', ' Bain Capital']",M,e-commerce & direct-to-consumer,16
+Betterfly,1,2022-02-01,Santiago,Chile,South America,2018,205,"['QED Investors', ' DST Global', ' Endeavor']",M,artificial intelligence,4
+BitFury,1,2018-11-06,Amsterdam,Netherlands,Europe,2011,170,"['Georgian Co-Investment Fund', ' iTech Capital', ' Galaxy Digital']",M,hardware,7
+BlackBuck,1,2021-07-22,Bengaluru,India,Asia,2015,352,"['Accel', ' Sands Capital', ' International Finance Corporation']",M,"supply chain, logistics, & delivery",6
+Bluecore,1,2021-08-05,New York,United States,North America,2013,238,"['FirstMark Capital', ' Georgian Partners', ' Norwest Venture Partners']",M,artificial intelligence,8
+BlueVoyant,1,2022-02-23,New York,United States,North America,2017,526,"['8VC', ' Liberty Strategic Capital', ' Eden Global Partners']",M,cybersecurity,5
+bolttech,1,2021-07-01,Unknown,Singapore,Asia,2018,210,"['Mundi Ventures', ' Doqling Capital Partners', ' Activant Capital']",M,fintech,3
+Boom Supersonic,1,2020-12-16,Englewood,United States,North America,2014,241,"['WRVI Capital', ' Caffeinated Capital', ' Y Combinator']",M,other,6
+Bringg,1,2021-06-16,Tel Aviv,Israel,Asia,2013,185,"['Salesforce Ventures', ' next47', ' Pereg Ventures']",M,"supply chain, logistics, & delivery",8
+C2FO,1,2019-08-07,Leawood,United States,North America,2008,538,"['Union Square Ventures', ' Summerhill Venture Partners', ' Mithril Capital Management']",M,fintech,11
+Cadence,1,2021-12-14,New York,United States,North America,2020,141,"['Thrive Capital', ' General Catalyst', ' Coatue Management']",M,health,1
+CAIS,1,2022-01-11,New York,United States,North America,2009,406,"['Franklin Templeton', ' Motive Partners', ' Apollo Global Management']",M,fintech,13
+Cameo,1,2021-03-30,Chicago,United States,North America,2016,165,"['Lightspeed Venture Partners', ' Kleiner Perkins Caufield & Byers', ' Origin Ventures']",M,internet software & services,5
+Capsule,1,2021-04-28,New York,United States,North America,2016,570,"['Thrive Capital', ' Durable Capital Partners', ' G Squared']",M,health,5
+CargoX,1,2021-10-21,Sao Paulo,Brazil,South America,2015,390,"['Valor Capital Group', ' Lightrock', ' Softbank Group']",M,"supply chain, logistics, & delivery",6
+Carro,1,2021-06-14,Unknown,Singapore,Asia,2015,595,"['SingTel Innov8', ' Alpha JWC Ventures', ' Golden Gate Ventures']",M,e-commerce & direct-to-consumer,6
+CHEQ,1,2022-02-22,New York,United States,North America,2014,182,"['Battery Ventures', ' Tiger Global Management', ' Hanaco Ventures']",M,cybersecurity,8
+Chronosphere,1,2021-10-07,New York,United States,North America,2019,254,"['Greylock Partners', ' Lux Capital', ' General Atlantic']",M,data management & analytics,2
+Cider,1,2021-09-02,Unknown,Hong Kong,Asia,2020,140,"['Andreessen Horowitz', ' DST Global', ' IDG Capital']",M,e-commerce & direct-to-consumer,1
+Clara,1,2021-12-06,Mexico City,Mexico,North America,2020,109,"['DST Global', ' General Catalyst', ' Monashees+']",M,fintech,1
+Clearcover,1,2021-04-13,Chicago,United States,North America,2016,305,"['American Family Ventures', ' Cox Enterprises', ' OMERS Ventures']",M,fintech,5
+CommerceIQ,1,2022-03-21,Palo Alto,United States,North America,2012,196,"['Trinity Ventures', ' Madrona Venture Group', ' Shasta Ventures']",M,artificial intelligence,10
+Contrast Security,1,2021-11-09,Los Altos,United States,North America,2014,269,"['Acero Capital', ' General Catalyst', ' M12']",M,cybersecurity,7
+Darwinbox,1,2022-01-25,Hyderabad,India,Asia,2015,107,"['Lightspeed India Partners', ' Sequoia Capital India', ' Endiya Partners']",M,internet software & services,7
+Dental Monitoring,1,2021-10-21,Paris,France,Europe,2014,232,"['Vitruvian Partners', ' Merieux Equity Partners', ' Straumann']",M,health,7
+DianRong,1,2017-08-02,Shanghai,China,Asia,2012,549,"['Standard Chartered', ' FinSight Ventures', ' Affirma Capital']",M,e-commerce & direct-to-consumer,5
+Drata,1,2021-11-08,San Diego,United States,North America,2020,128,"['Cowboy Ventures', ' Leaders Fund', ' GGV Capital']",M,cybersecurity,1
+DriveNets,1,2021-01-27,Ra'anana,Israel,Asia,2015,325,"['Bessemer Venture Partners', ' Pitango Venture Capital', ' D1 Capital Partners']",M,internet software & services,6
+Dune Analytics,1,2022-02-02,Oslo,Norway,Europe,2018,79,"['Multicoin Capital', ' Coatue Management', ' Dragonfly Capital Partners']",M,data management & analytics,4
+Dxy.cn,1,2018-04-10,Hangzhou,China,Asia,2000,682,"['Tencent Holdings', ' DCM Ventures']",M,health,18
+EBANX,1,2019-10-16,Curitiba,Brazil,South America,2012,460,"['FTV Capital', ' Endeavor']",M,fintech,7
+EcoFlow,1,2021-06-10,Shenzhen,China,Asia,2017,105,"['Delian Capital', ' China International Capital Corporation', ' Sequoia Capital China']",M,hardware,4
+Electric,1,2022-03-29,New York,United States,North America,2016,209,"['Primary Venture Partners', ' Bessemer Venture Partners', ' Harmonic Growth Partners']",M,cybersecurity,6
+Emerging Markets Property Group,1,2020-04-28,Dubai,United Arab Emirates,Asia,2015,279,"['OLX Group', ' KCK Group', ' EXOR Seeds']",M,other,5
+Esusu,1,2022-01-27,New York,United States,North America,2015,145,"['Next Play Ventures', ' Zeal Capital Partners', ' SoftBank Group']",M,fintech,7
+Evidation,1,2021-03-22,San Mateo,United States,North America,2012,259,"['B Capital Group', '', ' GE Ventures', ' McKesson Ventures']",M,health,9
+Expel,1,2021-11-18,Herndon,United States,North America,2016,258,"['Paladin Capital Group', ' Greycroft', ' Scale Venture Partners']",M,cybersecurity,5
+Fabric,1,2021-10-26,New York,United States,North America,2015,294,"['Innovation Endeavors', ' Aleph', ' Temasek']",M,"supply chain, logistics, & delivery",6
+Feedzai,1,2021-03-24,San Mateo,United States,North America,2009,277,"['Global Founders Capital', ' Shea Ventures', ' Greycroft']",M,artificial intelligence,12
+Fever Labs,1,2022-01-26,New York,United States,North America,2012,299,"['Accel', ' 14W', ' GS Growth']",M,internet software & services,10
+Fiture,1,2021-04-14,Chengdu,China,Asia,2019,391,"['Bertelsmann Asia Investments', ' Sequoia Capital China', ' NIO Capital']",M,health,2
+FLASH,1,2022-03-16,Austin,United States,North America,2011,314,"['L Catterton', ' Trellis Partners', ' Vista Equity Partners']",M,fintech,11
+Flash Express,1,2021-02-01,Bangkok,Thailand,Asia,2017,350,"['SCB 10X', ' Krungsri Finnovate', ' eWTP Capital']",M,"supply chain, logistics, & delivery",4
+FlashEx,1,2018-08-27,Beijing,China,Asia,2014,359,"['Prometheus Capital', ' Matrix Partners China', ' JD Capital Management']",M,"supply chain, logistics, & delivery",4
+Fractal Analytics,1,2022-01-05,Mumbai,India,Asia,2000,685,"['TPG Capital', ' Apax Partners', ' TA Associates']",M,data management & analytics,22
+Freshbooks,1,2021-08-10,Toronto,Canada,North America,2004,156,"['Accomplice', ' Oak Investment Partners', ' Georgian Partners']",M,fintech,17
+FXiaoKe,1,2015-07-02,Beijing,China,Asia,2011,283,"['IDG Capital', ' Northern Light Venture Capital', ' DCM Ventures']",M,mobile & telecommunications,4
+Gauntlet Networks,1,2022-03-07,New York,United States,North America,2018,45,"['Polychain Capital', ' Paradigm', ' Ribbit Capital']",M,fintech,4
+Geek+,1,2018-11-21,Beijing,China,Asia,2015,439,"['Volcanics Ventures', ' Vertex Ventures China', ' Warburg Pincus']",M,hardware,3
+Gelato,1,2021-08-16,Oslo,Norway,Europe,2007,269,"['Greylock Partners', ' Google Ventures', ' BlackRock']",M,e-commerce & direct-to-consumer,14
+Glia,1,2022-03-21,New York,United States,North America,2012,152,"['Wildcat Capital Management', ' Insight Partners', ' Tola Capital']",M,fintech,10
+GO1,1,2021-07-19,Brisbane,Australia,Oceania,2015,284,"['Y Combinator', ' M12', ' SEEK']",M,internet software & services,6
+Groq,1,2021-04-14,Mountain View,United States,North America,2016,362,"['TDK Ventures', ' Social Capital', ' D1 Capital Partners']",M,artificial intelligence,5
+Hailo,1,2021-10-12,Tel Aviv,Israel,Asia,2017,221,"['Glory Ventures', ' Maniv Mobility']",M,artificial intelligence,4
+Haomao.AI,1,2021-12-22,Beijing,China,Asia,2019,157,"['Qualcomm Ventures', ' Nine Intelligence Capital', ' Hillhouse Capital Management']",M,artificial intelligence,2
+Hasura,1,2022-02-22,Bengaluru,India,Asia,2017,137,"['Nexus Venture Partners', ' Vertex Ventures', ' STRIVE']",M,internet software & services,5
+HAYDON,1,2021-09-24,Shanghai,China,Asia,2020,100,"['Tencent Holdings', ' Hillhouse Capital Management']",M,consumer & retail,1
+Heyday,1,2021-11-16,Chicago,United States,North America,2017,800,"['Khosla Ventures', 'General Catalyst', ' Victory Park Capital']",M,e-commerce & direct-to-consumer,4
+HMD Global,1,2018-05-21,Espoo,Finland,Europe,2016,330,['Ginko Ventures'],M,mobile & telecommunications,2
+Hotmart,1,2020-03-17,Amsterdam,Netherlands,Europe,2011,127,"['Technology Crossover Ventures', ' Alkeon Capital Management', ' General Atlantic']",M,e-commerce & direct-to-consumer,9
+Huike Group,1,2018-05-24,Beijing,China,Asia,2010,302,"['Fosun RZ Capital', ' Oceanwide Holdings', ' Shenzhen Qianhe Capital Management Co.']",M,edtech,8
+Human Interest,1,2021-08-04,San Francisco,United States,North America,2015,337,"['Wing Venture Capital', ' Slow Ventures', ' Uncork Capital']",M,fintech,6
+Ibotta,1,2019-08-06,Denver,United States,North America,2011,93,"['Koch Disruptive Technologies', ' Teamworthy Ventures', ' GGV Capital']",M,fintech,8
+iCarbonX,1,2016-04-12,Shenzhen,China,Asia,2015,200,"['Tencent', ' Vcanbio']",M,artificial intelligence,1
+iFood,1,2018-11-13,Osasco,Brazil,South America,2011,592,"['Movile', ' Just Eat', ' Naspers']",M,"supply chain, logistics, & delivery",7
+InFarm,1,2021-12-16,Berlin,Germany,Europe,2013,600,"['Atomico', ' Hanaco Venture Capital', ' TriplePoint Capital']",M,other,8
+Infobip,1,2020-07-30,Vodnjan,Croatia,Europe,2006,200,['One Equity Partners'],M,mobile & telecommunications,14
+Injective Protocol,1,2021-04-20,New York,United States,North America,2018,17,"['Pantera Capital', ' Cadenza Ventures', ' BlockTower Capital']",M,fintech,3
+Intellifusion,1,2019-03-22,Shenzhen,China,Asia,2014,173,"['BOC International', ' TopoScend Capital', ' Hongxiu VC']",M,artificial intelligence,5
+Interos,1,2021-07-22,Arlington,United States,North America,2005,135,"['Kleiner Perkins Caufield & Byers', ' NightDragon Security', ' Venrock']",M,fintech,16
+JoyTunes,1,2021-06-21,Tel Aviv,Israel,Asia,2011,92,"['Genesis Partners', ' Aleph', ' Insight Partners']",M,edtech,10
+Kitopi,1,2021-07-01,Dubai,United Arab Emirates,Asia,2018,504,"['CE-Ventures', ' BECO Capital', ' Nordstar']",M,"supply chain, logistics, & delivery",3
+KnowBox,1,2019-05-30,Beijing,China,Asia,2014,306,"['TAL Education Group', ' Legend Star', ' Alibaba Group']",M,edtech,5
+Kopi Kenangan,1,2021-12-27,Jakarta,Indonesia,Asia,2017,333,"['Horizons Ventures', ' Sequoia Capital India', ' Alpha JWC Ventures']",M,consumer & retail,4
+Lamabang,1,2015-03-06,Shenzhen,China,Asia,2011,130,"['5Y Capital', ' Matrix Partners China', ' K2VC']",M,e-commerce & direct-to-consumer,4
+LayerZero Labs,1,2022-03-30,New York,United States,North America,2021,143,"['Andreessen Horowitz', ' FTX Ventures', ' Tiger Global Management']",M,internet software & services,1
+Lessen,1,2021-11-30,Scottsdale,United States,North America,2019,205,"['Khosla Ventures', ' General Catalyst', ' Navitas Capital']",M,internet software & services,2
+LetsGetChecked,1,2021-06-07,Dublin,Ireland,Europe,2015,263,"['Optum Ventures', ' Qiming Venture Partners', ' Transformation Capital']",M,health,6
+Licious,1,2021-10-05,Bengaluru,India,Asia,2015,489,"['3one4 Capital Partners', ' Bertelsmann India Investments', ' Vertex Ventures SE Asia']",M,e-commerce & direct-to-consumer,6
+LinkDoc Technology,1,2018-07-05,Beijing,China,Asia,2014,253,"['China Investment Corporation', ' New Enterprise Associates']",M,health,4
+Locus Robotics,1,2021-02-17,Wilmington,United States,North America,2014,299,"['Scale Venture Partners', ' Bond', ' Tiger Global Management']",M,hardware,7
+Lookout,1,2013-10-10,San Francisco,United States,North America,2007,282,"['Accel Partners', ' Greylock Partners', ' Lowercase Capital']",M,cybersecurity,6
+Lydia,1,2021-12-08,Paris,France,Europe,2011,263,"['NewAlpha', ' XAnge Private Equity', ' Tencent Holdings']",M,fintech,10
+MadeiraMadeira,1,2021-01-07,Parana,Brazil,South America,2009,336,"['Flybridge Capital Partners', ' SoftBank Group', ' Monashees+']",M,e-commerce & direct-to-consumer,12
+Maimai,1,2017-11-15,Beijing,China,Asia,2013,300,"['Morningside Venture Capital', ' IDG Capital', ' DCM Ventures']",M,mobile & telecommunications,4
+Mammoth Biosciences,1,2021-09-09,Brisbane,United States,North America,2017,265,"['NFX', ' Plum Alley', ' Mayfield']",M,health,4
+Masterworks,1,2021-10-05,New York,United States,North America,2017,110,"['Left Lane Capital', ' Galaxy Interactive', ' Tru Arrow Partners']",M,fintech,4
+Maven Clinic,1,2021-08-17,New York,United States,North America,2014,202,"['Female Founders Fund', ' Oak HC/FT Partners', ' Sequoia Capital']",M,health,7
+MediaMath,1,2018-07-10,New York,United States,North America,2007,325,"['Silicon Valley Bank', ' QED Investors', ' European Founders Fund']",M,internet software & services,11
+Meero,1,2019-06-18,Paris,France,Europe,2016,293,"['Aglae Ventures', ' Global Founders Capital', ' Alven Capital']",M,artificial intelligence,3
+Mensa Brands,1,2021-11-16,Bengaluru,India,Asia,2021,218,"['Accel', ' Falcon Edge Capital', ' Norwest Venture Partners']",M,other,0
+Mia.com,1,2015-09-08,Beijing,China,Asia,2011,232,"['Sequoia Capital China', ' ZhenFund', ' K2 Ventures']",M,e-commerce & direct-to-consumer,4
+Minio,1,2022-01-26,Palo Alto,United States,North America,2014,126,"['General Catalyst', ' Nexus Venture Partners', ' Dell Technologies Capital']",M,data management & analytics,8
+Mobvoi,1,2017-04-06,Beijing,China,Asia,2012,252,"['Sequoia Capital China', ' SIG Asia Investments', ' ZhenFund']",M,consumer & retail,5
+Moka,1,2021-11-02,Beijing,China,Asia,2015,144,"['GGV Capital', ' GSR Ventures', ' FreesFund']",M,internet software & services,6
+Momenta,1,2018-10-17,Beijing,China,Asia,2016,1,"['Sinovation Ventures', ' Tencent Holdings', ' Sequoia Capital China']",B,artificial intelligence,2
+Morning Consult,1,2021-06-08,Washington DC,United States,North America,2014,91,"['Advance Venture Partners', ' Susquehanna Growth Equity', ' Lupa Systems']",M,internet software & services,7
+Movile,1,2018-07-12,Sao Paulo,Brazil,South America,1998,588,"['Innova Capital - FIP', ' 3G Capital Management', ' Prosus Ventures']",M,mobile & telecommunications,20
+Mux,1,2021-04-30,San Francisco,United States,North America,2015,174,"['Accel', ' Cobalt Capital', ' Andreessen Horowitz']",M,internet software & services,6
+Nature's Fynd,1,2021-07-19,Chicago,United States,North America,2012,463,"['Danone Manifesto Ventures', ' 1955 Capital', ' Breakthrough Energy Ventures']",M,other,9
+Newlink Group,1,2020-07-10,Beijing,China,Asia,2016,655,"['JOY Capital', ' NIO Capital', ' Blueflame Capital']",M,e-commerce & direct-to-consumer,4
+News Break,1,2021-01-07,Mountain View,United States,North America,2015,151,"['IDG Capital', ' Francisco Partners', ' ZhenFund']",M,internet software & services,6
+Newsela,1,2021-02-25,New York,United States,North America,2013,172,"['Owl Ventures', ' Technology Crossover Ventures', ' Tao Capital Partners']",M,internet software & services,8
+NIUM,1,2021-07-13,Unknown,Singapore,Asia,2014,285,"['Vertex Ventures SE Asia', ' Global Founders Capital', ' Visa Ventures']",M,fintech,7
+NoBroker,1,2021-11-23,Bengaluru,India,Asia,2014,424,"['General Atlantic', ' Elevation Capital', ' BEENEXT']",M,internet software & services,7
+Noname Security,1,2021-12-15,Palo Alto,United States,North America,2020,220,"['Insight Partners', ' Lightspeed Venture Partners', ' CyberStarts']",M,cybersecurity,1
+Numbrs,1,2019-08-22,Zurich,Switzerland,Europe,1999,105,"['Investment Corporation of Dubai', ' Centralway']",M,fintech,20
+Omada Health,1,2022-02-23,San Francisco,United States,North America,2011,449,"['U.S. Venture Partners', ' dRx Capital', ' Andreessen Horowitz']",M,health,11
+Omio,1,2018-10-23,Berlin,Germany,Europe,2013,396,"['Lakestar', ' Battery Ventures', ' New Enterprise Associates']",M,travel,5
+ONE,1,2021-12-08,Unknown,Singapore,Asia,2011,515,"['Temasek', ' Guggenheim Investments', ' Qatar Investment Authority']",M,internet software & services,10
+OpenWeb,1,2021-11-09,New York,United States,North America,2012,223,"['Insight Partners', ' AltaIR Capital', ' Norma Investments']",M,internet software & services,9
+Orbbec Technology,1,2018-05-21,Shenzhen,China,Asia,2013,200,"['R-Z Capital', ' Green Pine Capital Partners', ' SAIF Partners China']",M,hardware,5
+Orca Bio,1,2020-06-17,Menlo Park,United States,North America,2016,192,"['Lightspeed Venture Partners', ' Data Collective', ' 8VC']",M,health,4
+Orchard,1,2021-09-09,New York,United States,North America,2017,252,"['Accomplice', ' Juxtapose', ' FirstMark Capital']",M,fintech,4
+Owkin,1,2021-11-18,New York,United States,North America,2016,254,"['Google Ventures', ' Cathay Innovation', ' NJF Capital']",M,artificial intelligence,5
+PandaDoc,1,2021-09-22,San Francisco,United States,North America,2016,51,"['Rembrandt Venture Partners', ' M12', ' Altos Ventures']",M,internet software & services,5
+Pat McGrath Labs,1,2018-07-16,New York,United States,North America,2016,60,"['One Luxury Group', ' Eurazeo']",M,consumer & retail,2
+PatSnap,1,2021-03-16,Unknown,Singapore,Asia,2007,352,"['Sequoia Capital China', ' Shunwei Capital Partners', ' Qualgro']",M,internet software & services,14
+Payhawk,1,2022-02-14,London,United Kingdom,Europe,2018,239,"['Earlybird Venture Capital', ' Eleven Ventures', ' QED Investors']",M,fintech,4
+Pentera,1,2022-01-11,Petah Tikva,Israel,Asia,2015,190,"['AWZ Ventures', ' Blackstone', ' Insight Partners']",M,cybersecurity,7
+Pet Circle,1,2021-12-06,Alexandria,Australia,Oceania,2011,125,"['Prysm Capital', ' Baillie Gifford & Co.', ' TDM Growth Partners']",M,e-commerce & direct-to-consumer,10
+PicsArt,1,2021-08-26,San Francisco,United States,North America,2011,195,"['Sequoia Capital', ' DCM Ventures', ' Insight Partners']",M,mobile & telecommunications,10
+PLACE,1,2021-11-17,Bellingham,United States,North America,2020,100,"['Goldman Sachs Asset Management', ' 3L']",M,internet software & services,1
+Placer.ai,1,2022-01-12,Los Altos,United States,North America,2016,166,"['Fifth Wall Ventures', ' JBV Capital', ' Array Ventures']",M,artificial intelligence,6
+Playco,1,2020-09-21,Tokyo,Japan,Asia,2020,140,"['Sozo Ventures', ' Caffeinated Capital', ' Sequoia Capital']",M,other,0
+PPRO,1,2021-01-19,London,United Kingdom,Europe,2006,370,"['Wellington Management', ' Eurazeo', ' Citi Ventures']",M,fintech,15
+Printful,1,2021-05-24,Charlotte,United States,North America,2016,130,['Bregal Sagemount'],M,other,5
+Quantum Metric,1,2021-01-07,Colorado Springs,United States,North America,2015,226,"['Insight Partners', ' Bain Capital Ventures']",M,data management & analytics,6
+Quizlet,1,2020-05-13,San Francisco,United States,North America,2005,62,"['Union Square Ventures', ' Altos Ventures', ' Costanoa Ventures']",M,edtech,15
+RapidAPI,1,2022-03-23,San Francisco,United States,North America,2015,273,"['Green Bay Ventures', ' M12', ' Andreessen Horowitz']",M,internet software & services,7
+Razor,1,2021-11-08,Berlin,Germany,Europe,2020,167,"['Global Founders Capital', ' 468 Capital', ' Redalpine Venture Partners']",M,consumer & retail,1
+Red Ventures,1,2015-01-07,Fort Mill,United States,North America,2000,250,"['Silver Lake Partners', ' General Atlantic']",M,other,15
+REEF Technology,1,2018-12-10,Miami,United States,North America,2015,2,"['Target Global', ' UBS Asset Management', ' Mubadala Capital']",B,"supply chain, logistics, & delivery",3
+ReliaQuest,1,2021-12-01,Tampa,United States,North America,2007,330,"['KKR', ' FTV Capital', ' Ten Eleven Ventures']",M,cybersecurity,14
+Revolution Precrafted,1,2017-10-23,Manila,Philippines,Asia,2015,15,"['K2 Global', ' 500 Startups']",M,other,2
+Rothy's,1,2021-12-21,San Francisco,United States,North America,2016,484,"['Alpargatas', ' GS Growth', ' Lightspeed Venture Partners']",M,consumer & retail,5
+SaltPay,1,2021-04-09,London,United Kingdom,Europe,2019,1,"['Tiger Global Management', ' Hedosophia']",B,fintech,2
+Savage X Fenty,1,2021-02-10,El Segundo,United States,North America,2018,310,"['Speedinvest', ' Valar Ventures', ' Uniqa Ventures']",M,e-commerce & direct-to-consumer,3
+Scalapay,1,2022-02-23,Milan,Italy,Europe,2019,416,"['Fasanara Capital', ' Tiger Global Management', ' Baleen Capital']",M,fintech,3
+Scandit,1,2022-02-09,Zurich,Switzerland,Europe,2009,273,"['Atomico', ' NGP Capital', ' Google Ventures']",M,"supply chain, logistics, & delivery",13
+Sentry,1,2021-02-18,San Francisco,United States,North America,2011,127,"['New Enterprise Associates', ' Accel', ' Bond']",M,other,10
+Shield AI,1,2021-08-24,San Diego,United States,North America,2015,328,"['Andreessen Horowitz', ' Homebrew', ' Point72 Ventures']",M,artificial intelligence,6
+Shift Technology,1,2021-05-06,Paris,France,Europe,2014,545,"['Griffin Gaming Partners', ' Andreessen Horowitz', ' Battery Ventures']",M,artificial intelligence,7
+ShipBob,1,2021-06-29,Chicago,United States,North America,2014,331,"['Hyde Park Venture Partners', ' FundersClub', ' Bain Capital Ventures']",M,"supply chain, logistics, & delivery",7
+Shippo,1,2021-06-02,San Francisco,United States,North America,2013,154,"['Version One Ventures', ' Uncork Capital', ' Bessemer Venture Partners']",M,"supply chain, logistics, & delivery",8
+Sidecar Health,1,2021-01-26,El Segundo,United States,North America,2018,163,"['GreatPoint Ventures', ' Tiger Global Management', ' Menlo Ventures']",M,fintech,3
+Sift,1,2021-04-22,San Francisco,United States,North America,2011,157,"['Union Square Ventures', ' Insight Partners', ' Spark Capital']",M,artificial intelligence,10
+Skydio,1,2021-02-25,Redwood City,United States,North America,2014,340,"['Andreessen Horowitz', ' Andreessen Horowitz', ' Institutional Venture Partners', ' Accel']",M,"supply chain, logistics, & delivery",7
+Slice,1,2021-11-28,Bengaluru,India,Asia,2015,249,"['Gunosy Capital', ' Blume Ventures', ' Das Capital']",M,fintech,6
+SmartAsset,1,2021-06-24,New York,United States,North America,2012,161,"['Javelin Venture Partners', ' TTV Capital', ' Peterson Ventures']",M,fintech,9
+SMS Assist,1,2016-06-07,Chicago,United States,North America,2003,255,"['Goldman Sachs', ' Insights Venture Partners', ' Pritzker Group Venture Capital']",M,internet software & services,13
+SnapLogic,1,2021-12-13,San Mateo,United States,North America,2006,371,"['Andreessen Horowitz', ' Triangle Peak Partners', ' Ignition Partners']",M,internet software & services,15
+Snorkel AI,1,2021-08-09,Palo Alto,United States,North America,2019,135,"['Greylock Partners', ' Google Ventures', ' BlackRock']",M,artificial intelligence,2
+Solo.io,1,2021-10-07,Cambridge,United States,North America,2017,172,"['True Ventures', ' Altimeter Capital', ' Redpoint Ventures']",M,internet software & services,4
+SoundHound,1,2018-05-03,Santa Clara,United States,North America,2005,215,"['Tencent Holdings', ' Walden Venture Capital', ' Global Catalyst Partnera']",M,artificial intelligence,13
+Splashtop,1,2021-01-27,San Jose,United States,North America,2006,114,"['Storm Ventures', ' DFJ DragonFund', ' New Enterprise Associates']",M,internet software & services,15
+Standard,1,2021-02-17,San Francisco,United States,North America,2017,239,"['CRV', ' Y Combinator', ' Initialized Capital']",M,artificial intelligence,4
+Stytch,1,2021-11-18,San Francisco,United States,North America,2020,126,"['Index Ventures', ' Benchmark', ' Thrive Capital']",M,cybersecurity,1
+Swile,1,2021-10-11,Montpellier,France,Europe,2016,326,"['Index Ventures', ' IDInvest Partners', ' Daphni']",M,fintech,5
+Tarana Wireless,1,2022-03-23,Milpitas,United States,North America,2009,376,"['Prime Movers Lab', ' Khosla Ventures', ' I Squared Capital']",M,mobile & telecommunications,13
+TechStyle Fashion Group,1,2014-08-29,El Segundo,United States,North America,2010,336,"['Matrix Partners', ' Passport Capital', ' Rho Ventures']",M,e-commerce & direct-to-consumer,4
+TensTorrent,1,2021-05-05,Toronto,Canada,North America,2016,235,"['Eclipse Ventures', ' Fidelity Investments', ' Moore Capital Management']",M,artificial intelligence,5
+TERMINUS Technology,1,2018-10-25,Beijing,China,Asia,2015,623,"['China Everbright Limited', ' IDG Capital', ' iFLYTEK']",M,hardware,3
+Tezign,1,2021-11-02,Shanghai,China,Asia,2015,151,"['Sequoia Capital China', ' Linear Venture', ' Hearst Ventures']",M,internet software & services,6
+The Zebra,1,2021-04-12,Austin,United States,North America,2012,257,"['Silverton Partners', ' Accel', ' Ballast Point Ventures']",M,e-commerce & direct-to-consumer,9
+Thirty Madison,1,2021-06-02,New York,United States,North America,1993,210,"['Northzone Ventures', ' Maveron', ' Johnson & Johnson Innovation']",M,health,28
+Thought Machine,1,2021-11-29,London,United Kingdom,Europe,2014,403,"['British Patient Capital', ' SEB Venture Capital', ' IQ Capital']",M,fintech,7
+Timescale,1,2022-02-22,New York,United States,North America,2015,181,"['New Enterprise Associates', ' Benchmark', ' Two Sigma Ventures']",M,internet software & services,7
+Tractable,1,2021-06-16,London,United Kingdom,Europe,2014,120,"['Insight Partners', ' Ignition Partners', ' Georgian Partners']",M,artificial intelligence,7
+Tresata,1,2018-10-10,Charlotte,United States,North America,2011,51,['GCP Capital Partners'],M,fintech,7
+TrialSpark,1,2021-09-30,New York,United States,North America,2014,156,"['Sequoia Capital', ' Thrive Capital', ' Sound Ventures']",M,health,7
+TrueLayer,1,2021-09-21,London,United Kingdom,Europe,2016,271,"['Anthemis', ' Connect Ventures', ' Northzone Ventures']",M,fintech,5
+Unico,1,2021-08-03,Sao Paulo,Brazil,South America,2007,237,"['Big Bets', ' General Atlantic', ' SOFTBANK Latin America Ventures']",M,artificial intelligence,14
+Vagaro,1,2021-11-03,Dublin,United States,North America,2009,163,['FTV Capital'],M,internet software & services,12
+Vedantu,1,2021-09-29,Bengaluru,India,Asia,2014,292,"['Accel', ' Tiger Global Management', ' Omidyar Network']",M,edtech,7
+Veev,1,2022-02-24,San Mateo,United States,North America,2008,585,"['Zeev Ventures', ' Bond', ' Fifth Wall Ventures']",M,internet software & services,14
+Vise,1,2021-05-18,New York,United States,North America,2016,128,"['Sequoia Capital', ' Founders Fund', ' Bling Capital']",M,fintech,5
+Visier,1,2021-06-29,Vancouver,Canada,North America,2010,217,"['Foundation Capital', ' Summit Partners', ' Adams Street Partners']",M,internet software & services,11
+VOI,1,2021-12-21,Stockholm,Sweden,Europe,2018,516,"['Vostok New Ventures', ' The Raine Group', ' Balderton Capital']",M,travel,3
+Vox Media,1,2015-08-12,Washington,United States,North America,2011,308,"['Accel Partners', ' Comcast Ventures', ' General Atlantic']",M,internet software & services,4
+VTS,1,2019-05-07,New York,United States,North America,2012,187,"['Trinity Ventures', ' Fifth Wall Ventures', ' OpenView Venture Partners']",M,internet software & services,7
+Watershed,1,2022-02-08,San Francisco,United States,North America,2019,70,"['Kleiner Perkins Caufield & Byers', ' Sequoia Capital']",M,internet software & services,3
+Weights & Biases,1,2021-10-13,San Francisco,United States,North America,2017,200,"['Coatue Management', ' Insight Partners', ' Trinity Ventures']",M,internet software & services,4
+WeLab,1,2017-11-08,Unknown,Hong Kong,Asia,2013,871,"['Sequoia Capital China', ' ING', ' Alibaba Entrepreneurs Fund']",M,fintech,4
+Womai,1,2015-10-12,Beijing,China,Asia,2009,330,"['SAIF Partners China', ' Baidu', ' IDG Capital']",M,e-commerce & direct-to-consumer,6
+Wrapbook,1,2021-11-10,New York,United States,North America,2018,131,"['Equal Ventures', ' Uncork Capital', ' Andreessen Horowitz']",M,fintech,3
+Xendit,1,2021-09-14,Jakarta,Indonesia,Asia,2014,215,"['Accel', ' Y Combinator', ' Amasia']",M,fintech,7
+XForcePlus,1,2021-06-01,Shanghai,China,Asia,2015,200,"['Eastern Bell Capital', ' Danhua Capital', ' MSA Capital']",M,internet software & services,6
+YH Global,1,2017-09-21,Shenzhen,China,Asia,1997,182,"['Co-Energy Finance', ' Grandland']",M,"supply chain, logistics, & delivery",20
+YipitData,1,2021-12-06,New York,United States,North America,2008,492,"['RRE Ventures+', ' Highland Capital Partners', ' The Carlyle Group']",M,internet software & services,13
+Yunxuetang,1,2021-03-29,Suzhou,China,Asia,2011,389,"['Matrix Partners China', ' Sequoia Capital China', ' Hundreds Capital']",M,edtech,10
+Zhaogang,1,2017-06-29,Shanghai,China,Asia,2012,379,"['K2 Ventures', ' Matrix Partners China', ' IDG Capital']",M,e-commerce & direct-to-consumer,5
+Zhuan Zhuan,1,2017-04-18,Beijing,China,Asia,2015,990,"['58.com', ' Tencent Holdings']",M,e-commerce & direct-to-consumer,2
+Zihaiguo,1,2021-05-06,Chongqing,China,Asia,2018,80,"['Xingwang Investment Management', ' China Capital Investment Group', ' Matrix Partners China']",M,consumer & retail,3
+Zopa,1,2021-10-19,London,United Kingdom,Europe,2005,792,"['IAG Capital Partners', ' Augmentum Fintech', ' Northzone Ventures']",M,fintech,16
+Zwift,1,2020-09-16,Long Beach,United States,North America,2014,620,"['Novator Partners', ' True', ' Causeway Media Partners']",M,e-commerce & direct-to-consumer,6

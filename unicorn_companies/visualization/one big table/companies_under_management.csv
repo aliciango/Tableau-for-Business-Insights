@@ -1,0 +1,3715 @@
+INVESTOR,COMPANIES_AS_ARRAY
+Benchmark,"[
+  ""MODERN TREASURY"",
+  ""AIRBYTE"",
+  ""COCKROACH LABS"",
+  ""WILDLIFE STUDIOS"",
+  ""DISCORD"",
+  ""BENCHLING"",
+  ""CEREBRAS SYSTEMS"",
+  ""SORARE""
+]"
+IA Ventures,"[
+  ""VECTRA NETWORKS"",
+  ""SIGNIFYD"",
+  ""DATAROBOT"",
+  ""KOMODO HEALTH""
+]"
+Kleiner Perkins Caufield & Byers,"[
+  ""HANDSHAKE"",
+  ""PRODUCTBOARD"",
+  ""FULLSTORY"",
+  ""MODERN HEALTH"",
+  ""QUMULO"",
+  ""MOVEWORKS"",
+  ""RIPPLING"",
+  ""GUSTO"",
+  ""TOSS"",
+  ""INMOBI"",
+  ""NETLIFY""
+]"
+Malabar Investments,"[
+  ""GAMES24X7""
+]"
+Social Capital,"[
+  ""GROQ"",
+  ""NETSKOPE""
+]"
+M12,"[
+  ""PSIQUANTUM"",
+  ""INNOVACCER"",
+  ""OUTREACH"",
+  ""AQUA SECURITY"",
+  ""GO1""
+]"
+T. Rowe Price,"[
+  ""CLIO"",
+  ""CHECKR"",
+  ""ABL SPACE SYSTEMS"",
+  ""RAD POWER BIKES"",
+  ""COLOR"",
+  ""TRUMID""
+]"
+Portag3 Ventures,"[
+  ""ALAN""
+]"
+Partners Investment,"[
+  ""YANOLJA""
+]"
+Alpha Wave Global,"[
+  ""DEALSHARE""
+]"
+Banyan Capital,"[
+  ""YITU TECHNOLOGY"",
+  ""BEIBEI""
+]"
+Cambridge Innovation Capital,"[
+  ""CMR SURGICAL""
+]"
+SBI Investment,"[
+  ""KRAKEN""
+]"
+Causeway Media Partners,"[
+  ""ZWIFT""
+]"
+3L,"[
+  ""INCODE TECHNOLOGIES""
+]"
+Bertelsmann India Investments,"[
+  ""ERUDITUS EXECUTIVE EDUCATION""
+]"
+Legend Star,"[
+  ""KNOWBOX""
+]"
+Newsion Venture Capital,"[
+  ""JUANPI""
+]"
+One Equity Partners,"[
+  ""INFOBIP""
+]"
+Legend Capital,"[
+  ""GALAXYSPACE""
+]"
+A&E Television Networks,"[
+  ""VICE MEDIA""
+]"
+Capricorn Investment Group,"[
+  ""REDWOOD MATERIALS""
+]"
+Mountain Nazca,"[
+  ""KAVAK""
+]"
+Blackrock,"[
+  ""FARMERS BUSINESS NETWORK"",
+  ""UNQORK"",
+  ""SNAPDEAL""
+]"
+Battery Ventures,"[
+  ""MATILLION"",
+  ""REIFY HEALTH"",
+  ""PENDO"",
+  ""BIGPANDA"",
+  ""SHIFT TECHNOLOGY"",
+  ""OMIO"",
+  ""6SENSE"",
+  ""HIBOB"",
+  ""DATABRICKS"",
+  ""CROSS RIVER BANK"",
+  ""SISENSE"",
+  ""WORKATO"",
+  ""STOCKX"",
+  ""SERVICETITAN"",
+  ""COLLIBRA""
+]"
+Newion Partners,"[
+  ""DELIVERECT""
+]"
+Morningside Venture Capital,"[
+  ""MAIMAI"",
+  ""KEEP"",
+  ""HORIZON ROBOTICS""
+]"
+ForgeLight,"[
+  ""THE BANK OF LONDON""
+]"
+DN Capital,"[
+  ""GOSTUDENT""
+]"
+Caffeinated Capital,"[
+  ""BOOM SUPERSONIC"",
+  ""AIRTABLE"",
+  ""VIRTA HEALTH"",
+  ""AGENTSYNC"",
+  ""DIVVY HOMES"",
+  ""PLAYCO""
+]"
+Union Square Ventures,"[
+  ""QUIZLET"",
+  ""CARTA"",
+  ""DAPPER LABS"",
+  ""SIFT"",
+  ""C2FO"",
+  ""UPGRADE""
+]"
+Nortzone Ventures,"[
+  ""PERSONIO""
+]"
+Two Sigma Ventures,"[
+  ""SOCURE"",
+  ""COALITION"",
+  ""FIGMENT"",
+  ""WHOOP""
+]"
+GGV Capital,"[
+  ""ORCA SECURITY"",
+  ""DRATA"",
+  ""GRUBMARKET"",
+  ""TUJIA"",
+  ""HELLO TRANSTECH"",
+  ""PEOPLE.AI"",
+  ""KUJIALE"",
+  ""ZUOYEBANG"",
+  ""KEEP"",
+  ""XIAOHONGSHU""
+]"
+Endeavor,"[
+  ""INSIDER"",
+  ""EBANX""
+]"
+New Enterprise Associates,"[
+  ""COLLECTIVE HEALTH"",
+  ""OMIO"",
+  ""MASTERCLASS"",
+  ""INSTABASE"",
+  ""AUTOMATION ANYWHERE"",
+  ""BEYOND IDENTITY"",
+  ""KONG"",
+  ""SPLASHTOP"",
+  ""GOODLEAP"",
+  ""RADIOLOGY PARTNERS"",
+  ""MOONPAY"",
+  ""LINKDOC TECHNOLOGY"",
+  ""HOUZZ"",
+  ""SENTRY"",
+  ""PLAID"",
+  ""DATABRICKS"",
+  ""DATAROBOT"",
+  ""BRANCH REDWOOD CITY""
+]"
+GIC,"[
+  ""RIDI"",
+  ""YANOLJA""
+]"
+Moore Capital Management,"[
+  ""TENSTORRENT""
+]"
+Western Capital Management,"[
+  ""HUIMIN""
+]"
+Sapphire Ventures,"[
+  ""MOVEWORKS"",
+  ""RELTIO"",
+  ""MEDABLE"",
+  ""MATILLION""
+]"
+Greylock Partners,"[
+  ""INSTABASE"",
+  ""LOOKOUT"",
+  ""CATO NETWORKS"",
+  ""LYRA HEALTH"",
+  ""GEM"",
+  ""DISCORD"",
+  ""CODA"",
+  ""NURO""
+]"
+Wellington Management,"[
+  ""PPRO""
+]"
+UBS,"[
+  ""ICAPITAL NETWORK""
+]"
+Carlson Private Capital Partners,"[
+  ""PATTERN""
+]"
+PSG,"[
+  ""LUSHA""
+]"
+Vattenfall,"[
+  ""NORTHVOLT""
+]"
+Prosus Ventures,"[
+  ""ELASTICRUN"",
+  ""MOVILE"",
+  ""MEESHO""
+]"
+Storm Ventures,"[
+  ""SPLASHTOP"",
+  ""ALGOLIA"",
+  ""TALKDESK"",
+  ""WORKATO""
+]"
+Flybridge Capital Partners,"[
+  ""MADEIRAMADEIRA"",
+  ""CHIEF""
+]"
+Anthermis,"[
+  ""BETTERMENT""
+]"
+ACE & Company,"[
+  ""GRUBMARKET""
+]"
+Geodesic Capital,"[
+  ""THOUGHTSPOT""
+]"
+Future Perfect Ventures,"[
+  ""BLOCKSTREAM""
+]"
+YL Ventures,"[
+  ""ORCA SECURITY""
+]"
+Fabric Ventures,"[
+  ""SKY MAVIS""
+]"
+Operator Collective,"[
+  ""AGENTSYNC""
+]"
+Point Nine Capital,"[
+  ""MAMBU""
+]"
+RiverPark Ventures,"[
+  ""VIA"",
+  ""THRASIO""
+]"
+01 Advisors,"[
+  ""DENSITY"",
+  ""TIPALTI""
+]"
+SBI Investment Korea,"[
+  ""YANOLJA""
+]"
+Temasek Holdings Ltd.,"[
+  ""TONGDUN TECHNOLOGY""
+]"
+SOSV,"[
+  ""OPENTRONS"",
+  ""NOTCO""
+]"
+Eldridge,"[
+  ""ACCELERANT""
+]"
+Sway Ventures,"[
+  ""ADDEPAR""
+]"
+Flare Capital Partners,"[
+  ""SOMATUS""
+]"
+Sixth Street Growth,"[
+  ""BLOOMREACH""
+]"
+Qualgro,"[
+  ""PATSNAP""
+]"
+Hellman & Friedman,"[
+  ""POINTCLICKCARE""
+]"
+Koch Disruptive Technologies,"[
+  ""BEYOND IDENTITY""
+]"
+August Capital,"[
+  ""AVANT""
+]"
+Northern Light Venture Capital,"[
+  ""BLACK SESAME TECHNOLOGIES"",
+  ""FXIAOKE""
+]"
+Leaders Fund,"[
+  ""DRATA""
+]"
+Linear Venture,"[
+  ""HORIZON ROBOTICS"",
+  ""KUJIALE""
+]"
+Origin Ventures,"[
+  ""VEHO""
+]"
+Marchmont Ventures,"[
+  ""MOTORWAY""
+]"
+Credit Suisse,"[
+  ""C6 BANK""
+]"
+Steadview Capital,"[
+  ""DREAM11""
+]"
+Seedcamp,"[
+  ""WEFOX""
+]"
+Eleation Capital,"[
+  ""SPINNY""
+]"
+Inspired Capital,"[
+  ""CHIEF""
+]"
+NIO Capital,"[
+  ""FITURE""
+]"
+Innova Capital - FIP,"[
+  ""MOVILE""
+]"
+Tencent Investment,"[
+  ""HEYTEA""
+]"
+DataTribe,"[
+  ""DRAGOS""
+]"
+Lenovo Capital and Incubator,"[
+  ""AIBEE""
+]"
+Afore Capital,"[
+  ""MODERN HEALTH""
+]"
+Harrison Metal,"[
+  ""CIRCLECI""
+]"
+EQT Ventures,"[
+  ""NETLIFY""
+]"
+Vintage Investment Partners,"[
+  ""YOTPO"",
+  ""TRANSMIT SECURITY""
+]"
+National Grid Partners,"[
+  ""UNIPHORE""
+]"
+Das Capital,"[
+  ""SLICE""
+]"
+Alibaba Entrepreneurs Fund,"[
+  ""WELAB""
+]"
+Energy Impact Partners,"[
+  ""DRAGOS""
+]"
+Owl Ventures,"[
+  ""DEGREED"",
+  ""NEWSELA""
+]"
+Yunfeng Capital,"[
+  ""BANMA NETWORK TECHNOLOGIES""
+]"
+Kickstart Fund,"[
+  ""SONDERMIND""
+]"
+Ardian,"[
+  ""IVALUA""
+]"
+Genesis Partners,"[
+  ""SISENSE""
+]"
+Lightbox Ventures,"[
+  ""REBEL FOODS""
+]"
+TPG Growth,"[
+  ""TANIUM"",
+  ""INFINIDAT"",
+  ""CALM""
+]"
+ICONIQ Capital,"[
+  ""RELATIVITY"",
+  ""AURORA SOLAR"",
+  ""INVISION"",
+  ""COLLIBRA"",
+  ""PEOPLE.AI"",
+  ""EZCATER"",
+  ""HIGHRADIUS"",
+  ""SERVICETITAN"",
+  ""CALENDLY""
+]"
+First Round Capital,"[
+  ""VERKADA"",
+  ""FLEXPORT"",
+  ""REC ROOM""
+]"
+Y Combinator,"[
+  ""SENDBIRD"",
+  ""IRONCLAD"",
+  ""CAPTIVATEIQ"",
+  ""LATTICE"",
+  ""SNAPDOCS"",
+  ""BOOM SUPERSONIC"",
+  ""SALT SECURITY"",
+  ""SCALE AI"",
+  ""DEEL"",
+  ""CHECKR"",
+  ""GO1"",
+  ""RIPPLING"",
+  ""WHATNOT""
+]"
+Insight Venture Partners,"[
+  ""EZCATER"",
+  ""AUTOMATTIC"",
+  ""CALM"",
+  ""BLABLACAR""
+]"
+Index Ventures,"[
+  ""REC ROOM"",
+  ""MOTORWAY"",
+  ""PATREON"",
+  ""KRY"",
+  ""SPENDESK"",
+  ""UNITE US"",
+  ""CULTURE AMP"",
+  ""REMOTE"",
+  ""CAPITOLIS"",
+  ""COLLIBRA"",
+  ""KONG"",
+  ""TEKION"",
+  ""BLABLACAR"",
+  ""PERSONA"",
+  ""PRODUCTBOARD"",
+  ""LINKTREE"",
+  ""ITERABLE"",
+  ""ALAN"",
+  ""PLAID"",
+  ""DREAM GAMES"",
+  ""SCALE AI"",
+  ""STARBURST"",
+  ""WIZ""
+]"
+Hummingbird Ventures,"[
+  ""PRISTYN CARE""
+]"
+Fifth Wall Ventures,"[
+  ""VTS"",
+  ""AURORA SOLAR""
+]"
+Uniqa Ventures,"[
+  ""BITPANDA""
+]"
+Canaan Partners,"[
+  ""UPGRAD"",
+  ""CONTENTSQUARE"",
+  ""MINDTICKLE"",
+  ""PAPA""
+]"
+Questa Capital,"[
+  ""DISPATCHHEALTH""
+]"
+Tenaya Capital,"[
+  ""SALT SECURITY"",
+  ""FIREBLOCKS"",
+  ""DRUVA""
+]"
+Qatar Investment Authority,"[
+  ""STARLING BANK""
+]"
+Coinbase Ventures,"[
+  ""BITSO"",
+  ""COINDCX"",
+  ""TAXBIT"",
+  ""CONSENSYS""
+]"
+Acton Capital Partners,"[
+  ""MAMBU""
+]"
+Amplify Partners,"[
+  ""DBT LABS""
+]"
+Polychain Capital,"[
+  ""OFFCHAIN LABS"",
+  ""COINDCX"",
+  ""COINLIST""
+]"
+Mithril Capital Management,"[
+  ""C2FO"",
+  ""PAXOS""
+]"
+Horizons Ventures,"[
+  ""IMPOSSIBLE FOODS"",
+  ""EAT JUST""
+]"
+Silverton Partners,"[
+  ""THE ZEBRA""
+]"
+Dragonfly Captial,"[
+  ""MATRIXPORT""
+]"
+Lakestar,"[
+  ""1047 GAMES"",
+  ""SENNDER"",
+  ""BLOCKCHAIN.COM"",
+  ""OMIO""
+]"
+Epiq Capital,"[
+  ""PRISTYN CARE""
+]"
+Volcanics Ventures,"[
+  ""GEEK+""
+]"
+Amadeus Capital Partners,"[
+  ""CREDITAS""
+]"
+Huasheng Capital,"[
+  ""LIANJIA""
+]"
+Qiming Venture Partners,"[
+  ""WERIDE"",
+  ""MAFENGWO"",
+  ""MATRIXPORT"",
+  ""LUOJI SIWEI"",
+  ""MIAOSHOU DOCTOR"",
+  ""UNISOUND""
+]"
+The Raine Group,"[
+  ""GAMES24X7""
+]"
+Altimeter Capital,"[
+  ""CLICKHOUSE"",
+  ""MODERN TREASURY""
+]"
+and Sequoia Capital China,"[
+  ""MEDLINKER""
+]"
+QiMing Venture Partners,"[
+  ""APUS GROUP""
+]"
+Foundry Group,"[
+  ""FORMLABS"",
+  ""JUMPCLOUD"",
+  ""APPDIRECT""
+]"
+CVF Capital Partners,"[
+  ""ALEDADE""
+]"
+Data Collective,"[
+  ""ORCA BIO"",
+  ""ILLUMIO"",
+  ""ALATION"",
+  ""CARBON HEALTH""
+]"
+Maverick Capital,"[
+  ""LTK""
+]"
+500 Startups,"[
+  ""CHIPPER CASH"",
+  ""REVOLUTION PRECRAFTED"",
+  ""CARSOME""
+]"
+CSC Group,"[
+  ""BORDRIN MOTORS""
+]"
+TriplePoint Capital,"[
+  ""ENVOY""
+]"
+Geekdom Fund,"[
+  ""ZENBUSINESS""
+]"
+RRE Ventures,"[
+  ""PAXOS"",
+  ""AVANT"",
+  ""SPRING HEALTH""
+]"
+Asset Management Ventures,"[
+  ""REIFY HEALTH""
+]"
+Baidu,"[
+  ""LIANJIA"",
+  ""COOCAA"",
+  ""WOMAI"",
+  ""XINCHAO MEDIA""
+]"
+Almaz Capital Partners,"[
+  ""CLICKHOUSE""
+]"
+China Investment Corporation,"[
+  ""LINKDOC TECHNOLOGY""
+]"
+Lockheed Martin Ventures,"[
+  ""ABL SPACE SYSTEMS""
+]"
+Meituan Dianping,"[
+  ""YIJIUPI""
+]"
+Bain & Company,"[
+  ""HIVE""
+]"
+Greyhound Capital,"[
+  ""LUNAR""
+]"
+Susquehanna Growth Equity,"[
+  ""HIGHRADIUS"",
+  ""ACTIVECAMPAIGN""
+]"
+Chromo Invest,"[
+  ""LOADSMART""
+]"
+Centralway,"[
+  ""NUMBRS""
+]"
+Zheshang Venture Capital,"[
+  ""HUIMIN""
+]"
+Maverick Ventures,"[
+  ""CITYBLOCK HEALTH""
+]"
+Kaalari Capital,"[
+  ""DREAM11""
+]"
+LGT Capital Partners,"[
+  ""CMR SURGICAL""
+]"
+Passport Capital,"[
+  ""TECHSTYLE FASHION GROUP""
+]"
+SV Angel,"[
+  ""AIRBYTE""
+]"
+Javelin Venture Partners,"[
+  ""MYTHICAL GAMES"",
+  ""MASTERCLASS""
+]"
+FinSight Ventures,"[
+  ""DIANRONG""
+]"
+Kinnevik,"[
+  ""PLEO"",
+  ""TRAVELPERK""
+]"
+Artis Ventures,"[
+  ""CEREBRAL""
+]"
+Tiantu Capital Co.,"[
+  ""TONGDUN TECHNOLOGY""
+]"
+Edison Partners,"[
+  ""ESENTIRE""
+]"
+Bolt Ventures,"[
+  ""ATHLETIC GREENS""
+]"
+Burda Principal Investments,"[
+  ""VINTED""
+]"
+Blackbird Ventures,"[
+  ""CULTURE AMP"",
+  ""SAFETYCULTURE"",
+  ""CANVA""
+]"
+Nintendo,"[
+  ""NIANTIC""
+]"
+Seaya Ventures,"[
+  ""CABIFY""
+]"
+Sina Weibo,"[
+  ""BYTEDANCE""
+]"
+Picus Capital,"[
+  ""PERSONIO""
+]"
+Resolute Ventures,"[
+  ""SIGNIFYD""
+]"
+F-Prime Capital,"[
+  ""SNAPDOCS"",
+  ""DEVOTED HEALTH""
+]"
+Thrity Five Ventures,"[
+  ""DUTCHIE""
+]"
+Auriga,"[
+  ""NEXTHINK""
+]"
+Paradigm,"[
+  ""OPTIMISM"",
+  ""PHANTOM""
+]"
+Canapi Ventures,"[
+  ""ALLOY"",
+  ""GREENLIGHT""
+]"
+TTV Capital,"[
+  ""GREENLIGHT""
+]"
+Goldman Sachs Asset Management,"[
+  ""NEXTIVA""
+]"
+Madrone Capital Partners,"[
+  ""STRAVA""
+]"
+JD.com,"[
+  ""XINCHAO MEDIA""
+]"
+e.ventures,"[
+  ""STAFFBASE"",
+  ""ACORNS""
+]"
+BPI France,"[
+  ""DOCTOLIB""
+]"
+ICG,"[
+  ""WORKHUMAN""
+]"
+Schonfeld Strategic Advisors,"[
+  ""INXEPTION""
+]"
+Iris Capital,"[
+  ""EXOTEC""
+]"
+INGKA Investments,"[
+  ""LIVSPACE""
+]"
+ES Ventures,"[
+  ""OUTSYSTEMS""
+]"
+Bnk To The Future,"[
+  ""KRAKEN""
+]"
+Guangzhou Huiyin Aofeng Equity Investment Fund,"[
+  ""STAR CHARGE""
+]"
+Phoenix New Media,"[
+  ""YIDIAN ZIXUN""
+]"
+Thirty Five Ventures,"[
+  ""OPENSEA""
+]"
+Eclipse Ventures,"[
+  ""TENSTORRENT""
+]"
+Makers Fund,"[
+  ""DREAM GAMES""
+]"
+Declaration Partners,"[
+  ""CONCERTAI""
+]"
+Cercano Management,"[
+  ""RAD POWER BIKES""
+]"
+Square Peg Capital,"[
+  ""ROKT""
+]"
+Ainge Advisory,"[
+  ""PATTERN""
+]"
+Tribe Capital,"[
+  ""RELATIVITY SPACE""
+]"
+Bain Capital Tech Opportunities,"[
+  ""MIXPANEL""
+]"
+VentureLink,"[
+  ""ESENTIRE""
+]"
+Ballast Point Ventures,"[
+  ""THE ZEBRA""
+]"
+iNovia Capital,"[
+  ""APPDIRECT""
+]"
+Banner Ventures,"[
+  ""ROUTE""
+]"
+CE-Ventures,"[
+  ""KITOPI""
+]"
+Gauss Ventures,"[
+  ""ZILCH""
+]"
+SoftBank Latin America Fund,"[
+  ""MERAMA"",
+  ""OLIST""
+]"
+Brookfield Asset Management,"[
+  ""CARBON HEALTH""
+]"
+Shenzhen Capital Group,"[
+  ""KK GROUP""
+]"
+Stripe,"[
+  ""RAMP""
+]"
+SingulariTeam,"[
+  ""STOREDOT""
+]"
+FANUC,"[
+  ""PREFERRED NETWORKS""
+]"
+Taigang Venture Capital,"[
+  ""OUYEEL""
+]"
+Airbus Ventures,"[
+  ""TEKION""
+]"
+Hemisphere Ventures,"[
+  ""AXIOM SPACE""
+]"
+Lerer Hippeau,"[
+  ""ZENBUSINESS"",
+  ""BLOCKDAEMON"",
+  ""OPENTRONS""
+]"
+True Ventures,"[
+  ""HANDSHAKE""
+]"
+General Catalyst,"[
+  ""APPLIED INTUITION"",
+  ""TRANSCARENT"",
+  ""BOWERY FARMING"",
+  ""AURA"",
+  ""RAPYD"",
+  ""RO"",
+  ""HIVE"",
+  ""FUNDBOX"",
+  ""CONTENTFUL"",
+  ""ZIROOM"",
+  ""SONDERMIND"",
+  ""REMOTE"",
+  ""FIVETRAN"",
+  ""CODA"",
+  ""COINTRACKER"",
+  ""COMMURE"",
+  ""CHIEF"",
+  ""ELEMY"",
+  ""GRAMMARLY"",
+  ""SPINNY"",
+  ""COLOR"",
+  ""CIRCLE"",
+  ""VEHO""
+]"
+iFly,"[
+  ""WEEE!""
+]"
+Outrun Ventures,"[
+  ""MARSHMALLOW""
+]"
+Crosslink Capital,"[
+  ""RELTIO"",
+  ""HOMELIGHT"",
+  ""BETTERUP"",
+  ""CHIME""
+]"
+Warburg Pincus,"[
+  ""MOMO"",
+  ""AURA"",
+  ""WENHEYOU"",
+  ""RIVIGO"",
+  ""VARO BANK"",
+  ""GEEK+"",
+  ""ZIROOM""
+]"
+Aglae Ventures,"[
+  ""ANKORSTORE"",
+  ""BACK MARKET"",
+  ""MEERO""
+]"
+btov Partners,"[
+  ""VOLOCOPTER""
+]"
+Valar Ventures,"[
+  ""BITPANDA"",
+  ""STASH"",
+  ""N26"",
+  ""QONTO""
+]"
+Breega Capital,"[
+  ""EXOTEC""
+]"
+Andreessen Horowitz,"[
+  ""INSTABASE"",
+  ""LOFT"",
+  ""KOMODO HEALTH"",
+  ""FANATICS"",
+  ""MERCURY"",
+  ""PHANTOM"",
+  ""MUX"",
+  ""APEEL SCIENCES"",
+  ""DIVVY HOMES"",
+  ""FIVETRAN"",
+  ""DIALPAD"",
+  ""DATABRICKS"",
+  ""CROSS RIVER BANK"",
+  ""MIXPANEL"",
+  ""ENVOY"",
+  ""DEEL"",
+  ""DAPPER LABS"",
+  ""CLUBHOUSE"",
+  ""TANIUM"",
+  ""APPLIED INTUITION"",
+  ""EVERLAW"",
+  ""DBT LABS"",
+  ""NETLIFY"",
+  ""STARBURST"",
+  ""YUGA LABS"",
+  ""WHATNOT"",
+  ""MAGIC LEAP"",
+  ""SHIELD AI"",
+  ""SKYDIO"",
+  ""RAPPI"",
+  ""DEVOTED HEALTH"",
+  ""OPTIMISM"",
+  ""OPENSEA"",
+  ""ANCHORAGE DIGITAL"",
+  ""IMPROBABLE"",
+  ""SHIFT TECHNOLOGY""
+]"
+Tencent,"[
+  ""LIANJIA"",
+  ""ICARBONX"",
+  ""XIAOHONGSHU""
+]"
+Tencent Holdings,"[
+  ""XTALPI"",
+  ""QONTO"",
+  ""BYTON"",
+  ""VIPKID"",
+  ""KUAIKAN MANHUA"",
+  ""DISCORD"",
+  ""COOCAA"",
+  ""FLIPDISH"",
+  ""MOMENTA"",
+  ""YIJIUPI"",
+  ""YUANFUDAO"",
+  ""BYJU'S"",
+  ""LUOJI SIWEI"",
+  ""VOODOO"",
+  ""SKYDANCE MEDIA"",
+  ""DREAM11"",
+  ""MIAOSHOU DOCTOR"",
+  ""AIRWALLEX"",
+  ""ENFLAME"",
+  ""EPIC GAMES""
+]"
+Genesis Capital,"[
+  ""BEISEN""
+]"
+Bedrock Capital,"[
+  ""EPIRUS"",
+  ""WORKRISE""
+]"
+Felicis Ventures,"[
+  ""KOMODO HEALTH"",
+  ""ELEMY"",
+  ""CULTURE AMP""
+]"
+Softbank Group,"[
+  ""GOPUFF"",
+  ""DIGITAL CURRENCY GROUP"",
+  ""BYTEDANCE"",
+  ""ENPAL""
+]"
+AME Cloud Ventures,"[
+  ""BLOCKSTREAM"",
+  ""VECTRA NETWORKS""
+]"
+Samsung Ventures,"[
+  ""NOOM"",
+  ""STOREDOT""
+]"
+Bessemer Venture Partners,"[
+  ""SHIPPO"",
+  ""FIREBOLT"",
+  ""ALLOY"",
+  ""TOSS"",
+  ""PAPAYA GLOBAL"",
+  ""WILDLIFE STUDIOS"",
+  ""YOTPO"",
+  ""ZAPIER"",
+  ""DRIVENETS"",
+  ""SERVICETITAN"",
+  ""BETTERMENT"",
+  ""AXONIUS"",
+  ""PRODUCTBOARD"",
+  ""CLOUDINARY"",
+  ""HIBOB""
+]"
+Energize Ventures,"[
+  ""AURORA SOLAR""
+]"
+General Atlantic,"[
+  ""TRANSMIT SECURITY"",
+  ""JUMPCLOUD"",
+  ""ARTICULATE"",
+  ""MU SIGMA"",
+  ""NUCOM GROUP"",
+  ""GYMSHARK"",
+  ""QUINTOANDAR"",
+  ""STAFFBASE"",
+  ""MANOMANO"",
+  ""KLARNA"",
+  ""RED VENTURES"",
+  ""MAFENGWO"",
+  ""CLIP"",
+  ""SPENDESK"",
+  ""GYMPASS"",
+  ""SEISMIC"",
+  ""AUTOMATION ANYWHERE"",
+  ""HOTMART""
+]"
+Yinxinggu Capital,"[
+  ""DT DREAM""
+]"
+ICONIQ Growth,"[
+  ""RECHARGE"",
+  ""ARTICULATE""
+]"
+Moore Strategic Ventures,"[
+  ""CARS24""
+]"
+OMERS Ventures,"[
+  ""CLEARCOVER"",
+  ""HOPPER"",
+  ""WEFOX"",
+  ""DELIVERECT""
+]"
+H Capital,"[
+  ""MANNER""
+]"
+Tiger Global management,"[
+  ""GUPSHUP""
+]"
+Bond,"[
+  ""SENTRY"",
+  ""LOCUS ROBOTICS"",
+  ""RELATIVITY SPACE""
+]"
+Rho Ventures,"[
+  ""TECHSTYLE FASHION GROUP""
+]"
+GAM Holding,"[
+  ""AFINITI""
+]"
+Vertex Ventures,"[
+  ""VERBIT""
+]"
+Inspiration Ventures,"[
+  ""DAILYPAY""
+]"
+Durable Capital Partners,"[
+  ""RAPYD"",
+  ""RAD POWER BIKES"",
+  ""CAPSULE""
+]"
+FirstMark Capital,"[
+  ""INTERCOM"",
+  ""DATAIKU"",
+  ""HAPPY MONEY"",
+  ""INVISION"",
+  ""COCKROACH LABS""
+]"
+Eurazeo,"[
+  ""PAT MCGRATH LABS"",
+  ""CONTENTSQUARE"",
+  ""BACK MARKET"",
+  ""VESTIAIRE COLLECTIVE"",
+  ""PPRO""
+]"
+Spar Capital,"[
+  ""PLAID""
+]"
+K2 Ventures,"[
+  ""MIA.COM""
+]"
+Google Capital,"[
+  ""THUMBTACK""
+]"
+Tao Capital Partners,"[
+  ""APEEL SCIENCES"",
+  ""NEWSELA""
+]"
+CR Capital Mgmt,"[
+  ""TALKINGDATA""
+]"
+Chiratae Ventures,"[
+  ""LENSKART"",
+  ""GLOBALBEES"",
+  ""UNIPHORE""
+]"
+Ventura Capital,"[
+  ""ZILCH""
+]"
+Matrix Partners China,"[
+  ""LAMABANG"",
+  ""ZIHAIGUO"",
+  ""BEISEN"",
+  ""XINGYUN GROUP"",
+  ""KLOOK"",
+  ""FLASHEX"",
+  ""KK GROUP""
+]"
+Eight Roads Ventures,"[
+  ""ICERTIS"",
+  ""NEO4J"",
+  ""HIBOB"",
+  ""SPENDESK""
+]"
+Hopu Investment Management,"[
+  ""TRAX""
+]"
+Runa Capital,"[
+  ""MAMBU""
+]"
+Greycroft,"[
+  ""PUBLIC"",
+  ""PACASO"",
+  ""ICERTIS"",
+  ""ACORNS"",
+  ""FLUTTERWAVE"",
+  ""FEEDZAI"",
+  ""ZENBUSINESS""
+]"
+Rothenberg Ventures,"[
+  ""SPACEX""
+]"
+BP Ventures,"[
+  ""STOREDOT""
+]"
+IndexVentures,"[
+  ""SAFETYCULTURE""
+]"
+Workday Ventures,"[
+  ""PARADOX""
+]"
+TDK Ventures,"[
+  ""GROQ""
+]"
+Highland Capital Partners,"[
+  ""QUMULO"",
+  ""CLEARCO""
+]"
+Dragoneer Investment Group,"[
+  ""TRUMID"",
+  ""SPOTON"",
+  ""POINTCLICKCARE""
+]"
+Standard Chartered,"[
+  ""DIANRONG""
+]"
+Dell Technologies Capital,"[
+  ""VAST DATA"",
+  ""YUGABYTE""
+]"
+Broom Ventures,"[
+  ""EPIRUS""
+]"
+CJ ENM,"[
+  ""SKYDANCE MEDIA""
+]"
+Ant Group,"[
+  ""ASCEND MONEY""
+]"
+Invus Group,"[
+  ""AMOUNT""
+]"
+Sunley House Capital Management,"[
+  ""CARDEKHO""
+]"
+Balderton Capital,"[
+  ""ZEGO"",
+  ""GOCARDLESS"",
+  ""MERAMA"",
+  ""VESTIAIRE COLLECTIVE"",
+  ""CONTENTFUL""
+]"
+Carrick Capital Partners,"[
+  ""DAILYPAY""
+]"
+TDM Growth Partners,"[
+  ""ROKT""
+]"
+Polaris Partners,"[
+  ""FLOQAST"",
+  ""AUTOMATTIC""
+]"
+PayPal Ventures,"[
+  ""TAXBIT"",
+  ""PINE LABS""
+]"
+Escala Capital,"[
+  ""CMR SURGICAL""
+]"
+Activant Capital,"[
+  ""BOLTTECH""
+]"
+Co-Energy Finance,"[
+  ""YH GLOBAL""
+]"
+Trammell Ventures,"[
+  ""KRAKEN""
+]"
+Brighton Park Capital,"[
+  ""PARADOX""
+]"
+Dynamo VC,"[
+  ""STORD""
+]"
+Elaia Partners,"[
+  ""MIRAKL""
+]"
+BECO Capital,"[
+  ""KITOPI""
+]"
+Deer Park Road,"[
+  ""ACCELERANT""
+]"
+OpenView Venture Partners,"[
+  ""VTS"",
+  ""CALENDLY""
+]"
+SAIF Partners India,"[
+  ""RIVIGO""
+]"
+Kenetic Capital,"[
+  ""BLOCKDAEMON""
+]"
+FutureX Capital,"[
+  ""BLACK SESAME TECHNOLOGIES""
+]"
+Transamerica Ventures,"[
+  ""H2O.AI""
+]"
+Viking Global Investors,"[
+  ""COLOR""
+]"
+China Health Industry Investment Fund,"[
+  ""MEDLINKER""
+]"
+Scentan Ventures,"[
+  ""TRADESHIFT""
+]"
+Advent International,"[
+  ""BIGPANDA"",
+  ""TEKION"",
+  ""THRASIO"",
+  ""MERAMA""
+]"
+Trifecta Capital,"[
+  ""GLOBALBEES""
+]"
+IDInvest Partners,"[
+  ""VESTIAIRE COLLECTIVE"",
+  ""WERIDE""
+]"
+Northzone Ventures,"[
+  ""HOPIN"",
+  ""FORTO""
+]"
+Gradient Ventures,"[
+  ""MURAL""
+]"
+One Peak Partners,"[
+  ""NEO4J""
+]"
+Funa Yuanchuang Technology,"[
+  ""AIWAYS""
+]"
+Ontario Teachers' Pension Plan,"[
+  ""LENDABLE""
+]"
+BMO Capital,"[
+  ""INXEPTION""
+]"
+Grandland,"[
+  ""YH GLOBAL""
+]"
+N5 Capital,"[
+  ""TALKINGDATA""
+]"
+MSD Capital,"[
+  ""OURA""
+]"
+Altos Ventures,"[
+  ""QUIZLET""
+]"
+EQT Partners,"[
+  ""EPIDEMIC SOUND""
+]"
+Holtzbrinck Ventures,"[
+  ""SCALABLE CAPITAL""
+]"
+Prometheus Capital,"[
+  ""FLASHEX""
+]"
+Streamlined Ventures,"[
+  ""MEDABLE""
+]"
+Munich Re Ventures,"[
+  ""AT-BAY""
+]"
+Skip Capital,"[
+  ""1PASSWORD""
+]"
+Artiman Ventures,"[
+  ""APPLYBOARD""
+]"
+New Era Ventures,"[
+  ""PAPAYA GLOBAL""
+]"
+Valor Equity Partners,"[
+  ""REDWOOD MATERIALS""
+]"
+Venture51,"[
+  ""RIPPLE""
+]"
+Blue Lake Capital,"[
+  ""MEICAI""
+]"
+Alkeon Capital Management,"[
+  ""HARNESS"",
+  ""HOTMART""
+]"
+Bonfire Ventures,"[
+  ""FIGMENT""
+]"
+BDC Venture Capital,"[
+  ""TRULIOO""
+]"
+Glory Ventures,"[
+  ""HAILO""
+]"
+Huobi Ventures,"[
+  ""OPTIMISM""
+]"
+Crane Venture Partners,"[
+  ""H2O.AI""
+]"
+World Lab Innovation,"[
+  ""UNQORK""
+]"
+CMC Capital Partners,"[
+  ""KUAIKAN MANHUA""
+]"
+Redalpine Venture Partners,"[
+  ""N26""
+]"
+Spark Capital,"[
+  ""NIANTIC"",
+  ""DEEL"",
+  ""CARTA"",
+  ""SIFIVE"",
+  ""ANDELA"",
+  ""GETYOURGUIDE"",
+  ""SIFT""
+]"
+Israel Growth Partners,"[
+  ""EARNIX""
+]"
+Venrock,"[
+  ""DATAMINR"",
+  ""REBELLION DEFENSE"",
+  ""6SENSE"",
+  ""ALEDADE"",
+  ""VIRTA HEALTH"",
+  ""DAPPER LABS"",
+  ""LYRA HEALTH"",
+  ""DEVOTED HEALTH""
+]"
+CRE Venture Capital,"[
+  ""FLUTTERWAVE"",
+  ""ANDELA""
+]"
+Sofinnova Partners,"[
+  ""ODOO""
+]"
+SEB Venture Capital,"[
+  ""THOUGHT MACHINE""
+]"
+JMI Equity,"[
+  ""POINTCLICKCARE""
+]"
+Emergence Capital Partners,"[
+  ""PROJECT44"",
+  ""CLEARCO"",
+  ""ASAPP""
+]"
+KKR,"[
+  ""EPIC GAMES"",
+  ""O9 SOLUTIONS"",
+  ""IVALUA"",
+  ""OUTSYSTEMS"",
+  ""58 DAOJIA""
+]"
+Atop Capital,"[
+  ""WERIDE""
+]"
+BlueCross BlueShield Venture Partners,"[
+  ""HEARTFLOW""
+]"
+Alibaba Group,"[
+  ""SNAPDEAL"",
+  ""DT DREAM"",
+  ""58 DAOJIA"",
+  ""KNOWBOX""
+]"
+Hillhouse Capital Management,"[
+  ""CARDEKHO"",
+  ""J&T EXPRESS"",
+  ""HORIZON ROBOTICS""
+]"
+Thrive Capital,"[
+  ""YUGA LABS"",
+  ""PATREON"",
+  ""SKIMS"",
+  ""CEDAR"",
+  ""CAPSULE"",
+  ""GLOSSIER"",
+  ""LATTICE"",
+  ""BENCHLING"",
+  ""MONZO"",
+  ""CITYBLOCK HEALTH"",
+  ""RIGHTWAY"",
+  ""HARRY'S""
+]"
+Section 32,"[
+  ""DIALPAD""
+]"
+World Innovation Lab,"[
+  ""SMARTHR""
+]"
+Intel Capital,"[
+  ""ORCAM TECHNOLOGIES"",
+  ""SAMBANOVA SYSTEMS"",
+  ""VOLOCOPTER""
+]"
+Trinity Ventures,"[
+  ""OUTREACH"",
+  ""VTS"",
+  ""SIDE""
+]"
+Providence Ventures,"[
+  ""LYRA HEALTH""
+]"
+Temasek,"[
+  ""SPARKCOGNITION"",
+  ""ALAN"",
+  ""PINE LABS"",
+  ""SOLUGEN"",
+  ""HARRY'S"",
+  ""BOWERY FARMING""
+]"
+Left Lane Capital,"[
+  ""GOSTUDENT"",
+  ""WAYFLYER""
+]"
+JD Digits,"[
+  ""TALKINGDATA""
+]"
+Quona Capital,"[
+  ""CREDITAS""
+]"
+Matrix Partners,"[
+  ""CLOUDBEES"",
+  ""SIDE"",
+  ""CANVA"",
+  ""FIVETRAN"",
+  ""FLOCK SAFETY"",
+  ""TECHSTYLE FASHION GROUP""
+]"
+C5 Capital,"[
+  ""AXIOM SPACE""
+]"
+Institutional Venture Partners,"[
+  ""KLARNA"",
+  ""GLOSSIER"",
+  ""DATAMINR"",
+  ""VERIFF"",
+  ""GRAMMARLY"",
+  ""SKYDIO"",
+  ""HOPIN"",
+  ""AIVEN"",
+  ""MASTERCLASS""
+]"
+Qualcomm Ventures,"[
+  ""NOOM"",
+  ""MINDTICKLE"",
+  ""UPGRAD"",
+  ""NUVEMSHOP"",
+  ""LOGGI"",
+  ""TOSS"",
+  ""UNISOUND"",
+  ""MAGIC LEAP""
+]"
+Unilever Ventures,"[
+  ""GOUSTO""
+]"
+GSV Ventures,"[
+  ""DOMESTIKA""
+]"
+China Everbright Investment Management,"[
+  ""DT DREAM""
+]"
+Lux Capital,"[
+  ""ANCHORAGE DIGITAL"",
+  ""APPLIED INTUITION""
+]"
+Cobalt Capital,"[
+  ""MUX""
+]"
+KTB Ventures,"[
+  ""MOLOCO""
+]"
+Summerhill Venture Partners,"[
+  ""C2FO""
+]"
+Shunwei Capital Partners,"[
+  ""PATSNAP"",
+  ""STAR CHARGE"",
+  ""GALAXYSPACE"",
+  ""LALAMOVE"",
+  ""SHEIN""
+]"
+enaya Capital,"[
+  ""CLARI""
+]"
+Mizuho Financial Group,"[
+  ""PREFERRED NETWORKS""
+]"
+Soros Fund Management,"[
+  ""LUKKA""
+]"
+Hedosophia,"[
+  ""MARSHMALLOW""
+]"
+GCP Capital Partners,"[
+  ""TRESATA""
+]"
+Galeo Ventures,"[
+  ""NEXTHINK""
+]"
+Tiantu Capital,"[
+  ""GUOQUAN SHIHUI"",
+  ""JUANPI""
+]"
+ARCH Venture Partners,"[
+  ""ALEDADE""
+]"
+Mitsubishi Corporation,"[
+  ""OVO ENERGY""
+]"
+Xingwang Investment Management,"[
+  ""ZIHAIGUO""
+]"
+Tianjin Haihe Industry Fund,"[
+  ""YIDIAN ZIXUN""
+]"
+Aviv Venture Capital,"[
+  ""ORCAM TECHNOLOGIES""
+]"
+True,"[
+  ""ZWIFT""
+]"
+K2VC,"[
+  ""LAMABANG""
+]"
+Blackstone,"[
+  ""CARBON HEALTH"",
+  ""CLOUDINARY"",
+  ""EPIDEMIC SOUND"",
+  ""ICAPITAL NETWORK"",
+  ""ARTICULATE"",
+  ""XPRESSBEES""
+]"
+Inova Ventures Participacees,"[
+  ""DREAM GAMES""
+]"
+China Construction Bank,"[
+  ""4PARADIGM""
+]"
+Ribbit Capital,"[
+  ""UPGRADE"",
+  ""CROSS RIVER BANK"",
+  ""NEXT INSURANCE"",
+  ""BREX"",
+  ""REVOLUT"",
+  ""GROWW"",
+  ""DIGITAL CURRENCY GROUP""
+]"
+Otter Rock Capital,"[
+  ""CABIFY""
+]"
+Founder Collective,"[
+  ""AIRTABLE""
+]"
+North Bridge Growth Equity,"[
+  ""OUTSYSTEMS""
+]"
+Propel Venture Partners,"[
+  ""NEON""
+]"
+Sound Ventures,"[
+  ""PAPA"",
+  ""CALM"",
+  ""YUGA LABS"",
+  ""OPENSEA""
+]"
+Atomico,"[
+  ""HINGE HEALTH"",
+  ""GYMPASS"",
+  ""SMARTNEWS"",
+  ""AIVEN""
+]"
+SDIC CMC Investment Management,"[
+  ""SVOLT""
+]"
+Eniac Ventures,"[
+  ""ATTENTIVE"",
+  ""ALLOY""
+]"
+Globis Capital Partners,"[
+  ""SMARTNEWS""
+]"
+Plug and Play Ventures,"[
+  ""CLOUDWALK"",
+  ""APPLYBOARD""
+]"
+CDIB Capital,"[
+  ""L&P COSMETIC""
+]"
+Forerunner Ventures,"[
+  ""CHIME"",
+  ""AWAY"",
+  ""FAIRE"",
+  ""GLOSSIER"",
+  ""OURA""
+]"
+D1 Capita Partners,"[
+  ""MISFITS MARKET""
+]"
+Undisclosed,"[
+  ""BUNQ"",
+  ""THE BRANDTECH GROUP""
+]"
+RPM Ventures,"[
+  ""DAILYPAY""
+]"
+SF Holding Co,"[
+  ""HIVE BOX""
+]"
+Next World Capital,"[
+  ""GONG""
+]"
+Xiaomi,"[
+  ""BLACK SESAME TECHNOLOGIES""
+]"
+The Venture Collective,"[
+  ""AXIOM SPACE""
+]"
+TQ Ventures,"[
+  ""CLUBHOUSE""
+]"
+Entree Capital,"[
+  ""STASH""
+]"
+Helion Venture Partners,"[
+  ""GUPSHUP"",
+  ""LIVSPACE""
+]"
+Anthemis,"[
+  ""HAPPY MONEY""
+]"
+Osage University Partners,"[
+  ""SIFIVE""
+]"
+Avenir Growth Capital,"[
+  ""SPINNY""
+]"
+Rakuten,"[
+  ""CABIFY""
+]"
+5Y Capital,"[
+  ""GALAXYSPACE"",
+  ""XTALPI"",
+  ""LAMABANG""
+]"
+Viola Ventures,"[
+  ""LIGHTRICKS""
+]"
+Innovation Endeavors,"[
+  ""REBELLION DEFENSE""
+]"
+Affirma Capital,"[
+  ""DIANRONG""
+]"
+Ireland Strategic Investment Fund,"[
+  ""KASEYA""
+]"
+Japan Post Capital,"[
+  ""SMARTNEWS""
+]"
+Tengelmann Ventures,"[
+  ""SCALABLE CAPITAL""
+]"
+GP Capital,"[
+  ""HUIMIN""
+]"
+Mayfair Equity Partners,"[
+  ""OVO ENERGY""
+]"
+Slack Fund,"[
+  ""1PASSWORD""
+]"
+Partech Partners,"[
+  ""MANOMANO""
+]"
+Green Visor Capital,"[
+  ""FLUTTERWAVE""
+]"
+Bond Capital,"[
+  ""BROWSERSTACK""
+]"
+MaC Venture Capital,"[
+  ""PIPE""
+]"
+Light Street Capital,"[
+  ""SMARTHR""
+]"
+Sands Capital,"[
+  ""BLACKBUCK""
+]"
+Hyde Park Venture Partners,"[
+  ""G2""
+]"
+Aspect Ventures,"[
+  ""CATO NETWORKS"",
+  ""EXABEAM""
+]"
+Maverick Ventures Israel,"[
+  ""CONCERTAI""
+]"
+SAP.iO Fund,"[
+  ""BIGID""
+]"
+Blu Venture Investors,"[
+  ""ID.ME""
+]"
+Volkswagen Group,"[
+  ""NORTHVOLT""
+]"
+Geely,"[
+  ""VOLOCOPTER""
+]"
+GLP Capital Partners,"[
+  ""FLOCK FREIGHT""
+]"
+HOF Capital,"[
+  ""ASAPP""
+]"
+Rakuten Ventures,"[
+  ""CAROUSELL""
+]"
+MSA Capital,"[
+  ""XFORCEPLUS""
+]"
+Promus Ventures,"[
+  ""WHOOP""
+]"
+JD Capital Management,"[
+  ""FLASHEX""
+]"
+Delta Capital,"[
+  ""ENFLAME""
+]"
+DFJ Growth Fund,"[
+  ""ALCHEMY"",
+  ""FORMLABS""
+]"
+Capital One Growth Ventures,"[
+  ""HOPPER""
+]"
+TPG Alternative & Renewable Technologies,"[
+  ""KASEYA""
+]"
+Vcanbio,"[
+  ""ICARBONX""
+]"
+Norwest Venture Partners,"[
+  ""KARAT"",
+  ""SWIGGY"",
+  ""ELASTICRUN"",
+  ""FLOQAST"",
+  ""HONEYBOOK"",
+  ""XPRESSBEES"",
+  ""DREMIO"",
+  ""VUORI"",
+  ""EXABEAM"",
+  ""GONG"",
+  ""VAST DATA"",
+  ""ZENOTI""
+]"
+Shasta Ventures,"[
+  ""HIGHSPOT""
+]"
+Google Ventures,"[
+  ""FLOCK FREIGHT"",
+  ""COCKROACH LABS"",
+  ""COLLECTIVE HEALTH"",
+  ""DIALPAD"",
+  ""BOWERY FARMING"",
+  ""FULLSTORY"",
+  ""SAMBANOVA SYSTEMS"",
+  ""CARBON"",
+  ""GUSTO"",
+  ""SNYK"",
+  ""VERCEL"",
+  ""PODIUM"",
+  ""STOCKX"",
+  ""FARMERS BUSINESS NETWORK"",
+  ""ANDELA"",
+  ""BLOCKCHAIN.COM"",
+  ""ZIPLINE""
+]"
+Investment Corporation of Dubai,"[
+  ""INARI"",
+  ""NUMBRS""
+]"
+Deciens Capital,"[
+  ""CHIPPER CASH""
+]"
+Lightspeed Venture Capital,"[
+  ""OUTSCHOOL""
+]"
+East Ventures,"[
+  ""TRAVELOKA""
+]"
+Contour Venture Partners,"[
+  ""PENDO""
+]"
+BlackRock,"[
+  ""TRUMID"",
+  ""GRUBMARKET"",
+  ""ENPAL"",
+  ""ICAPITAL NETWORK"",
+  ""PSIQUANTUM"",
+  ""SCALABLE CAPITAL"",
+  ""LOADSMART"",
+  ""JUMPCLOUD""
+]"
+Alven Capital,"[
+  ""QONTO"",
+  ""ALGOLIA"",
+  ""ANKORSTORE"",
+  ""MEERO"",
+  ""DATAIKU""
+]"
+Salesforce Ventures,"[
+  ""TALKDESK"",
+  ""COPADO"",
+  ""HIGHSPOT"",
+  ""WEFOX"",
+  ""ALATION""
+]"
+3G Capital Management,"[
+  ""MOVILE""
+]"
+Redpoint Ventures,"[
+  ""ORCA SECURITY"",
+  ""APUS GROUP"",
+  ""CITYBLOCK HEALTH"",
+  ""DREMIO"",
+  ""IMPACT.COM"",
+  ""SOURCEGRAPH"",
+  ""WORKATO""
+]"
+Gunosy Capital,"[
+  ""SLICE""
+]"
+Korelya Capital,"[
+  ""LEDGER""
+]"
+Knox Lane,"[
+  ""PATTERN""
+]"
+Bloomberg Beta,"[
+  ""FLEXPORT"",
+  ""LAUNCHDARKLY""
+]"
+Goldman Sachs,"[
+  ""LIGHTRICKS"",
+  ""ZOCDOC"",
+  ""LENDABLE"",
+  ""NORTHVOLT"",
+  ""AUTOMATION ANYWHERE"",
+  ""VOODOO"",
+  ""SUMUP"",
+  ""INFINIDAT"",
+  ""DATAMINR"",
+  ""VAST DATA"",
+  ""KLOOK""
+]"
+Greenoaks Capital Management,"[
+  ""BREX"",
+  ""MISFITS MARKET""
+]"
+Tiger Global Management,"[
+  ""FLIPDISH"",
+  ""MOONPAY"",
+  ""INVISION"",
+  ""GAMES24X7"",
+  ""NOTCO"",
+  ""SIDECAR HEALTH"",
+  ""SEEKOUT"",
+  ""FLOCK SAFETY"",
+  ""TRADINGVIEW"",
+  ""DEALSHARE"",
+  ""FALCONX"",
+  ""MURAL"",
+  ""SAFETYCULTURE"",
+  ""LOCUS ROBOTICS"",
+  ""CHECKOUT.COM"",
+  ""OUTSCHOOL"",
+  ""VERIFF"",
+  ""KAJABI"",
+  ""RIGHTWAY"",
+  ""RAZORPAY"",
+  ""INFRA.MARKET"",
+  ""AMBER GROUP"",
+  ""GROWW"",
+  ""ROKT"",
+  ""CONTENTFUL"",
+  ""ACTIVECAMPAIGN"",
+  ""SENDBIRD"",
+  ""KARAT"",
+  ""QUALIA"",
+  ""ZENOTI"",
+  ""HARRY'S"",
+  ""INTERCOM"",
+  ""UPSTOX"",
+  ""SHEIN"",
+  ""MEICAI"",
+  ""IVALUA"",
+  ""CRED""
+]"
+Morgan Creek Digital,"[
+  ""GEMINI""
+]"
+Initialized Capital,"[
+  ""PAPA"",
+  ""FLOCK SAFETY"",
+  ""RIPPLING"",
+  ""ENVOY"",
+  ""COINTRACKER"",
+  ""RO""
+]"
+CRV,"[
+  ""PATREON"",
+  ""POSTMAN"",
+  ""GUPSHUP"",
+  ""AIRTABLE"",
+  ""AVIATRIX"",
+  ""VERCEL"",
+  ""ITERABLE"",
+  ""KONG""
+]"
+Coatue Management,"[
+  ""FIREBLOCKS"",
+  ""REBEL FOODS"",
+  ""MOONPAY"",
+  ""PERSONA"",
+  ""RAMP"",
+  ""STARBURST"",
+  ""GOSTUDENT"",
+  ""MERCURY"",
+  ""MANNER"",
+  ""GRAFANA LABS"",
+  ""YUNQUNA"",
+  ""HINGE HEALTH"",
+  ""INXEPTION"",
+  ""ALCHEMY""
+]"
+V FUND,"[
+  ""BIREN TECHNOLOGY""
+]"
+Maersk Growth,"[
+  ""LOADSMART""
+]"
+Commerce Ventures,"[
+  ""COALITION"",
+  ""FORTER"",
+  ""SOCURE""
+]"
+Cox Enterprises,"[
+  ""CLEARCOVER""
+]"
+Accelm Scania Growth Capital,"[
+  ""SENNDER""
+]"
+Tus Holdings,"[
+  ""BYTON""
+]"
+Comcast Ventures,"[
+  ""AWAY"",
+  ""HOUZZ""
+]"
+Kae Capital,"[
+  ""ZETWERK""
+]"
+Creandum,"[
+  ""KRY"",
+  ""TRADE REPUBLIC"",
+  ""PLEO"",
+  ""NEO4J""
+]"
+China Environmental Protection Industry,"[
+  ""YOUXIA MOTORS""
+]"
+Group GSR Ventures,"[
+  ""AIBEE""
+]"
+The Carlyle Group,"[
+  ""SPIBER"",
+  ""PHARMAPACKS""
+]"
+Anthos Capital,"[
+  ""APPLYBOARD"",
+  ""GOPUFF""
+]"
+Rich Land Capital,"[
+  ""JIUXIAN""
+]"
+Pear,"[
+  ""BRANCH REDWOOD CITY""
+]"
+Mayfield Fund,"[
+  ""OUTREACH"",
+  ""SMARTRECRUITERS""
+]"
+Mangrove Capital Partners,"[
+  ""THE BANK OF LONDON""
+]"
+Madrona Venture Group,"[
+  ""HIGHSPOT"",
+  ""ROUTE"",
+  ""QUMULO"",
+  ""SEEKOUT""
+]"
+Redpoint e.ventures,"[
+  ""OLIST"",
+  ""RAPPI""
+]"
+Anthem Venture Partners,"[
+  ""VIDEOAMP""
+]"
+Norma Investments,"[
+  ""OPENWEB""
+]"
+Source Code Capital,"[
+  ""YIJIUPI"",
+  ""OPAY"",
+  ""YUNQUNA""
+]"
+Gaorong Capital,"[
+  ""NURO""
+]"
+Susa Ventures,"[
+  ""STORD""
+]"
+Daphni,"[
+  ""BACK MARKET""
+]"
+Doqling Capital Partners,"[
+  ""BOLTTECH""
+]"
+Vast Ventures,"[
+  ""DIAMOND FOUNDRY""
+]"
+Wing Venture Capital,"[
+  ""GONG"",
+  ""COHESITY""
+]"
+Bregal Sagemount,"[
+  ""PRINTFUL""
+]"
+Warmsun Holding,"[
+  ""ROYOLE CORPORATION""
+]"
+Inflexion Private Equity,"[
+  ""RADIUS PAYMENT SOLUTIONS""
+]"
+Crossbeam Venture Partners,"[
+  ""SPOTTER""
+]"
+Piton Capital,"[
+  ""MANOMANO""
+]"
+Accel Partners,"[
+  ""BLABLACAR"",
+  ""LOOKOUT""
+]"
+Upfront Ventures,"[
+  ""DENSITY"",
+  ""APEEL SCIENCES""
+]"
+Uncork Capital,"[
+  ""LAUNCHDARKLY"",
+  ""SHIPPO""
+]"
+8VC,"[
+  ""ADDEPAR"",
+  ""KARAT"",
+  ""PROJECT44"",
+  ""QUALIA"",
+  ""EPIRUS"",
+  ""ORCA BIO""
+]"
+dmg ventures,"[
+  ""ZILCH""
+]"
+Honeywell,"[
+  ""NEXII""
+]"
+SEED Capital,"[
+  ""LUNAR""
+]"
+SciFi VC,"[
+  ""DIVVY HOMES""
+]"
+Shang Qi Capital,"[
+  ""BANMA NETWORK TECHNOLOGIES""
+]"
+IKEA GreenTech,"[
+  ""BIOSPLICE THERAPEUTICS""
+]"
+capitalG,"[
+  ""STRIPE"",
+  ""DATAIKU"",
+  ""DIGITAL CURRENCY GROUP"",
+  ""UNQORK"",
+  ""WEBFLOW""
+]"
+Bank Of China Group Investment,"[
+  ""SVOLT""
+]"
+Georgian Partners,"[
+  ""CLICKUP"",
+  ""TEALIUM"",
+  ""ESENTIRE""
+]"
+Lightspeed India Partners,"[
+  ""APNA"",
+  ""BYJU'S""
+]"
+WestCap Group,"[
+  ""AMOUNT"",
+  ""CEREBRAL""
+]"
+Foundation Capital,"[
+  ""CEREBRAS SYSTEMS"",
+  ""CURRENT"",
+  ""GUIDELINE""
+]"
+Ignition Partners,"[
+  ""AVIATRIX"",
+  ""ICERTIS""
+]"
+360 Capital Partners,"[
+  ""EXOTEC""
+]"
+Valor Capital Group,"[
+  ""OLIST"",
+  ""CLOUDWALK""
+]"
+British Patient Capital,"[
+  ""THOUGHT MACHINE""
+]"
+Dila Capital,"[
+  ""INCODE TECHNOLOGIES""
+]"
+Danhua Capital,"[
+  ""XFORCEPLUS""
+]"
+index Ventures,"[
+  ""REVOLUT""
+]"
+Notion Capital,"[
+  ""TRADESHIFT""
+]"
+Kite Ventures,"[
+  ""TRADESHIFT""
+]"
+BoxGroup,"[
+  ""ID.ME""
+]"
+Imaginary Ventures,"[
+  ""SKIMS""
+]"
+Charoen Pokphand Group,"[
+  ""ASCEND MONEY""
+]"
+next47,"[
+  ""VERKADA"",
+  ""PIPE""
+]"
+Ondine Capital,"[
+  ""CARSOME""
+]"
+China Grand Prosperity Investment,"[
+  ""BORDRIN MOTORS""
+]"
+Uniion Square Ventures,"[
+  ""OUTSCHOOL""
+]"
+ING,"[
+  ""WELAB""
+]"
+G Squared,"[
+  ""CAPSULE""
+]"
+Breyer Capital,"[
+  ""GRAMMARLY""
+]"
+Company K Partners,"[
+  ""RIDI""
+]"
+SAIF Partners China,"[
+  ""JUANPI"",
+  ""WOMAI""
+]"
+Nor-Cal Invest,"[
+  ""TANIUM""
+]"
+Socii Capital,"[
+  ""LUNAR""
+]"
+Investcorp,"[
+  ""XPRESSBEES""
+]"
+Flagship Pioneering,"[
+  ""INARI""
+]"
+Apollo Global Management,"[
+  ""CAIS""
+]"
+Golden Gate Ventures,"[
+  ""CAROUSELL""
+]"
+Ping An Insurance,"[
+  ""58 DAOJIA""
+]"
+HV Capital,"[
+  ""ENPAL""
+]"
+Bright Venture Capita,"[
+  ""KK GROUP""
+]"
+Advancit Capital,"[
+  ""PUBLIC""
+]"
+FAW Group,"[
+  ""BYTON""
+]"
+Insights Partners,"[
+  ""REBELLION DEFENSE""
+]"
+Opus Capital,"[
+  ""SISENSE""
+]"
+Relay Ventures,"[
+  ""GREENLIGHT""
+]"
+Crowdcube,"[
+  ""BREWDOG""
+]"
+Monashees+,"[
+  ""MADEIRAMADEIRA"",
+  ""NEON"",
+  ""LOFT"",
+  ""LOGGI""
+]"
+JTC Group,"[
+  ""STARLING BANK""
+]"
+Silver Lake Partners,"[
+  ""RED VENTURES""
+]"
+Gobi Partners,"[
+  ""CARSOME""
+]"
+RedBird Capital Partners,"[
+  ""SKYDANCE MEDIA""
+]"
+SoftBankGroup,"[
+  ""SNAPDEAL""
+]"
+New Horizon Capital,"[
+  ""BEIBEI""
+]"
+DSC Investments,"[
+  ""MOLOCO""
+]"
+SignalFire,"[
+  ""RO"",
+  ""FLOCK FREIGHT""
+]"
+Cherry Ventures,"[
+  ""FORTO""
+]"
+Beijing Juneng Hesheng Industry Investment Fund,"[
+  ""NXIN""
+]"
+Noshaq,"[
+  ""ODOO""
+]"
+BBVA,"[
+  ""NEON""
+]"
+Khosla Ventures,"[
+  ""LATTICE"",
+  ""THOUGHTSPOT"",
+  ""STRIPE"",
+  ""CODA"",
+  ""ROOFSTOCK"",
+  ""ZOCDOC"",
+  ""FAIRE"",
+  ""FUNDBOX"",
+  ""OPENAI"",
+  ""SWORD HEALTH"",
+  ""RIGHTWAY"",
+  ""EAT JUST"",
+  ""AT-BAY"",
+  ""IMPOSSIBLE FOODS"",
+  ""OPENTRONS"",
+  ""VECTRA NETWORKS""
+]"
+Founders Fund,"[
+  ""ZOCDOC"",
+  ""COLLECTIVE HEALTH"",
+  ""SWORD HEALTH"",
+  ""EAT JUST"",
+  ""MODERN HEALTH"",
+  ""STORD"",
+  ""VISE"",
+  ""SPACEX"",
+  ""TRADE REPUBLIC"",
+  ""FLEXPORT"",
+  ""DENSITY"",
+  ""WORKRISE"",
+  ""PERSONA"",
+  ""CEDAR""
+]"
+Sinovation Ventures,"[
+  ""MOMENTA"",
+  ""VIPKID""
+]"
+BOLDstart Ventures,"[
+  ""BLOCKDAEMON"",
+  ""SNYK"",
+  ""BIGID""
+]"
+Citi Ventures,"[
+  ""PPRO"",
+  ""HARNESS"",
+  ""HIGHRADIUS"",
+  ""HOPPER""
+]"
+Wonder Ventures,"[
+  ""WHATNOT""
+]"
+Echo Health Venturesl,"[
+  ""DISPATCHHEALTH""
+]"
+Target Global,"[
+  ""RAPYD"",
+  ""ZEGO""
+]"
+GSR Ventures,"[
+  ""MEDABLE"",
+  ""ADVANCE INTELLIGENCE GROUP""
+]"
+Speedinvest,"[
+  ""BITPANDA""
+]"
+Jackson Square Ventures,"[
+  ""SEISMIC"",
+  ""STRAVA""
+]"
+Silversmith Capital Partners,"[
+  ""IMPACT.COM"",
+  ""WEBFLOW"",
+  ""ACTIVECAMPAIGN""
+]"
+Sunstone Capital,"[
+  ""GETYOURGUIDE""
+]"
+Stripes Group,"[
+  ""FIREBLOCKS"",
+  ""FULLSTORY"",
+  ""ISLAND""
+]"
+CPP Investment Board,"[
+  ""BGL GROUP""
+]"
+Mundi Ventures,"[
+  ""BOLTTECH""
+]"
+American Family Ventures,"[
+  ""CLEARCOVER""
+]"
+Chicago Ventures,"[
+  ""SUNBIT"",
+  ""PROJECT44""
+]"
+Obvious Ventures,"[
+  ""MAGIC LEAP"",
+  ""VIRTA HEALTH""
+]"
+SDIC Innovation Investment Management,"[
+  ""BANMA NETWORK TECHNOLOGIES""
+]"
+Standard Crypto,"[
+  ""SKY MAVIS""
+]"
+Drive Capital,"[
+  ""SONDERMIND""
+]"
+Not Boring Capital,"[
+  ""ATHLETIC GREENS""
+]"
+Ant Financial Services Group,"[
+  ""HELLO TRANSTECH"",
+  ""MEGVII""
+]"
+Bow Wave Capital,"[
+  ""ASCEND MONEY""
+]"
+STO Express,"[
+  ""HIVE BOX""
+]"
+Walden International,"[
+  ""SAMBANOVA SYSTEMS""
+]"
+Smash Ventures,"[
+  ""EPIC GAMES""
+]"
+Bling Capital,"[
+  ""ELEMY"",
+  ""VISE""
+]"
+FJ Labs,"[
+  ""FIGMENT"",
+  ""ROUTE""
+]"
+Alta Partners,"[
+  ""DISPATCHHEALTH"",
+  ""TRANSCARENT""
+]"
+Capital Today,"[
+  ""MANNER"",
+  ""MAFENGWO""
+]"
+NextView Ventures,"[
+  ""WHOOP"",
+  ""ATTENTIVE""
+]"
+Andalusian Capital Partners,"[
+  ""MOON ACTIVE""
+]"
+Launchpad Venture Group,"[
+  ""EZCATER""
+]"
+Threshold Ventures,"[
+  ""BETTERUP"",
+  ""LAUNCHDARKLY"",
+  ""CIRCLECI"",
+  ""ZAPIER""
+]"
+Blue Cloud Ventures,"[
+  ""ITERABLE"",
+  ""PARADOX""
+]"
+Marcy Venture Partners,"[
+  ""GEMINI""
+]"
+WRVI Capital,"[
+  ""BOOM SUPERSONIC""
+]"
+The Rise Fund,"[
+  ""VARO BANK""
+]"
+ClalTech,"[
+  ""VERBIT"",
+  ""LIGHTRICKS""
+]"
+B Capital Group,"[
+  ""FALCONX""
+]"
+500 Global,"[
+  ""CAROUSELL"",
+  ""SKY MAVIS""
+]"
+Cybernaut Growth Fund,"[
+  ""ZHUBAJIE""
+]"
+Pantera Capital,"[
+  ""BITSO"",
+  ""OFFCHAIN LABS""
+]"
+SC.Holdings,"[
+  ""ATHLETIC GREENS""
+]"
+Framework Ventures,"[
+  ""INCODE TECHNOLOGIES""
+]"
+Baseline Ventures,"[
+  ""CIRCLECI""
+]"
+Homebrew,"[
+  ""CHIME"",
+  ""SHIELD AI""
+]"
+Sozo Ventures,"[
+  ""PLAYCO""
+]"
+BGF Ventures,"[
+  ""GOUSTO""
+]"
+Global Founders Capital,"[
+  ""AWAY"",
+  ""MEERO"",
+  ""PERSONIO"",
+  ""FORTO"",
+  ""FLIPDISH"",
+  ""ANKORSTORE"",
+  ""PACASO"",
+  ""FEEDZAI"",
+  ""TRAVELOKA""
+]"
+Alumni Ventures Group,"[
+  ""MYTHICAL GAMES""
+]"
+K2 Global,"[
+  ""REVOLUTION PRECRAFTED""
+]"
+Shea Ventures,"[
+  ""FEEDZAI"",
+  ""PACASO""
+]"
+Shanghai Puyin Industry,"[
+  ""AIWAYS""
+]"
+Upper90,"[
+  ""THRASIO""
+]"
+Digital Currency Group,"[
+  ""CIRCLE"",
+  ""LEDGER""
+]"
+Vertex Ventures Israel,"[
+  ""AXONIUS""
+]"
+Mithril,"[
+  ""APPDIRECT""
+]"
+Jiangsu Sha Steel Group,"[
+  ""AIWAYS""
+]"
+Redpoint Ventures China,"[
+  ""ENFLAME"",
+  ""OPAY""
+]"
+Lifeline Ventures,"[
+  ""OURA""
+]"
+Aker,"[
+  ""COGNITE""
+]"
+Fifty Years Fund,"[
+  ""SOLUGEN""
+]"
+S Capital,"[
+  ""SALT SECURITY"",
+  ""CAPITOLIS""
+]"
+Green Pine Capital Partners,"[
+  ""BIREN TECHNOLOGY""
+]"
+Toyota Motor Corporation,"[
+  ""PREFERRED NETWORKS""
+]"
+Addition,"[
+  ""ALCHEMY"",
+  ""CHAINALYSIS""
+]"
+Felix Capital,"[
+  ""MIRAKL"",
+  ""TRAVELPERK""
+]"
+China Media Group,"[
+  ""STAR CHARGE""
+]"
+General Catalyst Partners,"[
+  ""ILLUMIO"",
+  ""GUSTO""
+]"
+Meritech Capital Partners,"[
+  ""KAJABI"",
+  ""GEM""
+]"
+Kalaari Capital,"[
+  ""UPSTOX"",
+  ""ELASTICRUN""
+]"
+LeapFrog Investments,"[
+  ""ZEPZ""
+]"
+TSG Consumer Partners,"[
+  ""BREWDOG""
+]"
+Summer Capital,"[
+  ""LUKKA""
+]"
+ION Crossover Partners,"[
+  ""LUSHA""
+]"
+Microsoft ScaleUp,"[
+  ""UDAAN""
+]"
+GS Growth,"[
+  ""MOMO""
+]"
+Providence Equity Partners,"[
+  ""IMPACT.COM""
+]"
+Elevation Capital,"[
+  ""SHARECHAT"",
+  ""URBAN COMPANY""
+]"
+DFJ DragonFund,"[
+  ""SPLASHTOP""
+]"
+Goldcrest Capital,"[
+  ""SOURCEGRAPH""
+]"
+Baillie Gifford & Co.,"[
+  ""ZIPLINE""
+]"
+Griffin Gaming Partners,"[
+  ""SHIFT TECHNOLOGY""
+]"
+MenloVentures,"[
+  ""BENCHLING""
+]"
+Emerge,"[
+  ""AXONIUS""
+]"
+Google,"[
+  ""NIANTIC""
+]"
+WestBridge Capital,"[
+  ""INNOVACCER""
+]"
+GreatPoint Ventures,"[
+  ""SIDECAR HEALTH""
+]"
+Sodexo Ventures,"[
+  ""ZETA""
+]"
+Maniv Mobility,"[
+  ""HAILO""
+]"
+DJF,"[
+  ""TALKDESK""
+]"
+Smilegate Investment,"[
+  ""MOLOCO""
+]"
+HarbourVest Partners,"[
+  ""VARO BANK""
+]"
+China Fortune Ocean,"[
+  ""YOUXIA MOTORS""
+]"
+Tiger Brokers,"[
+  ""AMBER GROUP""
+]"
+Thoma Bravo,"[
+  ""GUIDELINE""
+]"
+Atinum Investment,"[
+  ""RIDI""
+]"
+Lightspeed Venture Partners,"[
+  ""EXABEAM"",
+  ""DREMIO"",
+  ""DAILY HARVEST"",
+  ""THOUGHTSPOT"",
+  ""BLOCKCHAIN.COM"",
+  ""GRAFANA LABS"",
+  ""INNOVACCER"",
+  ""CLOUDBEES"",
+  ""MOVEWORKS"",
+  ""RIPPLE"",
+  ""HANDSHAKE"",
+  ""AQUA SECURITY"",
+  ""NETSKOPE"",
+  ""PEOPLE.AI"",
+  ""BETTERUP"",
+  ""UDAAN"",
+  ""SHARECHAT"",
+  ""ROOFSTOCK"",
+  ""AT-BAY"",
+  ""OFFCHAIN LABS"",
+  ""SEISMIC"",
+  ""ORCA BIO"",
+  ""CLICKHOUSE"",
+  ""BLOOMREACH"",
+  ""YUGABYTE""
+]"
+Kraken Ventures,"[
+  ""COINTRACKER""
+]"
+Scale Venture Partners,"[
+  ""MATILLION"",
+  ""LOCUS ROBOTICS"",
+  ""BIGID"",
+  ""FORTER""
+]"
+Insight Partners,"[
+  ""CHECKOUT.COM"",
+  ""BHARATPE"",
+  ""COPADO"",
+  ""STAFFBASE"",
+  ""UNITE US"",
+  ""POSTMAN"",
+  ""HINGE HEALTH"",
+  ""ISLAND"",
+  ""WIZ"",
+  ""MOON ACTIVE"",
+  ""BROWSERSTACK"",
+  ""TRANSMIT SECURITY"",
+  ""PAPAYA GLOBAL"",
+  ""LINKTREE"",
+  ""TRADINGVIEW"",
+  ""FLOQAST"",
+  ""ONETRUST"",
+  ""SIFT"",
+  ""SOURCEGRAPH"",
+  ""TAXBIT"",
+  ""LIGHTRICKS"",
+  ""6SENSE"",
+  ""VINTED"",
+  ""SMARTRECRUITERS"",
+  ""EARNIX"",
+  ""SYSDIG"",
+  ""KASEYA"",
+  ""QUANTUM METRIC"",
+  ""MURAL"",
+  ""OPENWEB""
+]"
+Passion Capital,"[
+  ""MARSHMALLOW"",
+  ""GOCARDLESS"",
+  ""MONZO""
+]"
+Zeev Ventures,"[
+  ""TIPALTI"",
+  ""DOMESTIKA"",
+  ""NEXT INSURANCE"",
+  ""HOMELIGHT"",
+  ""SUNBIT"",
+  ""FIREBOLT""
+]"
+Silver Lake,"[
+  ""TEALIUM"",
+  ""RELATIVITY"",
+  ""NOOM""
+]"
+The Blue Venture Fund,"[
+  ""SOMATUS""
+]"
+VY Capital,"[
+  ""URBAN COMPANY"",
+  ""UPGRADE""
+]"
+Menlo Ventures,"[
+  ""EVERLAW"",
+  ""QUALIA"",
+  ""CARTA"",
+  ""SIDECAR HEALTH"",
+  ""HARNESS"",
+  ""HOMELIGHT"",
+  ""BETTERMENT"",
+  ""SIGNIFYD""
+]"
+TLV Partners,"[
+  ""FIREBOLT"",
+  ""AQUA SECURITY"",
+  ""NEXT INSURANCE""
+]"
+Sequoia Capital China,"[
+  ""BEISEN"",
+  ""XTALPI"",
+  ""AIBEE"",
+  ""MIA.COM"",
+  ""SHEIN"",
+  ""JIUXIAN"",
+  ""CHEHAODUO"",
+  ""LUOJI SIWEI"",
+  ""KLOOK"",
+  ""WELAB"",
+  ""ZIROOM"",
+  ""KUAIKAN MANHUA"",
+  ""ZUOYEBANG"",
+  ""WENHEYOU"",
+  ""J&T EXPRESS"",
+  ""HEYTEA"",
+  ""PATSNAP"",
+  ""MOBVOI"",
+  ""MOMENTA"",
+  ""FITURE"",
+  ""4PARADIGM"",
+  ""MIAOSHOU DOCTOR"",
+  ""AIRWALLEX"",
+  ""PONY.AI"",
+  ""VIPKID"",
+  ""YITU TECHNOLOGY"",
+  ""BYTEDANCE"",
+  ""CANVA"",
+  ""OPAY""
+]"
+Nexus Venture Partners,"[
+  ""INFRA.MARKET"",
+  ""UNACADEMY"",
+  ""H2O.AI"",
+  ""DRUVA"",
+  ""POSTMAN""
+]"
+Fidelity Investment,"[
+  ""STARLING BANK"",
+  ""ABL SPACE SYSTEMS""
+]"
+83North,"[
+  ""VIA"",
+  ""CELONIS"",
+  ""MIRAKL""
+]"
+Earlybird Venture Capital,"[
+  ""AIVEN"",
+  ""N26""
+]"
+Costanoa Ventures,"[
+  ""QUIZLET"",
+  ""ALATION""
+]"
+India Quotient,"[
+  ""SHARECHAT""
+]"
+Quiet Capital,"[
+  ""MODERN TREASURY""
+]"
+D1 Capital Partners,"[
+  ""RAMP"",
+  ""DRIVENETS"",
+  ""ADDEPAR"",
+  ""GROQ""
+]"
+Foxconn Technology Company,"[
+  ""MEGVII""
+]"
+Jungle Ventures,"[
+  ""MOGLIX"",
+  ""LIVSPACE""
+]"
+Expedia Inc.,"[
+  ""TRAVELOKA""
+]"
+Sequoia Capital Israel,"[
+  ""BIGPANDA"",
+  ""FORTER""
+]"
+Novator Partners,"[
+  ""ZWIFT""
+]"
+American Express Ventures,"[
+  ""SUMUP"",
+  ""MELIO"",
+  ""TRULIOO"",
+  ""FALCONX""
+]"
+TAL Education Group,"[
+  ""KNOWBOX""
+]"
+FTV Capital,"[
+  ""EBANX""
+]"
+Sequoia Capital India,"[
+  ""GROWW"",
+  ""MOBILE PREMIER LEAGUE"",
+  ""BYJU'S"",
+  ""RAZORPAY"",
+  ""MEESHO"",
+  ""CARDEKHO"",
+  ""ERUDITUS EXECUTIVE EDUCATION"",
+  ""CARS24"",
+  ""ZETWERK"",
+  ""REBEL FOODS"",
+  ""PRISTYN CARE"",
+  ""BHARATPE"",
+  ""CRED"",
+  ""PINE LABS"",
+  ""UNACADEMY"",
+  ""APNA""
+]"
+GoldenTree Asset Management,"[
+  ""COINLIST""
+]"
+Krungsri Finnovate,"[
+  ""FLASH EXPRESS""
+]"
+SoftBank Group,"[
+  ""SORARE"",
+  ""GYMPASS"",
+  ""QUINTOANDAR"",
+  ""CAMBRIDGE MOBILE TELEMATICS"",
+  ""KAVAK"",
+  ""IMPROBABLE"",
+  ""CLIP"",
+  ""NURO"",
+  ""ZETA"",
+  ""COHESITY"",
+  ""LOGGI"",
+  ""LTK"",
+  ""GLOBALBEES"",
+  ""SPOTTER"",
+  ""MADEIRAMADEIRA"",
+  ""OFBUSINESS"",
+  ""FANATICS"",
+  ""VUORI""
+]"
+Vickers Venture Partners,"[
+  ""BIOSPLICE THERAPEUTICS""
+]"
+LowercaseCapital,"[
+  ""STRIPE""
+]"
+Kaszek Ventures,"[
+  ""KONFIO"",
+  ""NOTCO"",
+  ""CREDITAS"",
+  ""NUVEMSHOP"",
+  ""QUINTOANDAR""
+]"
+Blockchain Capital,"[
+  ""ANCHORAGE DIGITAL"",
+  ""BLOCKSTREAM""
+]"
+OMERS Private Equity,"[
+  ""CLIO""
+]"
+Riverwood Capital,"[
+  ""INSIDER""
+]"
+China Internet Investment Fund,"[
+  ""UNISOUND""
+]"
+SmartFin Capital,"[
+  ""DELIVERECT""
+]"
+Davidson Kempner Capital Management,"[
+  ""GOODLEAP""
+]"
+Group11,"[
+  ""SUNBIT""
+]"
+MMC Ventures,"[
+  ""GOUSTO""
+]"
+Highland Europe,"[
+  ""NEXTHINK"",
+  ""GETYOURGUIDE"",
+  ""CONTENTSQUARE""
+]"
+BA Capital,"[
+  ""HEYTEA""
+]"
+,"[
+  ""SVOLT""
+]"
+Summit Partners,"[
+  ""PODIUM"",
+  ""RECHARGE"",
+  ""ODOO""
+]"
+Sixth Street Partners,"[
+  ""CONCERTAI""
+]"
+Franklin Templeton,"[
+  ""SPOTON"",
+  ""CAIS""
+]"
+Evolution Equity Partners,"[
+  ""BEYOND IDENTITY""
+]"
+BDT Capital Partners,"[
+  ""GOODLEAP""
+]"
+Xiang He Capital,"[
+  ""LALAMOVE"",
+  ""ZUOYEBANG""
+]"
+Blumberg Capital,"[
+  ""FUNDBOX"",
+  ""TRULIOO"",
+  ""YOTPO""
+]"
+Boyu Capital,"[
+  ""J&T EXPRESS"",
+  ""TRAX""
+]"
+March Capital Partners,"[
+  ""UNIPHORE"",
+  ""ASAPP"",
+  ""SPARKCOGNITION""
+]"
+Simon Equity Partners,"[
+  ""VIDEOAMP""
+]"
+Fidelity Investments,"[
+  ""TENSTORRENT"",
+  ""DIAMOND FOUNDRY""
+]"
+Draper Esprit,"[
+  ""LEDGER""
+]"
+Rethink Impact,"[
+  ""SPRING HEALTH""
+]"
+Pelion Venture Partners,"[
+  ""GUIDELINE""
+]"
+Doha Venture Capital,"[
+  ""SPARKCOGNITION""
+]"
+Moonshots Capital,"[
+  ""ID.ME""
+]"
+Goodwater Capital,"[
+  ""STASH"",
+  ""MOMO"",
+  ""WEEE!""
+]"
+VGames,"[
+  ""1047 GAMES""
+]"
+Alexandria Venture Investments,"[
+  ""INARI""
+]"
+Coatue Managemeny,"[
+  ""SIDE""
+]"
+Point72 Ventures,"[
+  ""SHIELD AI"",
+  ""DRIVEWEALTH""
+]"
+Group 11,"[
+  ""TIPALTI""
+]"
+SAIF Partners,"[
+  ""SWIGGY""
+]"
+Sutter Hill Ventures,"[
+  ""SIFIVE""
+]"
+Orange Digital Ventures,"[
+  ""MONZO""
+]"
+China Renaissance,"[
+  ""MEDLINKER""
+]"
+US Venture Partners,"[
+  ""HEARTFLOW""
+]"
+Hongtai Capital Holdings,"[
+  ""XINGYUN GROUP""
+]"
+Hanaco Venture Capital,"[
+  ""AMOUNT""
+]"
+RTP Global,"[
+  ""MOBILE PREMIER LEAGUE""
+]"
+Qumra Capital,"[
+  ""APPSFLYER""
+]"
+Draper Fisher Jurvetson,"[
+  ""SPACEX""
+]"
+Work-Bench,"[
+  ""SPRING HEALTH""
+]"
+Accomplice,"[
+  ""COINLIST"",
+  ""DATAROBOT""
+]"
+14W,"[
+  ""THE BANK OF LONDON""
+]"
+Tiger Global,"[
+  ""THUMBTACK"",
+  ""AVANT""
+]"
+Rembrandt Venture Partners,"[
+  ""SMARTRECRUITERS""
+]"
+MindWorks Ventures,"[
+  ""LALAMOVE""
+]"
+Beijing Shuju Xinrong Fund,"[
+  ""NXIN""
+]"
+Electric Capital,"[
+  ""CONSENSYS""
+]"
+Oak HC/FT Partners,"[
+  ""CEREBRAL"",
+  ""CLEARCO""
+]"
+Aleph,"[
+  ""MELIO"",
+  ""HONEYBOOK""
+]"
+Fontinalis Partners,"[
+  ""VEHO""
+]"
+Hillsven Capital,"[
+  ""HONEYBOOK""
+]"
+BMW i Ventures,"[
+  ""MOTORWAY""
+]"
+IDG Capital Partners,"[
+  ""ROYOLE CORPORATION"",
+  ""BEIBEI""
+]"
+China Capital Investment Group,"[
+  ""ZIHAIGUO""
+]"
+Breakthrough Energy Ventures,"[
+  ""REDWOOD MATERIALS""
+]"
+Jerusalem Venture Partners,"[
+  ""EARNIX""
+]"
+Bezos Expeditions,"[
+  ""CHIPPER CASH""
+]"
+Starr Investment Holdings,"[
+  ""RADIOLOGY PARTNERS""
+]"
+K9 Ventures,"[
+  ""EVERLAW""
+]"
+One Luxury Group,"[
+  ""PAT MCGRATH LABS""
+]"
+Refactor Capital,"[
+  ""SOLUGEN""
+]"
+Sherpalo Ventures,"[
+  ""INMOBI""
+]"
+Bain Capital Credit,"[
+  ""SUMUP""
+]"
+Longitude Capital,"[
+  ""SOMATUS""
+]"
+Mayfield,"[
+  ""SEEKOUT""
+]"
+Nordstar,"[
+  ""KITOPI""
+]"
+Go-Ventures,"[
+  ""MOBILE PREMIER LEAGUE""
+]"
+Third Point,"[
+  ""CONSENSYS""
+]"
+Wamda Capital,"[
+  ""INSIDER""
+]"
+Expa,"[
+  ""CURRENT""
+]"
+JAFCO,"[
+  ""SPIBER""
+]"
+Pritzker Group Venture Capital,"[
+  ""G2""
+]"
+Warbug Pincus,"[
+  ""YUANFUDAO""
+]"
+Wakefield Group,"[
+  ""CARBON""
+]"
+10T Fund,"[
+  ""GEMINI""
+]"
+Pokemon Company International,"[
+  ""NIANTIC""
+]"
+Tomales Bay Capital,"[
+  ""HIVE""
+]"
+Merrysunny Wealth,"[
+  ""JIUXIAN""
+]"
+Spectrum Equity,"[
+  ""KAJABI""
+]"
+Lowercase Capital,"[
+  ""LOOKOUT"",
+  ""AUTOMATTIC""
+]"
+IDG Capital,"[
+  ""WENHEYOU"",
+  ""RIPPLE"",
+  ""ZHUBAJIE"",
+  ""WOMAI"",
+  ""PONY.AI"",
+  ""FXIAOKE"",
+  ""YUANFUDAO"",
+  ""BIREN TECHNOLOGY"",
+  ""KUJIALE"",
+  ""SVOLT"",
+  ""MAIMAI""
+]"
+Russia-China Investment Fund,"[
+  ""MEGVII""
+]"
+.406 Ventures,"[
+  ""RELTIO""
+]"
+QED Investors,"[
+  ""CURRENT"",
+  ""KONFIO"",
+  ""WAYFLYER"",
+  ""LOFT"",
+  ""BITSO""
+]"
+Accel,"[
+  ""SCALE AI"",
+  ""PUBLIC"",
+  ""SENTRY"",
+  ""CAPTIVATEIQ"",
+  ""VERCEL"",
+  ""SORARE"",
+  ""TRADE REPUBLIC"",
+  ""BROWSERSTACK"",
+  ""BLACKBUCK"",
+  ""GOPUFF"",
+  ""MOGLIX"",
+  ""CHECKR"",
+  ""UPGRAD"",
+  ""PODIUM"",
+  ""ALGOLIA"",
+  ""GOCARDLESS"",
+  ""THE ZEBRA"",
+  ""MISFITS MARKET"",
+  ""SYSDIG"",
+  ""URBAN COMPANY"",
+  ""NETSKOPE"",
+  ""VERIFF"",
+  ""MIRO"",
+  ""VINTED"",
+  ""IRONCLAD"",
+  ""GEM"",
+  ""MELIO"",
+  ""MINDTICKLE"",
+  ""CELONIS"",
+  ""CHAINALYSIS"",
+  ""ZETWERK"",
+  ""DRIVEWEALTH"",
+  ""G2"",
+  ""COGNITE"",
+  ""SKYDIO"",
+  ""NUVEMSHOP"",
+  ""KRY"",
+  ""CIRCLE"",
+  ""MUX"",
+  ""SNYK"",
+  ""WEBFLOW"",
+  ""AIRBYTE"",
+  ""HOPIN"",
+  ""INFRA.MARKET"",
+  ""ZENOTI"",
+  ""DOCTOLIB"",
+  ""PAYFIT"",
+  ""1PASSWORD"",
+  ""ZEPZ""
+]"
+Bain Capital Ventures,"[
+  ""ACORNS"",
+  ""BLOOMREACH"",
+  ""RECHARGE"",
+  ""CLARI"",
+  ""QUANTUM METRIC"",
+  ""SYSDIG"",
+  ""ROOFSTOCK""
+]"
+Pitango Venture Capital,"[
+  ""DRIVENETS"",
+  ""APPSFLYER"",
+  ""FORMLABS"",
+  ""VIA""
+]"
+Bank of China,"[
+  ""4PARADIGM""
+]"
+DST Global,"[
+  ""RAPPI"",
+  ""WAYFLYER"",
+  ""CLOUDWALK"",
+  ""KAVAK"",
+  ""CHECKOUT.COM"",
+  ""STOCKX"",
+  ""SPOTON"",
+  ""UDAAN"",
+  ""MATRIXPORT"",
+  ""CRED"",
+  ""CARS24"",
+  ""BREX"",
+  ""AIRWALLEX"",
+  ""REVOLUT""
+]"
+Sequoia Capital,"[
+  ""UNITE US"",
+  ""CAPTIVATEIQ"",
+  ""CEREBRAS SYSTEMS"",
+  ""CAPITOLIS"",
+  ""ISLAND"",
+  ""SNAPDOCS"",
+  ""MU SIGMA"",
+  ""ZAPIER"",
+  ""CARBON"",
+  ""IRONCLAD"",
+  ""RAPPI"",
+  ""HOUZZ"",
+  ""ZIPLINE"",
+  ""MIXPANEL"",
+  ""REC ROOM"",
+  ""REMOTE"",
+  ""FAIRE"",
+  ""COHESITY"",
+  ""DBT LABS"",
+  ""MUSINSA"",
+  ""CLARI"",
+  ""PLAYCO"",
+  ""KLARNA"",
+  ""ATTENTIVE"",
+  ""WIZ"",
+  ""DRUVA"",
+  ""THUMBTACK"",
+  ""VERKADA"",
+  ""VISE"",
+  ""STRAVA"",
+  ""RETOOL""
+]"
+Craft Ventures,"[
+  ""CLICKUP"",
+  ""AGENTSYNC""
+]"
+Rocketship.vc,"[
+  ""APNA""
+]"
+Gron Ventures,"[
+  ""DUTCHIE""
+]"
+Technology Crossover Ventures,"[
+  ""COGNITE"",
+  ""VICE MEDIA"",
+  ""ZEPZ"",
+  ""NEWSELA"",
+  ""CLIO"",
+  ""HOTMART"",
+  ""MOLLIE"",
+  ""MIRO""
+]"
+Matrix Partners India,"[
+  ""OFBUSINESS"",
+  ""RAZORPAY"",
+  ""DEALSHARE""
+]"
+HCA Healthcare,"[
+  ""COMMURE""
+]"
+LocalGlobe,"[
+  ""ZEGO"",
+  ""TRAVELPERK""
+]"
+Bertelsmann Asia Investments,"[
+  ""FITURE"",
+  ""KEEP""
+]"
+Temasek Holdings,"[
+  ""FANATICS"",
+  ""IMPROBABLE"",
+  ""IMPOSSIBLE FOODS""
+]"
+Founders,"[
+  ""PLEO""
+]"
+DCM Ventures,"[
+  ""FXIAOKE"",
+  ""AMBER GROUP"",
+  ""PONY.AI"",
+  ""MAIMAI"",
+  ""YUNQUNA""
+]"
+Trane Technologies,"[
+  ""NEXII""
+]"
+Eastern Bell Capital,"[
+  ""XFORCEPLUS"",
+  ""XINGYUN GROUP"",
+  ""HIVE BOX""
+]"
+Casa Verde Capital,"[
+  ""DUTCHIE""
+]"
+International Finance Corporation,"[
+  ""KONFIO"",
+  ""BLACKBUCK""
+]"
+FundersClub,"[
+  ""SENDBIRD""
+]"
+eWTP Capital,"[
+  ""FLASH EXPRESS""
+]"
+Venture Highway,"[
+  ""MEESHO"",
+  ""MOGLIX""
+]"
+Verizon Ventures,"[
+  ""CLOUDBEES""
+]"
+Struck Capital,"[
+  ""MYTHICAL GAMES""
+]"
+ZhenFund,"[
+  ""XIAOHONGSHU"",
+  ""MIA.COM"",
+  ""ADVANCE INTELLIGENCE GROUP"",
+  ""MOBVOI"",
+  ""MEICAI""
+]"
+Cocnord Health Partners,"[
+  ""CEDAR""
+]"
+CMB International Capital,"[
+  ""GUOQUAN SHIHUI""
+]"
+Wavemaker Partners,"[
+  ""VIDEOAMP""
+]"
+SingTel Innov8,"[
+  ""CATO NETWORKS""
+]"
+Kima Ventures,"[
+  ""PAYFIT""
+]"
+Blume Ventures,"[
+  ""UNACADEMY"",
+  ""SLICE""
+]"
+Lead Edge Capital,"[
+  ""GRAFANA LABS""
+]"
+GX Capital,"[
+  ""CHEHAODUO""
+]"
+Liberty City Ventures,"[
+  ""PAXOS"",
+  ""LUKKA""
+]"
+SIG Asia Investments,"[
+  ""BYTEDANCE"",
+  ""MOBVOI""
+]"
+SEEK,"[
+  ""GO1""
+]"
+BEENEXT,"[
+  ""BHARATPE"",
+  ""SMARTHR""
+]"
+Route 66 Ventures,"[
+  ""DRIVEWEALTH""
+]"
+Presidio Ventures,"[
+  ""TEALIUM""
+]"
+Perpetual Investors,"[
+  ""COPADO""
+]"
+Chengwei Capital,"[
+  ""APUS GROUP""
+]"
+DC Thomson Ventures,"[
+  ""TRAX""
+]"
+Magma Venture Partners,"[
+  ""APPSFLYER""
+]"
+IQ Capital,"[
+  ""THOUGHT MACHINE""
+]"
+Iconiq Capital,"[
+  ""AGE OF LEARNING""
+]"
+Flint Capital,"[
+  ""COALITION"",
+  ""SOCURE""
+]"
+Access Industries,"[
+  ""SPOTTER""
+]"
+Playground Global,"[
+  ""RELATIVITY SPACE"",
+  ""PSIQUANTUM""
+]"
+Trifecta Capital Advisors,"[
+  ""RIVIGO""
+]"
+PremjiInvest,"[
+  ""LENSKART""
+]"
+Vertex Ventures China,"[
+  ""GEEK+""
+]"
+Falcon Edge Capital,"[
+  ""OFBUSINESS""
+]"
+Kerala Ventures,"[
+  ""DOCTOLIB""
+]"
+Softbank,"[
+  ""ERUDITUS EXECUTIVE EDUCATION"",
+  ""LENSKART""
+]"
+Accel India,"[
+  ""SWIGGY""
+]"
+frst,"[
+  ""PAYFIT""
+]"
+AltaIR Capital,"[
+  ""MIRO"",
+  ""OPENWEB""
+]"
+Version One Ventures,"[
+  ""SHIPPO""
+]"
+Kleiner Perkins Caulfield & Byers,"[
+  ""FARMERS BUSINESS NETWORK""
+]"
+Hinduja Group,"[
+  ""MINDMAZE""
+]"
+Jump Capital,"[
+  ""COINDCX"",
+  ""DEGREED"",
+  ""TRADINGVIEW"",
+  ""PHANTOM""
+]"
+Vision Knight Capital,"[
+  ""GUOQUAN SHIHUI""
+]"
+Formation 8,"[
+  ""AVIATRIX"",
+  ""ILLUMIO""
+]"
+Advantech Capital,"[
+  ""TONGDUN TECHNOLOGY""
+]"
+Vision Plus Capital,"[
+  ""XINCHAO MEDIA"",
+  ""ADVANCE INTELLIGENCE GROUP""
+]"
+FinVC,"[
+  ""PIPE""
+]"
+AirTree Ventures,"[
+  ""LINKTREE""
+]"
+CMFG Ventures,"[
+  ""HAPPY MONEY""
+]"
+XVC Venture Capital,"[
+  ""WEEE!""
+]"
+M13,"[
+  ""DAILY HARVEST""
+]"
+Lone Pine Capital,"[
+  ""DAILY HARVEST""
+]"
+Core Capital Partners,"[
+  ""PENDO""
+]"
+Oryzn Capital,"[
+  ""VERBIT""
+]"
+Benhcmark,"[
+  ""CHAINALYSIS""
+]"
+Green Innovations,"[
+  ""SWORD HEALTH""
+]"
+QiMing Venture Partnersl,"[
+  ""TUJIA""
+]"
+AllegisCyber Capital,"[
+  ""DRAGOS""
+]"
+Alta Ventures Mexico,"[
+  ""CLIP""
+]"
+Wipro Ventures,"[
+  ""YUGABYTE""
+]"
+Sierra Ventures,"[
+  ""REIFY HEALTH""
+]"
+Signal Peak Ventures,"[
+  ""DEGREED""
+]"
+SCB 10X,"[
+  ""FLASH EXPRESS""
+]"
+Galaxy Interactive,"[
+  ""1047 GAMES""
+]"
+Softbank Corp.,"[
+  ""INMOBI""
+]"
+Clocktower Technology Ventures,"[
+  ""MERCURY""
+]"
+Cowboy Ventures,"[
+  ""DRATA"",
+  ""BRANCH REDWOOD CITY""
+]"
+Motive Partners,"[
+  ""CAIS""
+]"
+Fashion Tech Lab,"[
+  ""DIAMOND FOUNDRY""
+]"
+Alliance Consumer Growth,"[
+  ""SKIMS""
+]"
+Cool Japan Fund,"[
+  ""SPIBER""
+]"
+Altamont Capital Partners,"[
+  ""ACCELERANT""
+]"
+Quantum Energy Partners,"[
+  ""WORKRISE""
+]"
+Jove Equity Partners,"[
+  ""TRANSCARENT""
+]"
